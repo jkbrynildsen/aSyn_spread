@@ -14,7 +14,7 @@ params <- list(basedir=basedir,
 
 injection.site <- params$injection.site
 
-params$opdir <- paste0('aSynDiffusion101624_Inject',paste0(params$injection.site,collapse='-'),'_CMax',params$c.max,'/')
+params$opdir <- paste0('aSynDiffusion052025_Inject',paste0(params$injection.site,collapse='-'),'_CMax',params$c.max,'/')
 dir.create(params$opdir,recursive = T)
 
 ######################################
@@ -31,15 +31,14 @@ use_python("/Users/katebrynildsen/anaconda3/envs/r-reticulate/bin/python3.12") #
 source('code/process/process_pathology.R')
 source('code/process/process_struct.R')
 
-#######################################################
-### Visualize levels of total pathology across time ###
-#######################################################
+#############################################################
+### Visualize levels of whole-brain pathology across time ###
+#############################################################
 
-source('code/path_progression/ipsi_path_progression.R') # plot total path across time for ipsi regions
-source('code/path_progression/contra_path_progression.R') # plot total path across time for contra regions
+source('github_code_revision/code/path_progression/total_percent_occupancy.R') # plot summed path across time for ipsi vs contra hemispheres and for cell body, neurite and total 
 for(measure in params$measures){
-  source('code/path_progression/plot_path_peak_tp.R') # plot pathology across time, with regions grouped according to the time at which peak pathology is reached
-  source('code/path_progression/path_peak_tp_csv.R') # generate a spreadsheet containing the peak time point associated with each region for plotting heatmaps
+  source('github_code_revision/code/path_progression/plot_path_peak_tp.R') # plot pathology across time, with regions grouped according to the time at which peak pathology is reached
+  source('github_code_revision/code/path_progression/path_peak_tp_csv.R') # generate a spreadsheet containing the peak time point associated with each region for plotting heatmaps
 }
 
 #######################
@@ -91,7 +90,7 @@ for(measure in params$measures){
 measure <- 'total_path'
 source('code/process/process_PANGEA_gene_exp.R') # process gene expression data
 source('code/genes_vulnerability/visualize_data_distributions.R') # visualize gene expression distributions before and after normalization
-source('code/genes_vulnerability/vulnerability_hemi_comparison.R') # compare model residuals across hemispheres and time points
+source('code/genes_vulnerability/vulnerability_hemi_comparison.R') # compare model residuals across hemispheres and time points=
 source('code/genes_vulnerability/genes_vulnerability_bidirectional.R') # compute correlations between gene expression and regional vulnerability
 
 ######################################################
