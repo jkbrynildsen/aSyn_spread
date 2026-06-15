@@ -4,7 +4,7 @@ Code to reproduce network analyses and pathology progression plots in Vatsa, Bry
 
 ## Requirements:
   - Tested with R version 4.4.1 (2024-06-14)
-    - Requisite packages are listed in code/packages.R
+    - Requisite packages are listed in `code/misc/packages.R`
    
 ## Data availability
 
