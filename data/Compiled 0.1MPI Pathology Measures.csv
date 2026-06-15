@@ -1,0 +1,1776 @@
+mouse,Region ID,mpi,side,parent,daughter,genotype,treatment,sex,marker,Total % Area,Inclusion % Area,Neurite % Area,Incl per mm^2
+IM330,"c(1015, 919, 211, 935, 927)",0.1,left,ACAd,"c(""ACAd5"", ""ACAd6a"", ""ACAd2/3"", ""ACAd1"", ""ACAd6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1015, 919, 211, 935, 927)",0.1,left,ACAd,"c(""ACAd5"", ""ACAd6a"", ""ACAd2/3"", ""ACAd1"", ""ACAd6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(935, 211, 927, 1015, 919)",0.1,left,ACAd,"c(""ACAd1"", ""ACAd2/3"", ""ACAd6b"", ""ACAd5"", ""ACAd6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(935, 211, 1015, 919, 927)",0.1,left,ACAd,"c(""ACAd1"", ""ACAd2/3"", ""ACAd5"", ""ACAd6a"", ""ACAd6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(588, 296, 810, 819, 772)",0.1,left,ACAv,"c(""ACAv1"", ""ACAv2/3"", ""ACAv6a"", ""ACAv6b"", ""ACAv5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(810, 588, 772, 819, 296)",0.1,left,ACAv,"c(""ACAv6a"", ""ACAv1"", ""ACAv5"", ""ACAv6b"", ""ACAv2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(296, 810, 819, 772, 588)",0.1,left,ACAv,"c(""ACAv2/3"", ""ACAv6a"", ""ACAv6b"", ""ACAv5"", ""ACAv1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(819, 810, 772, 588, 296)",0.1,left,ACAv,"c(""ACAv6b"", ""ACAv6a"", ""ACAv5"", ""ACAv1"", ""ACAv2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,56,0.1,left,ACB,ACB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,56,0.1,left,ACB,ACB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,56,0.1,left,ACB,ACB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,56,0.1,left,ACB,ACB,WT,mPFF,F,pSyn,0,0,0,0
+IM330,88,0.1,left,AHN,AHN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,88,0.1,left,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM340,88,0.1,left,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(783, 1101, 328, 996, 831)",0.1,left,AId,"c(""AId6a"", ""AId5"", ""AId2/3"", ""AId1"", ""AId6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(783, 328, 1101, 996, 831)",0.1,left,AId,"c(""AId6a"", ""AId2/3"", ""AId5"", ""AId1"", ""AId6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1101, 328, 783, 996, 831)",0.1,left,AId,"c(""AId5"", ""AId2/3"", ""AId6a"", ""AId1"", ""AId6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(328, 996, 1101, 783, 831)",0.1,left,AId,"c(""AId2/3"", ""AId1"", ""AId5"", ""AId6a"", ""AId6b"")",WT,mPFF,F,pSyn,4.70E-05,0,4.70E-05,0
+IM330,"c(163, 314, 355, 344, 120)",0.1,left,AIp,"c(""AIp2/3"", ""AIp6a"", ""AIp6b"", ""AIp5"", ""AIp1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(120, 314, 163, 344, 355)",0.1,left,AIp,"c(""AIp1"", ""AIp6a"", ""AIp2/3"", ""AIp5"", ""AIp6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(163, 314, 355, 120, 344)",0.1,left,AIp,"c(""AIp2/3"", ""AIp6a"", ""AIp6b"", ""AIp1"", ""AIp5"")",WT,mPFF,M,pSyn,0.000505939,0,0.000505939,0
+IM340,"c(314, 120, 163, 344, 355)",0.1,left,AIp,"c(""AIp6a"", ""AIp1"", ""AIp2/3"", ""AIp5"", ""AIp6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(704, 800, 694, 675)",0.1,left,AIv,"c(""AIv1"", ""AIv5"", ""AIv2/3"", ""AIv6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(694, 704, 675, 800)",0.1,left,AIv,"c(""AIv2/3"", ""AIv1"", ""AIv6a"", ""AIv5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(694, 800, 704, 675)",0.1,left,AIv,"c(""AIv2/3"", ""AIv5"", ""AIv1"", ""AIv6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(675, 694, 800, 704)",0.1,left,AIv,"c(""AIv6a"", ""AIv2/3"", ""AIv5"", ""AIv1"")",WT,mPFF,F,pSyn,0.000469777,0,0.000469777,0
+IM330,466,0.1,left,alv,alv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,466,0.1,left,alv,alv,WT,mPFF,F,pSyn,0,0,0,0
+IM337,466,0.1,left,alv,alv,WT,mPFF,M,pSyn,0,0,0,0
+IM340,466,0.1,left,alv,alv,WT,mPFF,F,pSyn,0,0,0,0
+IM330,884,0.1,left,amc,amc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,884,0.1,left,amc,amc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,884,0.1,left,amc,amc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,884,0.1,left,amc,amc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,159,0.1,left,AON,AON,WT,mPFF,M,pSyn,0,0,0,0
+IM333,159,0.1,left,AON,AON,WT,mPFF,F,pSyn,0,0,0,0
+IM337,159,0.1,left,AON,AON,WT,mPFF,M,pSyn,0,0,0,0
+IM340,159,0.1,left,AON,AON,WT,mPFF,F,pSyn,0,0,0,0
+IM333,215,0.1,left,APN,APN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,215,0.1,left,APN,APN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,215,0.1,left,APN,APN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682508,0.1,left,APr,APr,WT,mPFF,M,pSyn,7.88E-05,0,7.88E-05,0
+IM333,484682508,0.1,left,APr,APr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682508,0.1,left,APr,APr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682508,0.1,left,APr,APr,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682524,0.1,left,ar,ar,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682524,0.1,left,ar,ar,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682524,0.1,left,ar,ar,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682524,0.1,left,ar,ar,WT,mPFF,F,pSyn,0,0,0,0
+IM330,223,0.1,left,ARH,ARH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,223,0.1,left,ARH,ARH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,223,0.1,left,ARH,ARH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,223,0.1,left,ARH,ARH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,231,0.1,left,AT,AT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,231,0.1,left,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,231,0.1,left,AT,AT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,231,0.1,left,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(527, 252, 678, 243, 156, 600)",0.1,left,AUDd,"c(""AUDd1"", ""AUDd5"", ""AUDd4"", ""AUDd6b"", ""AUDd6a"", ""AUDd2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(156, 252, 243, 527, 600, 678)",0.1,left,AUDd,"c(""AUDd6a"", ""AUDd5"", ""AUDd6b"", ""AUDd1"", ""AUDd2/3"", ""AUDd4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(156, 243, 600, 252, 527, 678)",0.1,left,AUDd,"c(""AUDd6a"", ""AUDd6b"", ""AUDd2/3"", ""AUDd5"", ""AUDd1"", ""AUDd4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(678, 600, 243, 252, 156, 527)",0.1,left,AUDd,"c(""AUDd4"", ""AUDd2/3"", ""AUDd6b"", ""AUDd5"", ""AUDd6a"", ""AUDd1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,735,0.1,left,AUDp,AUDp1,WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(735, 816, 954, 251, 847, 1005)",0.1,left,AUDp,"c(""AUDp1"", ""AUDp4"", ""AUDp6a"", ""AUDp2/3"", ""AUDp5"", ""AUDp6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(954, 847, 816, 735, 1005, 251)",0.1,left,AUDp,"c(""AUDp6a"", ""AUDp5"", ""AUDp4"", ""AUDp1"", ""AUDp6b"", ""AUDp2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1005, 816, 251, 847, 954, 735)",0.1,left,AUDp,"c(""AUDp6b"", ""AUDp4"", ""AUDp2/3"", ""AUDp5"", ""AUDp6a"", ""AUDp1"")",WT,mPFF,F,pSyn,5.23E-05,0,5.23E-05,0
+IM333,"c(791, 643, 696, 249, 759, 456)",0.1,left,AUDpo,"c(""AUDpo5"", ""AUDpo2/3"", ""AUDpo1"", ""AUDpo6a"", ""AUDpo4"", ""AUDpo6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(759, 456, 791, 643, 249, 696)",0.1,left,AUDpo,"c(""AUDpo4"", ""AUDpo6b"", ""AUDpo5"", ""AUDpo2/3"", ""AUDpo6a"", ""AUDpo1"")",WT,mPFF,M,pSyn,0.000160453,0,0.000160453,0
+IM340,"c(759, 643, 249, 696, 456, 791)",0.1,left,AUDpo,"c(""AUDpo4"", ""AUDpo2/3"", ""AUDpo6a"", ""AUDpo1"", ""AUDpo6b"", ""AUDpo5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(990, 598, 959, 1023, 755, 520)",0.1,left,AUDv,"c(""AUDv4"", ""AUDv6b"", ""AUDv1"", ""AUDv5"", ""AUDv2/3"", ""AUDv6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1023, 598, 520, 755, 959, 990)",0.1,left,AUDv,"c(""AUDv5"", ""AUDv6b"", ""AUDv6a"", ""AUDv2/3"", ""AUDv1"", ""AUDv4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(959, 598, 990, 520, 755, 1023)",0.1,left,AUDv,"c(""AUDv1"", ""AUDv6b"", ""AUDv4"", ""AUDv6a"", ""AUDv2/3"", ""AUDv5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1023, 755, 990, 598, 959, 520)",0.1,left,AUDv,"c(""AUDv5"", ""AUDv2/3"", ""AUDv4"", ""AUDv6b"", ""AUDv1"", ""AUDv6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,292,0.1,left,BA,BA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,292,0.1,left,BA,BA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,482,0.1,left,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM333,482,0.1,left,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM337,482,0.1,left,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM340,482,0.1,left,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(303, 451, 311)",0.1,left,BLA,"c(""BLAa"", ""BLAv"", ""BLAp"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(303, 311, 451)",0.1,left,BLA,"c(""BLAa"", ""BLAp"", ""BLAv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(311, 303, 451)",0.1,left,BLA,"c(""BLAp"", ""BLAa"", ""BLAv"")",WT,mPFF,M,pSyn,0.000291397,0,0.000291397,0
+IM340,"c(311, 451, 303)",0.1,left,BLA,"c(""BLAp"", ""BLAv"", ""BLAa"")",WT,mPFF,F,pSyn,8.70E-06,0,8.70E-06,0
+IM330,"c(334, 327)",0.1,left,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(334, 327)",0.1,left,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(334, 327)",0.1,left,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(334, 327)",0.1,left,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,916,0.1,left,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,916,0.1,left,bsc,bsc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,916,0.1,left,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,382,0.1,left,CA1,CA1,WT,mPFF,M,pSyn,0,0,0,0
+IM333,382,0.1,left,CA1,CA1,WT,mPFF,F,pSyn,0,0,0,0
+IM337,382,0.1,left,CA1,CA1,WT,mPFF,M,pSyn,1.88E-05,0,1.88E-05,0
+IM340,382,0.1,left,CA1,CA1,WT,mPFF,F,pSyn,2.01E-05,0,2.01E-05,0
+IM330,423,0.1,left,CA2,CA2,WT,mPFF,M,pSyn,0,0,0,0
+IM333,423,0.1,left,CA2,CA2,WT,mPFF,F,pSyn,0,0,0,0
+IM337,423,0.1,left,CA2,CA2,WT,mPFF,M,pSyn,0,0,0,0
+IM340,423,0.1,left,CA2,CA2,WT,mPFF,F,pSyn,0,0,0,0
+IM330,463,0.1,left,CA3,CA3,WT,mPFF,M,pSyn,0,0,0,0
+IM333,463,0.1,left,CA3,CA3,WT,mPFF,F,pSyn,0,0,0,0
+IM337,463,0.1,left,CA3,CA3,WT,mPFF,M,pSyn,0,0,0,0
+IM340,463,0.1,left,CA3,CA3,WT,mPFF,F,pSyn,1.88E-05,0,1.88E-05,0
+IM330,512,0.1,left,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,512,0.1,left,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,512,0.1,left,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,512,0.1,left,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(986, 484682516, 964)",0.1,left,cc,"c(""ccs"", ""ccb"", ""ee"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(484682516, 964, 986, 971)",0.1,left,cc,"c(""ccb"", ""ee"", ""ccs"", ""fp"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(964, 484682516, 971, 986)",0.1,left,cc,"c(""ee"", ""ccb"", ""fp"", ""ccs"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(484682516, 971, 986, 964)",0.1,left,cc,"c(""ccb"", ""fp"", ""ccs"", ""ee"")",WT,mPFF,F,pSyn,0.001225912,0,0.001225912,0
+IM330,1108,0.1,left,ccg,ccg,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1108,0.1,left,ccg,ccg,WT,mPFF,F,pSyn,9.98E-06,0,9.98E-06,0
+IM337,1108,0.1,left,ccg,ccg,WT,mPFF,M,pSyn,0.000462011,0,0.000462011,0
+IM340,1108,0.1,left,ccg,ccg,WT,mPFF,F,pSyn,2.35E-05,0,2.35E-05,0
+IM330,"c(559, 544, 551)",0.1,left,CEA,"c(""CEAm"", ""CEAc"", ""CEAl"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(551, 559, 544)",0.1,left,CEA,"c(""CEAl"", ""CEAm"", ""CEAc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(551, 559, 544)",0.1,left,CEA,"c(""CEAl"", ""CEAm"", ""CEAc"")",WT,mPFF,M,pSyn,1.68E-05,0,1.68E-05,0
+IM340,"c(559, 544, 551)",0.1,left,CEA,"c(""CEAm"", ""CEAc"", ""CEAl"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,940,0.1,left,cing,cing,WT,mPFF,M,pSyn,0,0,0,0
+IM333,940,0.1,left,cing,cing,WT,mPFF,F,pSyn,0,0,0,0
+IM337,940,0.1,left,cing,cing,WT,mPFF,M,pSyn,0.000686678,0,0.000686678,0
+IM340,940,0.1,left,cing,cing,WT,mPFF,F,pSyn,0,0,0,0
+IM330,575,0.1,left,CL,CL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,575,0.1,left,CL,CL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,575,0.1,left,CL,CL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,575,0.1,left,CL,CL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,583,0.1,left,CLA,CLA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,583,0.1,left,CLA,CLA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,583,0.1,left,CLA,CLA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,583,0.1,left,CLA,CLA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,591,0.1,left,CLI,CLI,WT,mPFF,M,pSyn,0,0,0,0
+IM340,591,0.1,left,CLI,CLI,WT,mPFF,F,pSyn,0,0,0,0
+IM330,599,0.1,left,CM,CM,WT,mPFF,M,pSyn,0,0,0,0
+IM333,599,0.1,left,CM,CM,WT,mPFF,F,pSyn,0,0,0,0
+IM337,599,0.1,left,CM,CM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,599,0.1,left,CM,CM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,639,0.1,left,COA,COAa,WT,mPFF,M,pSyn,0,0,0,0
+IM333,639,0.1,left,COA,COAa,WT,mPFF,F,pSyn,0,0,0,0
+IM337,639,0.1,left,COA,COAa,WT,mPFF,M,pSyn,7.31E-05,0,7.31E-05,0
+IM340,639,0.1,left,COA,COAa,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(663, 655)",0.1,left,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(663, 655)",0.1,left,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(655, 663)",0.1,left,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(655, 663)",0.1,left,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,672,0.1,left,CP,CP,WT,mPFF,M,pSyn,5.18E-06,0,5.18E-06,0
+IM333,672,0.1,left,CP,CP,WT,mPFF,F,pSyn,0,0,0,0
+IM337,672,0.1,left,CP,CP,WT,mPFF,M,pSyn,5.83E-05,0,5.83E-05,0
+IM340,672,0.1,left,CP,CP,WT,mPFF,F,pSyn,5.96E-06,0,5.96E-06,0
+IM333,924,0.1,left,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM337,924,0.1,left,cpd,cpd,WT,mPFF,M,pSyn,0,0,0,0
+IM340,924,0.1,left,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM330,679,0.1,left,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM333,679,0.1,left,CS,CS,WT,mPFF,F,pSyn,0,0,0,0
+IM337,679,0.1,left,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM340,679,0.1,left,CS,CS,WT,mPFF,F,pSyn,0,0,0,0
+IM330,784,0.1,left,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM333,784,0.1,left,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM337,784,0.1,left,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM340,784,0.1,left,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM330,703,0.1,left,CTXsp,CTXsp,WT,mPFF,M,pSyn,0,0,0,0
+IM333,703,0.1,left,CTXsp,CTXsp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,703,0.1,left,CTXsp,CTXsp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,703,0.1,left,CTXsp,CTXsp,WT,mPFF,F,pSyn,0,0,0,0
+IM330,616,0.1,left,CUN,CUN,WT,mPFF,M,pSyn,0,0,0,0
+IM330,"c(10704, 10703, 632)",0.1,left,DG,"c(""DG-po"", ""DG-mo"", ""DG-sg"")",WT,mPFF,M,pSyn,0.001281257,0,0.001281257,0
+IM333,"c(10704, 632, 10703)",0.1,left,DG,"c(""DG-po"", ""DG-sg"", ""DG-mo"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(10703, 10704, 632)",0.1,left,DG,"c(""DG-mo"", ""DG-po"", ""DG-sg"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(10703, 632, 10704)",0.1,left,DG,"c(""DG-mo"", ""DG-sg"", ""DG-po"")",WT,mPFF,F,pSyn,2.76E-05,0,2.76E-05,0
+IM330,443,0.1,left,dhc,dhc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,443,0.1,left,dhc,dhc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,443,0.1,left,dhc,dhc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,443,0.1,left,dhc,dhc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,830,0.1,left,DMH,DMH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,830,0.1,left,DMH,DMH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,830,0.1,left,DMH,DMH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,830,0.1,left,DMH,DMH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,814,0.1,left,DP,DP,WT,mPFF,M,pSyn,0,0,0,0
+IM333,814,0.1,left,DP,DP,WT,mPFF,F,pSyn,0,0,0,0
+IM337,814,0.1,left,DP,DP,WT,mPFF,M,pSyn,0,0,0,0
+IM340,814,0.1,left,DP,DP,WT,mPFF,F,pSyn,0,0,0,0
+IM330,872,0.1,left,DR,DR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,872,0.1,left,DR,DR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,872,0.1,left,DR,DR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,872,0.1,left,DR,DR,WT,mPFF,F,pSyn,0,0,0,0
+IM333,812,0.1,left,dscp,dscp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,812,0.1,left,dscp,dscp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,812,0.1,left,dscp,dscp,WT,mPFF,F,pSyn,0,0,0,0
+IM330,579,0.1,left,ec,ec,WT,mPFF,M,pSyn,0,0,0,0
+IM333,579,0.1,left,ec,ec,WT,mPFF,F,pSyn,0,0,0,0
+IM337,579,0.1,left,ec,ec,WT,mPFF,M,pSyn,0.000167121,0,0.000167121,0
+IM340,579,0.1,left,ec,ec,WT,mPFF,F,pSyn,0.002431583,0,0.002431583,0
+IM330,"c(836, 427, 977, 988, 1045)",0.1,left,ECT,"c(""ECT1"", ""ECT2/3"", ""ECT6a"", ""ECT5"", ""ECT6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1045, 836, 988, 427, 977)",0.1,left,ECT,"c(""ECT6b"", ""ECT1"", ""ECT5"", ""ECT2/3"", ""ECT6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(427, 836, 1045, 988, 977)",0.1,left,ECT,"c(""ECT2/3"", ""ECT1"", ""ECT6b"", ""ECT5"", ""ECT6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(988, 427, 836, 1045, 977)",0.1,left,ECT,"c(""ECT5"", ""ECT2/3"", ""ECT1"", ""ECT6b"", ""ECT6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,1092,0.1,left,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1092,0.1,left,em,em,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1092,0.1,left,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1092,0.1,left,em,em,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(20, 1121, 28, 52, 139)",0.1,left,ENTl,"c(""ENTl2"", ""ENTl1"", ""ENTl6a"", ""ENTl3"", ""ENTl5"")",WT,mPFF,M,pSyn,1.06E-05,0,1.06E-05,0
+IM333,"c(1121, 28, 20, 52, 139)",0.1,left,ENTl,"c(""ENTl1"", ""ENTl6a"", ""ENTl2"", ""ENTl3"", ""ENTl5"")",WT,mPFF,F,pSyn,9.46E-05,0,9.46E-05,0
+IM337,"c(1121, 139, 20, 28, 52)",0.1,left,ENTl,"c(""ENTl1"", ""ENTl5"", ""ENTl2"", ""ENTl6a"", ""ENTl3"")",WT,mPFF,M,pSyn,3.00E-06,0,3.00E-06,0
+IM340,"c(20, 139, 28, 52, 1121)",0.1,left,ENTl,"c(""ENTl2"", ""ENTl5"", ""ENTl6a"", ""ENTl3"", ""ENTl1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(543, 526, 743, 664, 727)",0.1,left,ENTm,"c(""ENTm2"", ""ENTm1"", ""ENTm6"", ""ENTm3"", ""ENTm5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(526, 543, 664, 743, 727)",0.1,left,ENTm,"c(""ENTm1"", ""ENTm2"", ""ENTm3"", ""ENTm6"", ""ENTm5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(727, 664, 743, 543, 526)",0.1,left,ENTm,"c(""ENTm5"", ""ENTm3"", ""ENTm6"", ""ENTm2"", ""ENTm1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(727, 743, 664, 543, 526)",0.1,left,ENTm,"c(""ENTm5"", ""ENTm6"", ""ENTm3"", ""ENTm2"", ""ENTm1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(966, 952)",0.1,left,EP,"c(""EPv"", ""EPd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(952, 966)",0.1,left,EP,"c(""EPd"", ""EPv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(952, 966)",0.1,left,EP,"c(""EPd"", ""EPv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(952, 966)",0.1,left,EP,"c(""EPd"", ""EPv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,560581551,0.1,left,Eth,Eth,WT,mPFF,M,pSyn,0,0,0,0
+IM333,560581551,0.1,left,Eth,Eth,WT,mPFF,F,pSyn,0,0,0,0
+IM337,560581551,0.1,left,Eth,Eth,WT,mPFF,M,pSyn,0,0,0,0
+IM340,560581551,0.1,left,Eth,Eth,WT,mPFF,F,pSyn,0,0,0,0
+IM333,975,0.1,left,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM337,975,0.1,left,EW,EW,WT,mPFF,M,pSyn,0,0,0,0
+IM340,975,0.1,left,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM330,982,0.1,left,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM333,982,0.1,left,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM337,982,0.1,left,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM340,982,0.1,left,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM340,804,0.1,left,FF,FF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,603,0.1,left,fi,fi,WT,mPFF,M,pSyn,0,0,0,0
+IM333,603,0.1,left,fi,fi,WT,mPFF,F,pSyn,0,0,0,0
+IM337,603,0.1,left,fi,fi,WT,mPFF,M,pSyn,0,0,0,0
+IM340,603,0.1,left,fi,fi,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1009,0.1,left,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1009,0.1,left,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1009,0.1,left,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,0.000115237,0,0.000115237,0
+IM340,1009,0.1,left,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0.001128009,0,0.001128009,0
+IM330,595,0.1,left,fr,fr,WT,mPFF,M,pSyn,0,0,0,0
+IM333,595,0.1,left,fr,fr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,595,0.1,left,fr,fr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,595,0.1,left,fr,fr,WT,mPFF,F,pSyn,0,0,0,0
+IM330,526157196,0.1,left,FRP,FRP6a,WT,mPFF,M,pSyn,0,0,0,0
+IM333,526157196,0.1,left,FRP,FRP6a,WT,mPFF,F,pSyn,0,0,0,0
+IM337,526157196,0.1,left,FRP,FRP6a,WT,mPFF,M,pSyn,0,0,0,0
+IM340,526157196,0.1,left,FRP,FRP6a,WT,mPFF,F,pSyn,0,0,0,0
+IM330,436,0.1,left,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM333,436,0.1,left,fx,fx,WT,mPFF,F,pSyn,0,0,0,0
+IM337,436,0.1,left,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM340,436,0.1,left,fx,fx,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(638, 36, 662, 180, 148, 187)",0.1,left,GU,"c(""GU6a"", ""GU1"", ""GU6b"", ""GU2/3"", ""GU4"", ""GU5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(187, 36, 662, 148, 638, 180)",0.1,left,GU,"c(""GU5"", ""GU1"", ""GU6b"", ""GU4"", ""GU6a"", ""GU2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(187, 36, 148, 638, 180, 662)",0.1,left,GU,"c(""GU5"", ""GU1"", ""GU4"", ""GU6a"", ""GU2/3"", ""GU6b"")",WT,mPFF,M,pSyn,0.000136661,0,0.000136661,0
+IM340,"c(148, 36, 180, 638, 662, 187)",0.1,left,GU,"c(""GU4"", ""GU1"", ""GU2/3"", ""GU6a"", ""GU6b"", ""GU5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,589508447,0.1,left,HATA,HATA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,589508447,0.1,left,HATA,HATA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,589508447,0.1,left,HATA,HATA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,611,0.1,left,hbc,hbc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,611,0.1,left,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,611,0.1,left,hbc,hbc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,611,0.1,left,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1089,0.1,left,HPF,HPF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1089,0.1,left,HPF,HPF,WT,mPFF,F,pSyn,4.02E-05,0,4.02E-05,0
+IM337,1089,0.1,left,HPF,HPF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1089,0.1,left,HPF,HPF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1097,0.1,left,HY,HY,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1097,0.1,left,HY,HY,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1097,0.1,left,HY,HY,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1097,0.1,left,HY,HY,WT,mPFF,F,pSyn,3.22E-05,0,3.22E-05,0
+IM330,1105,0.1,left,IA,IA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1105,0.1,left,IA,IA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1105,0.1,left,IA,IA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1105,0.1,left,IA,IA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(820, 828)",0.1,left,IC,"c(""ICd"", ""ICe"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,828,0.1,left,IC,ICe,WT,mPFF,F,pSyn,0,0,0,0
+IM337,828,0.1,left,IC,ICe,WT,mPFF,M,pSyn,0,0,0,0
+IM340,828,0.1,left,IC,ICe,WT,mPFF,F,pSyn,0,0,0,0
+IM333,12,0.1,left,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM337,12,0.1,left,IF,IF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,12,0.1,left,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,19,0.1,left,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,19,0.1,left,IG,IG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,19,0.1,left,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,19,0.1,left,IG,IG,WT,mPFF,F,pSyn,0,0,0,0
+IM333,27,0.1,left,IGL,IGL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,27,0.1,left,IGL,IGL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,27,0.1,left,IGL,IGL,WT,mPFF,F,pSyn,0,0,0,0
+IM340,35,0.1,left,III,III,WT,mPFF,F,pSyn,0,0,0,0
+IM337,848,0.1,left,IIn,IIn,WT,mPFF,M,pSyn,0,0,0,0
+IM340,848,0.1,left,IIn,IIn,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1054, 827, 556, 707)",0.1,left,ILA,"c(""ILA6a"", ""ILA5"", ""ILA2/3"", ""ILA1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1054, 707, 827, 556)",0.1,left,ILA,"c(""ILA6a"", ""ILA1"", ""ILA5"", ""ILA2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(827, 556, 707)",0.1,left,ILA,"c(""ILA5"", ""ILA2/3"", ""ILA1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1054, 707, 556, 827)",0.1,left,ILA,"c(""ILA6a"", ""ILA1"", ""ILA2/3"", ""ILA5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,59,0.1,left,IMD,IMD,WT,mPFF,M,pSyn,0,0,0,0
+IM333,59,0.1,left,IMD,IMD,WT,mPFF,F,pSyn,0,0,0,0
+IM337,59,0.1,left,IMD,IMD,WT,mPFF,M,pSyn,0,0,0,0
+IM340,59,0.1,left,IMD,IMD,WT,mPFF,F,pSyn,0,0,0,0
+IM330,900,0.1,left,In,aco,WT,mPFF,M,pSyn,0,0,0,0
+IM333,900,0.1,left,In,aco,WT,mPFF,F,pSyn,0,0,0,0
+IM337,900,0.1,left,In,aco,WT,mPFF,M,pSyn,0,0,0,0
+IM340,900,0.1,left,In,aco,WT,mPFF,F,pSyn,0,0,0,0
+IM333,67,0.1,left,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM337,67,0.1,left,INC,INC,WT,mPFF,M,pSyn,0,0,0,0
+IM340,67,0.1,left,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM330,6,0.1,left,int,int,WT,mPFF,M,pSyn,0,0,0,0
+IM333,6,0.1,left,int,int,WT,mPFF,F,pSyn,0,0,0,0
+IM337,6,0.1,left,int,int,WT,mPFF,M,pSyn,0,0,0,0
+IM340,6,0.1,left,int,int,WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(607344858, 607344834, 607344862)",0.1,left,IPN,"c(""IPDL"", ""IPR"", ""IPRL"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(607344834, 607344862)",0.1,left,IPN,"c(""IPR"", ""IPRL"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(607344834, 100, 607344862)",0.1,left,IPN,"c(""IPR"", ""IPN"", ""IPRL"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,115,0.1,left,IV,IV,WT,mPFF,F,pSyn,0,0,0,0
+IM330,911,0.1,left,IVn,IVn,WT,mPFF,M,pSyn,0,0,0,0
+IM330,131,0.1,left,LA,LA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,131,0.1,left,LA,LA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,131,0.1,left,LA,LA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,131,0.1,left,LA,LA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,155,0.1,left,LD,LD,WT,mPFF,M,pSyn,0,0,0,0
+IM333,155,0.1,left,LD,LD,WT,mPFF,F,pSyn,0,0,0,0
+IM337,155,0.1,left,LD,LD,WT,mPFF,M,pSyn,1.43E-05,0,1.43E-05,0
+IM340,155,0.1,left,LD,LD,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(496345672, 496345664, 496345668)",0.1,left,LGd,"c(""LGd-ip"", ""LGd-sh"", ""LGd-co"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(496345672, 496345664, 496345668)",0.1,left,LGd,"c(""LGd-ip"", ""LGd-sh"", ""LGd-co"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(496345664, 496345672, 496345668)",0.1,left,LGd,"c(""LGd-sh"", ""LGd-ip"", ""LGd-co"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(496345668, 496345664, 496345672)",0.1,left,LGd,"c(""LGd-co"", ""LGd-sh"", ""LGd-ip"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,178,0.1,left,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,178,0.1,left,LGv,LGv,WT,mPFF,F,pSyn,0,0,0,0
+IM337,178,0.1,left,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM340,178,0.1,left,LGv,LGv,WT,mPFF,F,pSyn,0,0,0,0
+IM330,186,0.1,left,LH,LH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,186,0.1,left,LH,LH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,186,0.1,left,LH,LH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,186,0.1,left,LH,LH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,194,0.1,left,LHA,LHA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,194,0.1,left,LHA,LHA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,194,0.1,left,LHA,LHA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,194,0.1,left,LHA,LHA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,658,0.1,left,ll,ll,WT,mPFF,M,pSyn,0,0,0,0
+IM333,658,0.1,left,ll,ll,WT,mPFF,F,pSyn,0,0,0,0
+IM337,658,0.1,left,ll,ll,WT,mPFF,M,pSyn,0,0,0,0
+IM340,658,0.1,left,ll,ll,WT,mPFF,F,pSyn,0,0,0,0
+IM337,210,0.1,left,LM,LM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,210,0.1,left,LM,LM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,665,0.1,left,lotg,lot,WT,mPFF,M,pSyn,0,0,0,0
+IM333,665,0.1,left,lotg,lot,WT,mPFF,F,pSyn,0,0,0,0
+IM337,665,0.1,left,lotg,lot,WT,mPFF,M,pSyn,0,0,0,0
+IM340,665,0.1,left,lotg,lot,WT,mPFF,F,pSyn,0,0,0,0
+IM330,218,0.1,left,LP,LP,WT,mPFF,M,pSyn,0,0,0,0
+IM333,218,0.1,left,LP,LP,WT,mPFF,F,pSyn,0,0,0,0
+IM337,218,0.1,left,LP,LP,WT,mPFF,M,pSyn,0,0,0,0
+IM340,218,0.1,left,LP,LP,WT,mPFF,F,pSyn,0,0,0,0
+IM340,226,0.1,left,LPO,LPO,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(266, 258)",0.1,left,LS,"c(""LSv"", ""LSr"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(266, 258)",0.1,left,LS,"c(""LSv"", ""LSr"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(266, 258)",0.1,left,LS,"c(""LSv"", ""LSr"")",WT,mPFF,M,pSyn,2.08E-05,0,2.08E-05,0
+IM340,"c(258, 266)",0.1,left,LS,"c(""LSr"", ""LSv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,66,0.1,left,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,66,0.1,left,LT,LT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,66,0.1,left,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM333,549009211,0.1,left,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM337,549009211,0.1,left,MA3,MA3,WT,mPFF,M,pSyn,0,0,0,0
+IM340,549009211,0.1,left,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM330,313,0.1,left,MB,MB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,313,0.1,left,MB,MB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,313,0.1,left,MB,MB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,313,0.1,left,MB,MB,WT,mPFF,F,pSyn,6.97E-06,0,6.97E-06,0
+IM333,381,0.1,left,MBmot,SNr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,381,0.1,left,MBmot,SNr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(381, 246)",0.1,left,MBmot,"c(""SNr"", ""RR"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,374,0.1,left,MBsta,SNc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,374,0.1,left,MBsta,SNc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,374,0.1,left,MBsta,SNc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,78,0.1,left,mcp,mcp,WT,mPFF,M,pSyn,2.00E-05,0,2.00E-05,0
+IM333,78,0.1,left,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,78,0.1,left,mcp,mcp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,78,0.1,left,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM330,362,0.1,left,MD,MD,WT,mPFF,M,pSyn,0,0,0,0
+IM333,362,0.1,left,MD,MD,WT,mPFF,F,pSyn,0,0,0,0
+IM337,362,0.1,left,MD,MD,WT,mPFF,M,pSyn,0,0,0,0
+IM340,362,0.1,left,MD,MD,WT,mPFF,F,pSyn,0,0,0,0
+IM330,10671,0.1,left,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM333,10671,0.1,left,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM337,10671,0.1,left,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM340,10671,0.1,left,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM330,403,0.1,left,MEA,MEA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,403,0.1,left,MEA,MEA,WT,mPFF,F,pSyn,0.000341391,0,0.000341391,0
+IM337,403,0.1,left,MEA,MEA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,403,0.1,left,MEA,MEA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,63,0.1,left,MEZ,PVHd,WT,mPFF,M,pSyn,0,0,0,0
+IM333,63,0.1,left,MEZ,PVHd,WT,mPFF,F,pSyn,0,0,0,0
+IM337,63,0.1,left,MEZ,PVHd,WT,mPFF,M,pSyn,0,0,0,0
+IM340,63,0.1,left,MEZ,PVHd,WT,mPFF,F,pSyn,0,0,0,0
+IM340,54,0.1,left,mfb,mfb,WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(1088, 1072, 1079)",0.1,left,MG,"c(""MGm"", ""MGd"", ""MGv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1088, 1079, 1072)",0.1,left,MG,"c(""MGm"", ""MGv"", ""MGd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1079, 1072, 1088)",0.1,left,MG,"c(""MGv"", ""MGd"", ""MGm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,483,0.1,left,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,483,0.1,left,MH,MH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,483,0.1,left,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,483,0.1,left,MH,MH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,697,0.1,left,ml,ml,WT,mPFF,M,pSyn,0,0,0,0
+IM333,697,0.1,left,ml,ml,WT,mPFF,F,pSyn,0,0,0,0
+IM337,697,0.1,left,ml,ml,WT,mPFF,M,pSyn,0,0,0,0
+IM340,697,0.1,left,ml,ml,WT,mPFF,F,pSyn,0,0,0,0
+IM330,62,0.1,left,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM333,62,0.1,left,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM337,62,0.1,left,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM340,62,0.1,left,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(606826659, 606826647, 606826655, 606826651)",0.1,left,MM,"c(""MMd"", ""MMl"", ""MMp"", ""MMm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(606826651, 606826659, 606826655, 606826647)",0.1,left,MM,"c(""MMm"", ""MMd"", ""MMp"", ""MMl"")",WT,mPFF,M,pSyn,0.004843993,0,0.004843993,0
+IM340,"c(732, 606826651, 606826647, 606826659, 606826655)",0.1,left,MM,"c(""MMme"", ""MMm"", ""MMl"", ""MMd"", ""MMp"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(943, 648, 320, 882, 844)",0.1,left,MOp,"c(""MOp2/3"", ""MOp5"", ""MOp1"", ""MOp6b"", ""MOp6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(320, 943, 648, 844, 882)",0.1,left,MOp,"c(""MOp1"", ""MOp2/3"", ""MOp5"", ""MOp6a"", ""MOp6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(320, 943, 648, 844, 882)",0.1,left,MOp,"c(""MOp1"", ""MOp2/3"", ""MOp5"", ""MOp6a"", ""MOp6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(320, 943, 648, 844, 882)",0.1,left,MOp,"c(""MOp1"", ""MOp2/3"", ""MOp5"", ""MOp6a"", ""MOp6b"")",WT,mPFF,F,pSyn,8.92E-05,0,8.92E-05,0
+IM330,"c(767, 656, 1021, 1085, 962)",0.1,left,MOs,"c(""MOs5"", ""MOs1"", ""MOs6a"", ""MOs6b"", ""MOs2/3"")",WT,mPFF,M,pSyn,3.85E-06,0,3.85E-06,0
+IM333,"c(1021, 767, 962, 656, 1085)",0.1,left,MOs,"c(""MOs6a"", ""MOs5"", ""MOs2/3"", ""MOs1"", ""MOs6b"")",WT,mPFF,F,pSyn,8.81E-05,0,8.81E-05,0
+IM337,"c(656, 962, 767, 1021, 1085)",0.1,left,MOs,"c(""MOs1"", ""MOs2/3"", ""MOs5"", ""MOs6a"", ""MOs6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(962, 767, 656, 1021, 1085)",0.1,left,MOs,"c(""MOs2/3"", ""MOs5"", ""MOs1"", ""MOs6a"", ""MOs6b"")",WT,mPFF,F,pSyn,5.76E-05,0,5.76E-05,0
+IM330,93,0.1,left,moV,moV,WT,mPFF,M,pSyn,0,0,0,0
+IM333,93,0.1,left,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM337,93,0.1,left,moV,moV,WT,mPFF,M,pSyn,0,0,0,0
+IM340,93,0.1,left,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM333,673,0.1,left,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,673,0.1,left,mp,mp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,673,0.1,left,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM340,531,0.1,left,MPT,MPT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,128,0.1,left,MRN,MRN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,128,0.1,left,MRN,MRN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,128,0.1,left,MRN,MRN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,128,0.1,left,MRN,MRN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,564,0.1,left,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM333,564,0.1,left,MS,MS,WT,mPFF,F,pSyn,0,0,0,0
+IM337,564,0.1,left,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM340,564,0.1,left,MS,MS,WT,mPFF,F,pSyn,0,0,0,0
+IM333,58,0.1,left,MT,MT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,58,0.1,left,MT,MT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,58,0.1,left,MT,MT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,681,0.1,left,mtg,mtg,WT,mPFF,M,pSyn,0,0,0,0
+IM333,681,0.1,left,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM337,681,0.1,left,mtg,mtg,WT,mPFF,M,pSyn,0,0,0,0
+IM340,681,0.1,left,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM330,690,0.1,left,mtt,mtt,WT,mPFF,M,pSyn,0.052909517,0,0.052909517,0
+IM333,690,0.1,left,mtt,mtt,WT,mPFF,F,pSyn,0,0,0,0
+IM337,690,0.1,left,mtt,mtt,WT,mPFF,M,pSyn,0,0,0,0
+IM340,690,0.1,left,mtt,mtt,WT,mPFF,F,pSyn,0,0,0,0
+IM330,354,0.1,left,MY,MY,WT,mPFF,M,pSyn,0,0,0,0
+IM333,354,0.1,left,MY,MY,WT,mPFF,F,pSyn,0,0,0,0
+IM330,997,0.1,left,None,None,WT,mPFF,M,pSyn,0,0,0,0
+IM333,997,0.1,left,None,None,WT,mPFF,F,pSyn,0,0,0,0
+IM337,997,0.1,left,None,None,WT,mPFF,M,pSyn,0,0,0,0
+IM340,997,0.1,left,None,None,WT,mPFF,F,pSyn,0,0,0,0
+IM333,587,0.1,left,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM337,587,0.1,left,ND,ND,WT,mPFF,M,pSyn,0,0,0,0
+IM340,587,0.1,left,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM330,596,0.1,left,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,596,0.1,left,NDB,NDB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,596,0.1,left,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,596,0.1,left,NDB,NDB,WT,mPFF,F,pSyn,0,0,0,0
+IM330,612,0.1,left,NLL,NLL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,612,0.1,left,NLL,NLL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,612,0.1,left,NLL,NLL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,612,0.1,left,NLL,NLL,WT,mPFF,F,pSyn,0,0,0,0
+IM333,628,0.1,left,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,628,0.1,left,NOT,NOT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,628,0.1,left,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM333,634,0.1,left,NPC,NPC,WT,mPFF,F,pSyn,0,0,0,0
+IM337,634,0.1,left,NPC,NPC,WT,mPFF,M,pSyn,0,0,0,0
+IM340,634,0.1,left,NPC,NPC,WT,mPFF,F,pSyn,0,0,0,0
+IM330,102,0.1,left,nst,nst,WT,mPFF,M,pSyn,0,0,0,0
+IM333,102,0.1,left,nst,nst,WT,mPFF,F,pSyn,0,0,0,0
+IM337,102,0.1,left,nst,nst,WT,mPFF,M,pSyn,0,0,0,0
+IM340,102,0.1,left,nst,nst,WT,mPFF,F,pSyn,0,0,0,0
+IM330,642,0.1,left,NTB,NTB,WT,mPFF,M,pSyn,0,0,0,0
+IM330,698,0.1,left,OLF,OLF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,698,0.1,left,OLF,OLF,WT,mPFF,F,pSyn,0,0,0,0
+IM337,698,0.1,left,OLF,OLF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,698,0.1,left,OLF,OLF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,125,0.1,left,opt,opt,WT,mPFF,M,pSyn,0,0,0,0
+IM333,125,0.1,left,opt,opt,WT,mPFF,F,pSyn,0,0,0,0
+IM337,125,0.1,left,opt,opt,WT,mPFF,M,pSyn,0,0,0,0
+IM340,125,0.1,left,opt,opt,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682520,0.1,left,or,or,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682520,0.1,left,or,or,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682520,0.1,left,or,or,WT,mPFF,M,pSyn,0.002002923,0,0.002002923,0
+IM340,484682520,0.1,left,or,or,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(448, 412, 440, 630)",0.1,left,ORBl,"c(""ORBl1"", ""ORBl2/3"", ""ORBl6a"", ""ORBl5"")",WT,mPFF,M,pSyn,4.30E-05,0,4.30E-05,0
+IM333,"c(412, 630, 448, 440)",0.1,left,ORBl,"c(""ORBl2/3"", ""ORBl5"", ""ORBl1"", ""ORBl6a"")",WT,mPFF,F,pSyn,3.20E-05,0,3.20E-05,0
+IM337,"c(448, 412, 440, 630)",0.1,left,ORBl,"c(""ORBl1"", ""ORBl2/3"", ""ORBl6a"", ""ORBl5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(440, 630, 412, 448)",0.1,left,ORBl,"c(""ORBl6a"", ""ORBl5"", ""ORBl2/3"", ""ORBl1"")",WT,mPFF,F,pSyn,0.001176087,0,0.001176087,0
+IM330,"c(620, 582, 484, 910)",0.1,left,ORBm,"c(""ORBm5"", ""ORBm2/3"", ""ORBm1"", ""ORBm6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(620, 910, 484, 582)",0.1,left,ORBm,"c(""ORBm5"", ""ORBm6a"", ""ORBm1"", ""ORBm2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(582, 484, 620, 910)",0.1,left,ORBm,"c(""ORBm2/3"", ""ORBm1"", ""ORBm5"", ""ORBm6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(484, 582, 910, 620)",0.1,left,ORBm,"c(""ORBm1"", ""ORBm2/3"", ""ORBm6a"", ""ORBm5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(969, 288, 608, 1125)",0.1,left,ORBvl,"c(""ORBvl1"", ""ORBvl2/3"", ""ORBvl6a"", ""ORBvl5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(288, 1125, 608)",0.1,left,ORBvl,"c(""ORBvl2/3"", ""ORBvl5"", ""ORBvl6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1125, 969, 288, 608)",0.1,left,ORBvl,"c(""ORBvl5"", ""ORBvl1"", ""ORBvl2/3"", ""ORBvl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1125, 608, 288)",0.1,left,ORBvl,"c(""ORBvl5"", ""ORBvl6a"", ""ORBvl2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,754,0.1,left,OT,OT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,754,0.1,left,OT,OT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,754,0.1,left,OT,OT,WT,mPFF,M,pSyn,0.000115315,0,0.000115315,0
+IM340,754,0.1,left,OT,OT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,771,0.1,left,P,P,WT,mPFF,M,pSyn,7.62E-05,0,7.62E-05,0
+IM333,771,0.1,left,P,P,WT,mPFF,F,pSyn,0,0,0,0
+IM337,771,0.1,left,P,P,WT,mPFF,M,pSyn,0,0,0,0
+IM340,771,0.1,left,P,P,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1093,0.1,left,P-mot,PRNc,WT,mPFF,M,pSyn,0,0,0,0
+IM330,780,0.1,left,PA,PA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,780,0.1,left,PA,PA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,780,0.1,left,PA,PA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,780,0.1,left,PA,PA,WT,mPFF,F,pSyn,0.005380053,0,0.005380053,0
+IM330,606826663,0.1,left,Pa4,Pa4,WT,mPFF,M,pSyn,0,0,0,0
+IM333,606826663,0.1,left,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM337,606826663,0.1,left,Pa4,Pa4,WT,mPFF,M,pSyn,0,0,0,0
+IM340,606826663,0.1,left,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM330,788,0.1,left,PAA,PAA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,788,0.1,left,PAA,PAA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,788,0.1,left,PAA,PAA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,788,0.1,left,PAA,PAA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,795,0.1,left,PAG,PAG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,795,0.1,left,PAG,PAG,WT,mPFF,F,pSyn,9.55E-05,0,9.55E-05,0
+IM337,795,0.1,left,PAG,PAG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,795,0.1,left,PAG,PAG,WT,mPFF,F,pSyn,0,0,0,0
+IM330,803,0.1,left,PAL,PAL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,803,0.1,left,PAL,PAL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,803,0.1,left,PAL,PAL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,803,0.1,left,PAL,PAL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1031, 1022)",0.1,left,PALd,"c(""GPi"", ""GPe"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1031, 1022)",0.1,left,PALd,"c(""GPi"", ""GPe"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1031, 1022)",0.1,left,PALd,"c(""GPi"", ""GPe"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1022, 1031)",0.1,left,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,843,0.1,left,PAR,PAR,WT,mPFF,M,pSyn,9.05E-05,0,9.05E-05,0
+IM333,843,0.1,left,PAR,PAR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,843,0.1,left,PAR,PAR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,843,0.1,left,PAR,PAR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,874,0.1,left,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,874,0.1,left,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,874,0.1,left,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,874,0.1,left,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM333,158,0.1,left,pc,pc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,158,0.1,left,pc,pc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,158,0.1,left,pc,pc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,549009223,0.1,left,PC5,PC5,WT,mPFF,M,pSyn,0,0,0,0
+IM333,549009223,0.1,left,PC5,PC5,WT,mPFF,F,pSyn,0,0,0,0
+IM330,907,0.1,left,PCN,PCN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,907,0.1,left,PCN,PCN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,907,0.1,left,PCN,PCN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,907,0.1,left,PCN,PCN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,576073704,0.1,left,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,576073704,0.1,left,PeF,PeF,WT,mPFF,F,pSyn,0,0,0,0
+IM337,576073704,0.1,left,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,576073704,0.1,left,PeF,PeF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(888, 335, 692, 540)",0.1,left,PERI,"c(""PERI2/3"", ""PERI6a"", ""PERI5"", ""PERI1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(540, 335, 692, 888)",0.1,left,PERI,"c(""PERI1"", ""PERI6a"", ""PERI5"", ""PERI2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(888, 692, 540, 368, 335)",0.1,left,PERI,"c(""PERI2/3"", ""PERI5"", ""PERI1"", ""PERI6b"", ""PERI6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(888, 335, 540, 692, 368)",0.1,left,PERI,"c(""PERI2/3"", ""PERI6a"", ""PERI1"", ""PERI5"", ""PERI6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,930,0.1,left,PF,PF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,930,0.1,left,PF,PF,WT,mPFF,F,pSyn,0,0,0,0
+IM337,930,0.1,left,PF,PF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,930,0.1,left,PF,PF,WT,mPFF,F,pSyn,0,0,0,0
+IM333,931,0.1,left,PG,PG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,931,0.1,left,PG,PG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,931,0.1,left,PG,PG,WT,mPFF,F,pSyn,0,0,0,0
+IM330,946,0.1,left,PH,PH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,946,0.1,left,PH,PH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,946,0.1,left,PH,PH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,946,0.1,left,PH,PH,WT,mPFF,F,pSyn,0,0,0,0
+IM333,560581563,0.1,left,PIL,PIL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,560581563,0.1,left,PIL,PIL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,560581563,0.1,left,PIL,PIL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,961,0.1,left,PIR,PIR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,961,0.1,left,PIR,PIR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,961,0.1,left,PIR,PIR,WT,mPFF,M,pSyn,3.81E-05,0,3.81E-05,0
+IM340,961,0.1,left,PIR,PIR,WT,mPFF,F,pSyn,0.000225812,0,0.000225812,0
+IM330,"c(304, 363, 84, 171)",0.1,left,PL,"c(""PL2/3"", ""PL5"", ""PL6a"", ""PL1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(84, 363, 304, 171)",0.1,left,PL,"c(""PL6a"", ""PL5"", ""PL2/3"", ""PL1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(84, 304, 171, 363)",0.1,left,PL,"c(""PL6a"", ""PL2/3"", ""PL1"", ""PL5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(304, 363, 171, 84)",0.1,left,PL,"c(""PL2/3"", ""PL5"", ""PL1"", ""PL6a"")",WT,mPFF,F,pSyn,1.82E-05,0,1.82E-05,0
+IM337,753,0.1,left,pm,pm,WT,mPFF,M,pSyn,0,0,0,0
+IM340,753,0.1,left,pm,pm,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1004,0.1,left,PMv,PMv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1004,0.1,left,PMv,PMv,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1004,0.1,left,PMv,PMv,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1004,0.1,left,PMv,PMv,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1020,0.1,left,PO,PO,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1020,0.1,left,PO,PO,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1020,0.1,left,PO,PO,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1020,0.1,left,PO,PO,WT,mPFF,F,pSyn,1.33E-05,0,1.33E-05,0
+IM333,1029,0.1,left,POL,POL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1029,0.1,left,POL,POL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1029,0.1,left,POL,POL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1037,0.1,left,POST,POST,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1037,0.1,left,POST,POST,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1037,0.1,left,POST,POST,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1037,0.1,left,POST,POST,WT,mPFF,F,pSyn,0,0,0,0
+IM333,563807435,0.1,left,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,563807435,0.1,left,PoT,PoT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,563807435,0.1,left,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM333,1044,0.1,left,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1044,0.1,left,PP,PP,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1044,0.1,left,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1052,0.1,left,PPN,PPN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1052,0.1,left,PPN,PPN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1052,0.1,left,PPN,PPN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1052,0.1,left,PPN,PPN,WT,mPFF,F,pSyn,0,0,0,0
+IM333,1061,0.1,left,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1061,0.1,left,PPT,PPT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1061,0.1,left,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1077,0.1,left,PR,PR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1077,0.1,left,PR,PR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1077,0.1,left,PR,PR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1077,0.1,left,PR,PR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,50,0.1,left,PRC,PRC,WT,mPFF,M,pSyn,0,0,0,0
+IM333,50,0.1,left,PRC,PRC,WT,mPFF,F,pSyn,0,0,0,0
+IM337,50,0.1,left,PRC,PRC,WT,mPFF,M,pSyn,0,0,0,0
+IM340,50,0.1,left,PRC,PRC,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1084,0.1,left,PRE,PRE,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1084,0.1,left,PRE,PRE,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1084,0.1,left,PRE,PRE,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1084,0.1,left,PRE,PRE,WT,mPFF,F,pSyn,0,0,0,0
+IM330,146,0.1,left,PRNr,PRNr,WT,mPFF,M,pSyn,2.52E-05,0,2.52E-05,0
+IM333,146,0.1,left,PRNr,PRNr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,146,0.1,left,PRNr,PRNr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,146,0.1,left,PRNr,PRNr,WT,mPFF,F,pSyn,0.001169138,0,0.001169138,0
+IM333,484682470,0.1,left,ProS,ProS,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682470,0.1,left,ProS,ProS,WT,mPFF,M,pSyn,5.85E-05,0,5.85E-05,0
+IM340,484682470,0.1,left,ProS,ProS,WT,mPFF,F,pSyn,5.35E-05,0,5.35E-05,0
+IM330,364,0.1,left,PSTN,PSTN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,364,0.1,left,PSTN,PSTN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,364,0.1,left,PSTN,PSTN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,364,0.1,left,PSTN,PSTN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,7,0.1,left,PSV,PSV,WT,mPFF,M,pSyn,0,0,0,0
+IM330,149,0.1,left,PVT,PVT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,149,0.1,left,PVT,PVT,WT,mPFF,F,pSyn,0.001799437,0,0.001799437,0
+IM337,149,0.1,left,PVT,PVT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,149,0.1,left,PVT,PVT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,118,0.1,left,PVZ,PVi,WT,mPFF,M,pSyn,0,0,0,0
+IM333,118,0.1,left,PVZ,PVi,WT,mPFF,F,pSyn,0,0,0,0
+IM337,118,0.1,left,PVZ,PVi,WT,mPFF,M,pSyn,0,0,0,0
+IM340,118,0.1,left,PVZ,PVi,WT,mPFF,F,pSyn,0,0,0,0
+IM330,190,0.1,left,py,py,WT,mPFF,M,pSyn,0.000283383,0,0.000283383,0
+IM330,181,0.1,left,RE,RE,WT,mPFF,M,pSyn,0,0,0,0
+IM333,181,0.1,left,RE,RE,WT,mPFF,F,pSyn,0,0,0,0
+IM337,181,0.1,left,RE,RE,WT,mPFF,M,pSyn,0.000312685,0,0.000312685,0
+IM340,181,0.1,left,RE,RE,WT,mPFF,F,pSyn,0,0,0,0
+IM330,189,0.1,left,RH,RH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,189,0.1,left,RH,RH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,189,0.1,left,RH,RH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,189,0.1,left,RH,RH,WT,mPFF,F,pSyn,0,0,0,0
+IM333,197,0.1,left,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,197,0.1,left,RL,RL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,197,0.1,left,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM333,214,0.1,left,RN,RN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,214,0.1,left,RN,RN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,214,0.1,left,RN,RN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(279, 774, 965, 906, 671)",0.1,left,RSPagl,"c(""RSPagl6b"", ""RSPagl5"", ""RSPagl2/3"", ""RSPagl6a"", ""RSPagl1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(671, 774, 965, 279, 906)",0.1,left,RSPagl,"c(""RSPagl1"", ""RSPagl5"", ""RSPagl2/3"", ""RSPagl6b"", ""RSPagl6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(671, 774, 279, 965, 906)",0.1,left,RSPagl,"c(""RSPagl1"", ""RSPagl5"", ""RSPagl6b"", ""RSPagl2/3"", ""RSPagl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(671, 774, 279, 906, 965)",0.1,left,RSPagl,"c(""RSPagl1"", ""RSPagl5"", ""RSPagl6b"", ""RSPagl6a"", ""RSPagl2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(610, 442, 274, 330, 434)",0.1,left,RSPd,"c(""RSPd5"", ""RSPd1"", ""RSPd6a"", ""RSPd6b"", ""RSPd2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(274, 610, 434, 330, 442)",0.1,left,RSPd,"c(""RSPd6a"", ""RSPd5"", ""RSPd2/3"", ""RSPd6b"", ""RSPd1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(330, 274, 610, 434, 442)",0.1,left,RSPd,"c(""RSPd6b"", ""RSPd6a"", ""RSPd5"", ""RSPd2/3"", ""RSPd1"")",WT,mPFF,M,pSyn,0.000270327,0,0.000270327,0
+IM340,"c(434, 330, 442, 610, 274)",0.1,left,RSPd,"c(""RSPd2/3"", ""RSPd6b"", ""RSPd1"", ""RSPd5"", ""RSPd6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(622, 590, 687, 542, 430)",0.1,left,RSPv,"c(""RSPv6b"", ""RSPv6a"", ""RSPv5"", ""RSPv1"", ""RSPv2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(687, 622, 590, 542, 430)",0.1,left,RSPv,"c(""RSPv5"", ""RSPv6b"", ""RSPv6a"", ""RSPv1"", ""RSPv2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(622, 542, 590, 687, 430)",0.1,left,RSPv,"c(""RSPv6b"", ""RSPv1"", ""RSPv6a"", ""RSPv5"", ""RSPv2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(687, 622, 590, 542, 430)",0.1,left,RSPv,"c(""RSPv5"", ""RSPv6b"", ""RSPv6a"", ""RSPv1"", ""RSPv2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,262,0.1,left,RT,RT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,262,0.1,left,RT,RT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,262,0.1,left,RT,RT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,262,0.1,left,RT,RT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,863,0.1,left,rust,rust,WT,mPFF,M,pSyn,9.10E-05,0,9.10E-05,0
+IM333,863,0.1,left,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM337,863,0.1,left,rust,rust,WT,mPFF,M,pSyn,0,0,0,0
+IM340,863,0.1,left,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM330,271,0.1,left,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,271,0.1,left,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,271,0.1,left,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,271,0.1,left,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(26, 42, 17, 10)",0.1,left,SCm,"c(""SCdg"", ""SCdw"", ""SCiw"", ""SCig"")",WT,mPFF,M,pSyn,1.21E-05,0,1.21E-05,0
+IM333,"c(42, 17, 26, 10)",0.1,left,SCm,"c(""SCdw"", ""SCiw"", ""SCdg"", ""SCig"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(17, 42, 26, 10)",0.1,left,SCm,"c(""SCiw"", ""SCdw"", ""SCdg"", ""SCig"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(26, 10, 17, 42)",0.1,left,SCm,"c(""SCdg"", ""SCig"", ""SCiw"", ""SCdw"")",WT,mPFF,F,pSyn,3.52E-05,0,3.52E-05,0
+IM333,599626923,0.1,left,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM337,599626923,0.1,left,SCO,SCO,WT,mPFF,M,pSyn,0,0,0,0
+IM340,599626923,0.1,left,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM330,326,0.1,left,scp,scp,WT,mPFF,M,pSyn,0,0,0,0
+IM333,326,0.1,left,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,326,0.1,left,scp,scp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,326,0.1,left,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(851, 842, 834)",0.1,left,SCs,"c(""SCop"", ""SCsg"", ""SCzo"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(834, 851, 842)",0.1,left,SCs,"c(""SCzo"", ""SCop"", ""SCsg"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(834, 851, 842)",0.1,left,SCs,"c(""SCzo"", ""SCop"", ""SCsg"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(834, 842, 851)",0.1,left,SCs,"c(""SCzo"", ""SCsg"", ""SCop"")",WT,mPFF,F,pSyn,0.00113711,0,0.00113711,0
+IM330,866,0.1,left,sctv,sctv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,866,0.1,left,sctv,sctv,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682512,0.1,left,scwm,scwm,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682512,0.1,left,scwm,scwm,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682512,0.1,left,scwm,scwm,WT,mPFF,M,pSyn,0.007589709,0,0.007589709,0
+IM340,484682512,0.1,left,scwm,scwm,WT,mPFF,F,pSyn,0,0,0,0
+IM333,325,0.1,left,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,325,0.1,left,SGN,SGN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,325,0.1,left,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,333,0.1,left,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,333,0.1,left,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,333,0.1,left,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,333,0.1,left,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,342,0.1,left,SI,SI,WT,mPFF,M,pSyn,0,0,0,0
+IM333,342,0.1,left,SI,SI,WT,mPFF,F,pSyn,0,0,0,0
+IM337,342,0.1,left,SI,SI,WT,mPFF,M,pSyn,0,0,0,0
+IM340,342,0.1,left,SI,SI,WT,mPFF,F,pSyn,0,0,0,0
+IM330,802,0.1,left,sm,sm,WT,mPFF,M,pSyn,0,0,0,0
+IM333,802,0.1,left,sm,sm,WT,mPFF,F,pSyn,0,0,0,0
+IM337,802,0.1,left,sm,sm,WT,mPFF,M,pSyn,0,0,0,0
+IM340,802,0.1,left,sm,sm,WT,mPFF,F,pSyn,0.00057977,0,0.00057977,0
+IM330,366,0.1,left,SMT,SMT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,366,0.1,left,SMT,SMT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,366,0.1,left,SMT,SMT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,366,0.1,left,SMT,SMT,WT,mPFF,F,pSyn,0.000365,0,0.000365,0
+IM330,122,0.1,left,SOC,POR,WT,mPFF,M,pSyn,0.000203501,0,0.000203501,0
+IM333,122,0.1,left,SOC,POR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,609,0.1,left,SPA,SPA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,609,0.1,left,SPA,SPA,WT,mPFF,F,pSyn,0,0,0,0
+IM340,609,0.1,left,SPA,SPA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,414,0.1,left,SPF,SPFm,WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(422, 414)",0.1,left,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(422, 414)",0.1,left,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(422, 414)",0.1,left,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1038, 1062, 981, 1070, 201, 1047)",0.1,left,SSp-bfd,"c(""SSp-bfd6a"", ""SSp-bfd6b"", ""SSp-bfd1"", ""SSp-bfd5"", ""SSp-bfd2/3"", ""SSp-bfd4"")",WT,mPFF,M,pSyn,0.000378149,0,0.000378149,0
+IM333,"c(201, 1038, 981, 1070, 1047, 1062)",0.1,left,SSp-bfd,"c(""SSp-bfd2/3"", ""SSp-bfd6a"", ""SSp-bfd1"", ""SSp-bfd5"", ""SSp-bfd4"", ""SSp-bfd6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1038, 1062, 201, 1047, 1070, 981)",0.1,left,SSp-bfd,"c(""SSp-bfd6a"", ""SSp-bfd6b"", ""SSp-bfd2/3"", ""SSp-bfd4"", ""SSp-bfd5"", ""SSp-bfd1"")",WT,mPFF,M,pSyn,4.62E-05,0,4.62E-05,0
+IM340,"c(201, 981, 1047, 1062, 1038, 1070)",0.1,left,SSp-bfd,"c(""SSp-bfd2/3"", ""SSp-bfd1"", ""SSp-bfd4"", ""SSp-bfd6b"", ""SSp-bfd6a"", ""SSp-bfd5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1128, 510, 478)",0.1,left,SSp-ll,"c(""SSp-ll5"", ""SSp-ll6b"", ""SSp-ll6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(478, 510)",0.1,left,SSp-ll,"c(""SSp-ll6a"", ""SSp-ll6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(478, 1128, 510)",0.1,left,SSp-ll,"c(""SSp-ll6a"", ""SSp-ll5"", ""SSp-ll6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(510, 478)",0.1,left,SSp-ll,"c(""SSp-ll6b"", ""SSp-ll6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(657, 950, 1102, 2, 974, 878)",0.1,left,SSp-m,"c(""SSp-m2/3"", ""SSp-m4"", ""SSp-m6a"", ""SSp-m6b"", ""SSp-m5"", ""SSp-m1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(657, 1102, 878, 974, 950, 2)",0.1,left,SSp-m,"c(""SSp-m2/3"", ""SSp-m6a"", ""SSp-m1"", ""SSp-m5"", ""SSp-m4"", ""SSp-m6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1102, 974, 950, 657, 2, 878)",0.1,left,SSp-m,"c(""SSp-m6a"", ""SSp-m5"", ""SSp-m4"", ""SSp-m2/3"", ""SSp-m6b"", ""SSp-m1"")",WT,mPFF,M,pSyn,4.03E-06,0,4.03E-06,0
+IM340,"c(657, 878, 1102, 2, 974, 950)",0.1,left,SSp-m,"c(""SSp-m2/3"", ""SSp-m1"", ""SSp-m6a"", ""SSp-m6b"", ""SSp-m5"", ""SSp-m4"")",WT,mPFF,F,pSyn,8.11E-06,0,8.11E-06,0
+IM330,"c(1111, 9, 670, 461, 1086, 1006)",0.1,left,SSp-tr,"c(""SSp-tr5"", ""SSp-tr6a"", ""SSp-tr2/3"", ""SSp-tr6b"", ""SSp-tr4"", ""SSp-tr1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(9, 1006, 1086, 461, 670, 1111)",0.1,left,SSp-tr,"c(""SSp-tr6a"", ""SSp-tr1"", ""SSp-tr4"", ""SSp-tr6b"", ""SSp-tr2/3"", ""SSp-tr5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(9, 461, 1086, 1111, 1006, 670)",0.1,left,SSp-tr,"c(""SSp-tr6a"", ""SSp-tr6b"", ""SSp-tr4"", ""SSp-tr5"", ""SSp-tr1"", ""SSp-tr2/3"")",WT,mPFF,M,pSyn,8.55E-05,0,8.55E-05,0
+IM340,"c(670, 1006, 1111, 461, 1086, 9)",0.1,left,SSp-tr,"c(""SSp-tr2/3"", ""SSp-tr1"", ""SSp-tr5"", ""SSp-tr6b"", ""SSp-tr4"", ""SSp-tr6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1026, 854, 577, 450, 945, 625)",0.1,left,SSp-ul,"c(""SSp-ul6b"", ""SSp-ul2/3"", ""SSp-ul4"", ""SSp-ul1"", ""SSp-ul6a"", ""SSp-ul5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(625, 854, 577, 450, 945, 1026)",0.1,left,SSp-ul,"c(""SSp-ul5"", ""SSp-ul2/3"", ""SSp-ul4"", ""SSp-ul1"", ""SSp-ul6a"", ""SSp-ul6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(577, 945, 854, 625, 1026, 450)",0.1,left,SSp-ul,"c(""SSp-ul4"", ""SSp-ul6a"", ""SSp-ul2/3"", ""SSp-ul5"", ""SSp-ul6b"", ""SSp-ul1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(945, 625, 450, 854, 577, 1026)",0.1,left,SSp-ul,"c(""SSp-ul6a"", ""SSp-ul5"", ""SSp-ul1"", ""SSp-ul2/3"", ""SSp-ul4"", ""SSp-ul6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(182305713, 182305709, 182305697, 182305693, 182305705, 182305701)",0.1,left,SSp-un,"c(""SSp-un6b"", ""SSp-un6a"", ""SSp-un2/3"", ""SSp-un1"", ""SSp-un5"", ""SSp-un4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(182305697, 182305709, 182305705, 182305701, 182305713)",0.1,left,SSp-un,"c(""SSp-un2/3"", ""SSp-un6a"", ""SSp-un5"", ""SSp-un4"", ""SSp-un6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(182305701, 182305697, 182305713, 182305693, 182305709, 182305705)",0.1,left,SSp-un,"c(""SSp-un4"", ""SSp-un2/3"", ""SSp-un6b"", ""SSp-un1"", ""SSp-un6a"", ""SSp-un5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(182305709, 182305713, 182305705, 182305701)",0.1,left,SSp-un,"c(""SSp-un6a"", ""SSp-un6b"", ""SSp-un5"", ""SSp-un4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1035, 862, 893, 1090, 873, 806)",0.1,left,SSs,"c(""SSs4"", ""SSs6a"", ""SSs6b"", ""SSs5"", ""SSs1"", ""SSs2/3"")",WT,mPFF,M,pSyn,1.75E-05,0,1.75E-05,0
+IM333,"c(1035, 862, 806, 893, 1090, 873)",0.1,left,SSs,"c(""SSs4"", ""SSs6a"", ""SSs2/3"", ""SSs6b"", ""SSs5"", ""SSs1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1090, 1035, 862, 806, 873, 893)",0.1,left,SSs,"c(""SSs5"", ""SSs4"", ""SSs6a"", ""SSs2/3"", ""SSs1"", ""SSs6b"")",WT,mPFF,M,pSyn,0.000418597,0,0.000418597,0
+IM340,"c(862, 1090, 893, 873, 1035, 806)",0.1,left,SSs,"c(""SSs6a"", ""SSs5"", ""SSs6b"", ""SSs1"", ""SSs4"", ""SSs2/3"")",WT,mPFF,F,pSyn,8.34E-05,0,8.34E-05,0
+IM330,301,0.1,left,st,st,WT,mPFF,M,pSyn,0,0,0,0
+IM333,301,0.1,left,st,st,WT,mPFF,F,pSyn,0,0,0,0
+IM337,301,0.1,left,st,st,WT,mPFF,M,pSyn,9.25E-05,0,9.25E-05,0
+IM340,301,0.1,left,st,st,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682528,0.1,left,stc,stc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682528,0.1,left,stc,stc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682528,0.1,left,stc,stc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682528,0.1,left,stc,stc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,470,0.1,left,STN,STN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,470,0.1,left,STN,STN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,470,0.1,left,STN,STN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,470,0.1,left,STN,STN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,477,0.1,left,STR,STR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,477,0.1,left,STR,STR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,477,0.1,left,STR,STR,WT,mPFF,M,pSyn,0.000343023,0,0.000343023,0
+IM340,477,0.1,left,STR,STR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,614454277,0.1,left,Su3,Su3,WT,mPFF,M,pSyn,0,0,0,0
+IM340,614454277,0.1,left,Su3,Su3,WT,mPFF,F,pSyn,0,0,0,0
+IM330,502,0.1,left,SUB,SUB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,502,0.1,left,SUB,SUB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,502,0.1,left,SUB,SUB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,502,0.1,left,SUB,SUB,WT,mPFF,F,pSyn,6.35E-05,0,6.35E-05,0
+IM333,321,0.1,left,SubG,SubG,WT,mPFF,F,pSyn,0,0,0,0
+IM340,321,0.1,left,SubG,SubG,WT,mPFF,F,pSyn,0,0,0,0
+IM333,525,0.1,left,SUM,SUM,WT,mPFF,F,pSyn,0,0,0,0
+IM337,525,0.1,left,SUM,SUM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,525,0.1,left,SUM,SUM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,349,0.1,left,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM333,349,0.1,left,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM337,349,0.1,left,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM340,349,0.1,left,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM330,229,0.1,left,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM333,229,0.1,left,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM337,229,0.1,left,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM340,229,0.1,left,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM330,841,0.1,left,tb,tb,WT,mPFF,M,pSyn,0,0,0,0
+IM333,841,0.1,left,tb,tb,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(729, 289, 234, 1127, 97, 786)",0.1,left,TEa,"c(""TEa6a"", ""TEa5"", ""TEa4"", ""TEa2/3"", ""TEa1"", ""TEa6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(289, 786, 234, 1127, 729, 97)",0.1,left,TEa,"c(""TEa5"", ""TEa6b"", ""TEa4"", ""TEa2/3"", ""TEa6a"", ""TEa1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(289, 729, 1127, 786, 234, 97)",0.1,left,TEa,"c(""TEa5"", ""TEa6a"", ""TEa2/3"", ""TEa6b"", ""TEa4"", ""TEa1"")",WT,mPFF,M,pSyn,0.001548488,0,0.001548488,0
+IM340,"c(289, 97, 729, 786, 234, 1127)",0.1,left,TEa,"c(""TEa5"", ""TEa1"", ""TEa6a"", ""TEa6b"", ""TEa4"", ""TEa2/3"")",WT,mPFF,F,pSyn,4.25E-05,0,4.25E-05,0
+IM330,549,0.1,left,TH,TH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,549,0.1,left,TH,TH,WT,mPFF,F,pSyn,0.00020756,0,0.00020756,0
+IM337,549,0.1,left,TH,TH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,549,0.1,left,TH,TH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1,0.1,left,TM,TMv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1,0.1,left,TM,TMv,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1,0.1,left,TM,TMv,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1,0.1,left,TM,TMv,WT,mPFF,F,pSyn,0,0,0,0
+IM333,566,0.1,left,TR,TR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,566,0.1,left,TR,TR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,566,0.1,left,TR,TR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,574,0.1,left,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,574,0.1,left,TRN,TRN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,574,0.1,left,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,574,0.1,left,TRN,TRN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1043,0.1,left,tspc,tspc,WT,mPFF,M,pSyn,0.000519301,0,0.000519301,0
+IM333,1043,0.1,left,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1043,0.1,left,tspc,tspc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1043,0.1,left,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(597, 605)",0.1,left,TT,"c(""TTd"", ""TTv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(605, 597)",0.1,left,TT,"c(""TTv"", ""TTd"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(605, 597)",0.1,left,TT,"c(""TTv"", ""TTd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(605, 597)",0.1,left,TT,"c(""TTv"", ""TTd"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,614,0.1,left,TU,TU,WT,mPFF,M,pSyn,0,0,0,0
+IM333,614,0.1,left,TU,TU,WT,mPFF,F,pSyn,0,0,0,0
+IM337,614,0.1,left,TU,TU,WT,mPFF,M,pSyn,0,0,0,0
+IM340,614,0.1,left,TU,TU,WT,mPFF,F,pSyn,0,0,0,0
+IM330,629,0.1,left,VAL,VAL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,629,0.1,left,VAL,VAL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,629,0.1,left,VAL,VAL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,629,0.1,left,VAL,VAL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782550, 312782562, 312782566, 312782554, 312782558, 312782570)",0.1,left,VISa,"c(""VISa1"", ""VISa5"", ""VISa6a"", ""VISa2/3"", ""VISa4"", ""VISa6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782558, 312782562, 312782554, 312782570, 312782566, 312782550)",0.1,left,VISa,"c(""VISa4"", ""VISa5"", ""VISa2/3"", ""VISa6b"", ""VISa6a"", ""VISa1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(312782550, 312782554, 312782570, 312782562, 312782566, 312782558)",0.1,left,VISa,"c(""VISa1"", ""VISa2/3"", ""VISa6b"", ""VISa5"", ""VISa6a"", ""VISa4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782550, 312782554, 312782562, 312782558, 312782570, 312782566)",0.1,left,VISa,"c(""VISa1"", ""VISa2/3"", ""VISa5"", ""VISa4"", ""VISa6b"", ""VISa6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(905, 233, 1114, 1074, 649, 601)",0.1,left,VISal,"c(""VISal2/3"", ""VISal5"", ""VISal4"", ""VISal1"", ""VISal6b"", ""VISal6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(649, 905, 1114, 601, 233, 1074)",0.1,left,VISal,"c(""VISal6b"", ""VISal2/3"", ""VISal4"", ""VISal6a"", ""VISal5"", ""VISal1"")",WT,mPFF,M,pSyn,2.53E-05,0,2.53E-05,0
+IM340,"c(905, 1114, 1074, 233, 601, 649)",0.1,left,VISal,"c(""VISal2/3"", ""VISal4"", ""VISal1"", ""VISal5"", ""VISal6a"", ""VISal6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1046, 433, 1066, 401, 281, 441)",0.1,left,VISam,"c(""VISam6a"", ""VISam5"", ""VISam2/3"", ""VISam4"", ""VISam1"", ""VISam6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(433, 441, 1066, 401, 1046, 281)",0.1,left,VISam,"c(""VISam5"", ""VISam6b"", ""VISam2/3"", ""VISam4"", ""VISam6a"", ""VISam1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1066, 1046, 433, 281, 441, 401)",0.1,left,VISam,"c(""VISam2/3"", ""VISam6a"", ""VISam5"", ""VISam1"", ""VISam6b"", ""VISam4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(401, 1046, 1066, 441, 281, 433)",0.1,left,VISam,"c(""VISam4"", ""VISam6a"", ""VISam2/3"", ""VISam6b"", ""VISam1"", ""VISam5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1058, 897, 849, 857, 1106, 1010)",0.1,left,VISC,"c(""VISC5"", ""VISC1"", ""VISC6b"", ""VISC6a"", ""VISC2/3"", ""VISC4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(849, 1058, 897, 857, 1010, 1106)",0.1,left,VISC,"c(""VISC6b"", ""VISC5"", ""VISC1"", ""VISC6a"", ""VISC4"", ""VISC2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1010, 849, 857, 1058, 1106, 897)",0.1,left,VISC,"c(""VISC4"", ""VISC6b"", ""VISC6a"", ""VISC5"", ""VISC2/3"", ""VISC1"")",WT,mPFF,M,pSyn,6.30E-05,0,6.30E-05,0
+IM340,"c(897, 1010, 849, 1106, 1058, 857)",0.1,left,VISC,"c(""VISC1"", ""VISC4"", ""VISC6b"", ""VISC2/3"", ""VISC5"", ""VISC6a"")",WT,mPFF,F,pSyn,0.000133309,0,0.000133309,0
+IM330,"c(973, 573, 421, 613)",0.1,left,VISl,"c(""VISl2/3"", ""VISl4"", ""VISl1"", ""VISl5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(421, 973, 613, 573)",0.1,left,VISl,"c(""VISl1"", ""VISl2/3"", ""VISl5"", ""VISl4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(573, 613, 973, 74, 421)",0.1,left,VISl,"c(""VISl4"", ""VISl5"", ""VISl2/3"", ""VISl6a"", ""VISl1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(74, 421, 573, 613, 973)",0.1,left,VISl,"c(""VISl6a"", ""VISl1"", ""VISl4"", ""VISl5"", ""VISl2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782582, 312782586, 312782578)",0.1,left,VISli,"c(""VISli2/3"", ""VISli4"", ""VISli1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782582, 312782578)",0.1,left,VISli,"c(""VISli2/3"", ""VISli1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(312782586, 312782578, 312782582)",0.1,left,VISli,"c(""VISli4"", ""VISli1"", ""VISli2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782578, 312782590, 312782586, 312782582)",0.1,left,VISli,"c(""VISli1"", ""VISli5"", ""VISli4"", ""VISli2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(821, 593, 721, 778, 33)",0.1,left,VISp,"c(""VISp2/3"", ""VISp1"", ""VISp4"", ""VISp5"", ""VISp6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(821, 33, 778, 305, 593, 721)",0.1,left,VISp,"c(""VISp2/3"", ""VISp6a"", ""VISp5"", ""VISp6b"", ""VISp1"", ""VISp4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(778, 821, 305, 721, 33, 593)",0.1,left,VISp,"c(""VISp5"", ""VISp2/3"", ""VISp6b"", ""VISp4"", ""VISp6a"", ""VISp1"")",WT,mPFF,M,pSyn,9.66E-06,0,9.66E-06,0
+IM340,"c(821, 305, 778, 593, 33, 721)",0.1,left,VISp,"c(""VISp2/3"", ""VISp6b"", ""VISp5"", ""VISp1"", ""VISp6a"", ""VISp4"")",WT,mPFF,F,pSyn,0.000123137,0,0.000123137,0
+IM330,"c(902, 393, 377, 869)",0.1,left,VISpl,"c(""VISpl5"", ""VISpl6b"", ""VISpl6a"", ""VISpl4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(902, 393, 377, 869)",0.1,left,VISpl,"c(""VISpl5"", ""VISpl6b"", ""VISpl6a"", ""VISpl4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(902, 393, 869, 377)",0.1,left,VISpl,"c(""VISpl5"", ""VISpl6b"", ""VISpl4"", ""VISpl6a"")",WT,mPFF,M,pSyn,0.000356055,0,0.000356055,0
+IM340,"c(393, 902, 377, 869)",0.1,left,VISpl,"c(""VISpl6b"", ""VISpl5"", ""VISpl6a"", ""VISpl4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(469, 501, 257, 805, 41, 565)",0.1,left,VISpm,"c(""VISpm6b"", ""VISpm4"", ""VISpm6a"", ""VISpm1"", ""VISpm2/3"", ""VISpm5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(257, 469, 41, 501, 805, 565)",0.1,left,VISpm,"c(""VISpm6a"", ""VISpm6b"", ""VISpm2/3"", ""VISpm4"", ""VISpm1"", ""VISpm5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(565, 41, 257, 469, 501, 805)",0.1,left,VISpm,"c(""VISpm5"", ""VISpm2/3"", ""VISpm6a"", ""VISpm6b"", ""VISpm4"", ""VISpm1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782652, 312782636, 312782644, 312782648, 312782640, 312782632)",0.1,left,VISpor,"c(""VISpor6b"", ""VISpor2/3"", ""VISpor5"", ""VISpor6a"", ""VISpor4"", ""VISpor1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782648, 312782640, 312782632, 312782636, 312782644)",0.1,left,VISpor,"c(""VISpor6a"", ""VISpor4"", ""VISpor1"", ""VISpor2/3"", ""VISpor5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(312782636, 312782632, 312782652, 312782640, 312782648, 312782644)",0.1,left,VISpor,"c(""VISpor2/3"", ""VISpor1"", ""VISpor6b"", ""VISpor4"", ""VISpor6a"", ""VISpor5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782648, 312782640, 312782636, 312782644, 312782632, 312782652)",0.1,left,VISpor,"c(""VISpor6a"", ""VISpor4"", ""VISpor2/3"", ""VISpor5"", ""VISpor1"", ""VISpor6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782608, 312782616, 312782620, 312782612, 312782604)",0.1,left,VISrl,"c(""VISrl2/3"", ""VISrl5"", ""VISrl6a"", ""VISrl4"", ""VISrl1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782624, 312782608, 312782604, 312782616, 312782620, 312782612)",0.1,left,VISrl,"c(""VISrl6b"", ""VISrl2/3"", ""VISrl1"", ""VISrl5"", ""VISrl6a"", ""VISrl4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(312782608, 312782620, 312782624, 312782612, 312782616, 312782604)",0.1,left,VISrl,"c(""VISrl2/3"", ""VISrl6a"", ""VISrl6b"", ""VISrl4"", ""VISrl5"", ""VISrl1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782608, 312782620, 312782604, 312782612, 312782616, 312782624)",0.1,left,VISrl,"c(""VISrl2/3"", ""VISrl6a"", ""VISrl1"", ""VISrl4"", ""VISrl5"", ""VISrl6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,685,0.1,left,VM,VM,WT,mPFF,M,pSyn,0,0,0,0
+IM333,685,0.1,left,VM,VM,WT,mPFF,F,pSyn,0,0,0,0
+IM337,685,0.1,left,VM,VM,WT,mPFF,M,pSyn,0.000129454,0,0.000129454,0
+IM340,685,0.1,left,VM,VM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,693,0.1,left,VMH,VMH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,693,0.1,left,VMH,VMH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,693,0.1,left,VMH,VMH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,693,0.1,left,VMH,VMH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(741, 725)",0.1,left,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(741, 725)",0.1,left,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(725, 741)",0.1,left,VP,"c(""VPLpc"", ""VPMpc"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(725, 741)",0.1,left,VP,"c(""VPLpc"", ""VPMpc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,718,0.1,left,VPL,VPL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,718,0.1,left,VPL,VPL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,718,0.1,left,VPL,VPL,WT,mPFF,M,pSyn,1.83E-05,0,1.83E-05,0
+IM340,718,0.1,left,VPL,VPL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,733,0.1,left,VPM,VPM,WT,mPFF,M,pSyn,0,0,0,0
+IM333,733,0.1,left,VPM,VPM,WT,mPFF,F,pSyn,0,0,0,0
+IM337,733,0.1,left,VPM,VPM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,733,0.1,left,VPM,VPM,WT,mPFF,F,pSyn,0,0,0,0
+IM333,749,0.1,left,VTA,VTA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,749,0.1,left,VTA,VTA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,749,0.1,left,VTA,VTA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,757,0.1,left,VTN,VTN,WT,mPFF,M,pSyn,0,0,0,0
+IM330,560581559,0.1,left,Xi,Xi,WT,mPFF,M,pSyn,0,0,0,0
+IM333,560581559,0.1,left,Xi,Xi,WT,mPFF,F,pSyn,0,0,0,0
+IM337,560581559,0.1,left,Xi,Xi,WT,mPFF,M,pSyn,0,0,0,0
+IM340,560581559,0.1,left,Xi,Xi,WT,mPFF,F,pSyn,0,0,0,0
+IM330,797,0.1,left,ZI,ZI,WT,mPFF,M,pSyn,0,0,0,0
+IM333,797,0.1,left,ZI,ZI,WT,mPFF,F,pSyn,0,0,0,0
+IM337,797,0.1,left,ZI,ZI,WT,mPFF,M,pSyn,0,0,0,0
+IM340,797,0.1,left,ZI,ZI,WT,mPFF,F,pSyn,8.43E-05,0,8.43E-05,0
+IM330,"c(1015, 211, 935, 919, 927)",0.1,right,ACAd,"c(""ACAd5"", ""ACAd2/3"", ""ACAd1"", ""ACAd6a"", ""ACAd6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(211, 1015, 935, 919, 927)",0.1,right,ACAd,"c(""ACAd2/3"", ""ACAd5"", ""ACAd1"", ""ACAd6a"", ""ACAd6b"")",WT,mPFF,"c(""M"", ""F"")",pSyn,0,0,0,0
+IM337,"c(919, 1015, 927, 211, 935)",0.1,right,ACAd,"c(""ACAd6a"", ""ACAd5"", ""ACAd6b"", ""ACAd2/3"", ""ACAd1"")",WT,mPFF,M,pSyn,1.20E-05,0,1.20E-05,0
+IM340,"c(211, 935, 1015, 919, 927)",0.1,right,ACAd,"c(""ACAd2/3"", ""ACAd1"", ""ACAd5"", ""ACAd6a"", ""ACAd6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(588, 296, 819, 772, 810)",0.1,right,ACAv,"c(""ACAv1"", ""ACAv2/3"", ""ACAv6b"", ""ACAv5"", ""ACAv6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(810, 588, 296, 819, 772)",0.1,right,ACAv,"c(""ACAv6a"", ""ACAv1"", ""ACAv2/3"", ""ACAv6b"", ""ACAv5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(819, 810, 772, 296, 588)",0.1,right,ACAv,"c(""ACAv6b"", ""ACAv6a"", ""ACAv5"", ""ACAv2/3"", ""ACAv1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(810, 296, 819, 772, 588)",0.1,right,ACAv,"c(""ACAv6a"", ""ACAv2/3"", ""ACAv6b"", ""ACAv5"", ""ACAv1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,56,0.1,right,ACB,ACB,WT,mPFF,M,pSyn,1.48E-05,0,1.48E-05,0
+IM333,56,0.1,right,ACB,ACB,WT,mPFF,F,pSyn,5.54E-06,0,5.54E-06,0
+IM337,56,0.1,right,ACB,ACB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,56,0.1,right,ACB,ACB,WT,mPFF,F,pSyn,0.000206007,0,0.000206007,0
+IM330,88,0.1,right,AHN,AHN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,88,0.1,right,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM340,88,0.1,right,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(328, 783, 996, 831, 1101)",0.1,right,AId,"c(""AId2/3"", ""AId6a"", ""AId1"", ""AId6b"", ""AId5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(328, 996, 831, 1101, 783)",0.1,right,AId,"c(""AId2/3"", ""AId1"", ""AId6b"", ""AId5"", ""AId6a"")",WT,mPFF,"c(""M"", ""F"")",pSyn,0,0,0,0
+IM337,"c(996, 328, 783, 1101, 831)",0.1,right,AId,"c(""AId1"", ""AId2/3"", ""AId6a"", ""AId5"", ""AId6b"")",WT,mPFF,M,pSyn,1.20E-05,0,1.20E-05,0
+IM340,"c(996, 1101, 328, 783, 831)",0.1,right,AId,"c(""AId1"", ""AId5"", ""AId2/3"", ""AId6a"", ""AId6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(314, 120, 344, 163, 355)",0.1,right,AIp,"c(""AIp6a"", ""AIp1"", ""AIp5"", ""AIp2/3"", ""AIp6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(355, 314, 120, 344, 163)",0.1,right,AIp,"c(""AIp6b"", ""AIp6a"", ""AIp1"", ""AIp5"", ""AIp2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(120, 355, 344, 314, 163)",0.1,right,AIp,"c(""AIp1"", ""AIp6b"", ""AIp5"", ""AIp6a"", ""AIp2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(355, 314, 163, 344, 120)",0.1,right,AIp,"c(""AIp6b"", ""AIp6a"", ""AIp2/3"", ""AIp5"", ""AIp1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(675, 800, 694, 704)",0.1,right,AIv,"c(""AIv6a"", ""AIv5"", ""AIv2/3"", ""AIv1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(800, 694, 675, 704)",0.1,right,AIv,"c(""AIv5"", ""AIv2/3"", ""AIv6a"", ""AIv1"")",WT,mPFF,"c(""M"", ""F"")",pSyn,0,0,0,0
+IM337,"c(675, 704, 800, 694)",0.1,right,AIv,"c(""AIv6a"", ""AIv1"", ""AIv5"", ""AIv2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(800, 675, 694, 704)",0.1,right,AIv,"c(""AIv5"", ""AIv6a"", ""AIv2/3"", ""AIv1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,466,0.1,right,alv,alv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,466,0.1,right,alv,alv,WT,mPFF,F,pSyn,3.75E-05,0,3.75E-05,0
+IM337,466,0.1,right,alv,alv,WT,mPFF,M,pSyn,0,0,0,0
+IM340,466,0.1,right,alv,alv,WT,mPFF,F,pSyn,0,0,0,0
+IM330,884,0.1,right,amc,amc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,884,0.1,right,amc,amc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,884,0.1,right,amc,amc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,884,0.1,right,amc,amc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,159,0.1,right,AON,AON,WT,mPFF,M,pSyn,0,0,0,0
+IM333,159,0.1,right,AON,AON,WT,mPFF,M,pSyn,0.00121072,0,0.00121072,0
+IM337,159,0.1,right,AON,AON,WT,mPFF,M,pSyn,0,0,0,0
+IM340,159,0.1,right,AON,AON,WT,mPFF,F,pSyn,0,0,0,0
+IM333,215,0.1,right,APN,APN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,215,0.1,right,APN,APN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,215,0.1,right,APN,APN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682508,0.1,right,APr,APr,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682508,0.1,right,APr,APr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682508,0.1,right,APr,APr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682508,0.1,right,APr,APr,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682524,0.1,right,ar,ar,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682524,0.1,right,ar,ar,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682524,0.1,right,ar,ar,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682524,0.1,right,ar,ar,WT,mPFF,F,pSyn,0,0,0,0
+IM330,223,0.1,right,ARH,ARH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,223,0.1,right,ARH,ARH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,223,0.1,right,ARH,ARH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,223,0.1,right,ARH,ARH,WT,mPFF,F,pSyn,0,0,0,0
+IM333,231,0.1,right,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,231,0.1,right,AT,AT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,231,0.1,right,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(600, 527, 678, 243, 156, 252)",0.1,right,AUDd,"c(""AUDd2/3"", ""AUDd1"", ""AUDd4"", ""AUDd6b"", ""AUDd6a"", ""AUDd5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(252, 243, 156, 678, 600, 527)",0.1,right,AUDd,"c(""AUDd5"", ""AUDd6b"", ""AUDd6a"", ""AUDd4"", ""AUDd2/3"", ""AUDd1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(252, 527, 243, 156, 600, 678)",0.1,right,AUDd,"c(""AUDd5"", ""AUDd1"", ""AUDd6b"", ""AUDd6a"", ""AUDd2/3"", ""AUDd4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(527, 156, 252, 243, 600, 678)",0.1,right,AUDd,"c(""AUDd1"", ""AUDd6a"", ""AUDd5"", ""AUDd6b"", ""AUDd2/3"", ""AUDd4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(816, 847, 251, 735, 954)",0.1,right,AUDp,"c(""AUDp4"", ""AUDp5"", ""AUDp2/3"", ""AUDp1"", ""AUDp6a"")",WT,mPFF,M,pSyn,0.000144833,0,0.000144833,0
+IM333,"c(954, 251, 735, 816, 847, 1005)",0.1,right,AUDp,"c(""AUDp6a"", ""AUDp2/3"", ""AUDp1"", ""AUDp4"", ""AUDp5"", ""AUDp6b"")",WT,mPFF,F,pSyn,1.11E-05,0,1.11E-05,0
+IM337,"c(735, 847, 1005, 251, 954, 816)",0.1,right,AUDp,"c(""AUDp1"", ""AUDp5"", ""AUDp6b"", ""AUDp2/3"", ""AUDp6a"", ""AUDp4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(251, 816, 847, 1005, 954, 735)",0.1,right,AUDp,"c(""AUDp2/3"", ""AUDp4"", ""AUDp5"", ""AUDp6b"", ""AUDp6a"", ""AUDp1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(456, 696, 643, 791, 249, 759)",0.1,right,AUDpo,"c(""AUDpo6b"", ""AUDpo1"", ""AUDpo2/3"", ""AUDpo5"", ""AUDpo6a"", ""AUDpo4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(696, 249, 759, 643, 456, 791)",0.1,right,AUDpo,"c(""AUDpo1"", ""AUDpo6a"", ""AUDpo4"", ""AUDpo2/3"", ""AUDpo6b"", ""AUDpo5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(643, 759, 456, 249, 791, 696)",0.1,right,AUDpo,"c(""AUDpo2/3"", ""AUDpo4"", ""AUDpo6b"", ""AUDpo6a"", ""AUDpo5"", ""AUDpo1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(959, 990, 755, 520, 1023, 598)",0.1,right,AUDv,"c(""AUDv1"", ""AUDv4"", ""AUDv2/3"", ""AUDv6a"", ""AUDv5"", ""AUDv6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(990, 755, 598, 959, 1023, 520)",0.1,right,AUDv,"c(""AUDv4"", ""AUDv2/3"", ""AUDv6b"", ""AUDv1"", ""AUDv5"", ""AUDv6a"")",WT,mPFF,F,pSyn,5.81E-05,0,5.81E-05,0
+IM337,"c(520, 1023, 598, 755, 990, 959)",0.1,right,AUDv,"c(""AUDv6a"", ""AUDv5"", ""AUDv6b"", ""AUDv2/3"", ""AUDv4"", ""AUDv1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(959, 755, 990, 520, 598, 1023)",0.1,right,AUDv,"c(""AUDv1"", ""AUDv2/3"", ""AUDv4"", ""AUDv6a"", ""AUDv6b"", ""AUDv5"")",WT,mPFF,F,pSyn,0.000213351,0,0.000213351,0
+IM333,292,0.1,right,BA,BA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,482,0.1,right,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM333,482,0.1,right,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM337,482,0.1,right,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM340,482,0.1,right,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(303, 451, 311)",0.1,right,BLA,"c(""BLAa"", ""BLAv"", ""BLAp"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(451, 311, 303)",0.1,right,BLA,"c(""BLAv"", ""BLAp"", ""BLAa"")",WT,mPFF,F,pSyn,1.94E-05,0,1.94E-05,0
+IM337,"c(303, 451, 311)",0.1,right,BLA,"c(""BLAa"", ""BLAv"", ""BLAp"")",WT,mPFF,M,pSyn,0.000260424,0,0.000260424,0
+IM340,"c(311, 303, 451)",0.1,right,BLA,"c(""BLAp"", ""BLAa"", ""BLAv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(334, 327)",0.1,right,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(334, 327)",0.1,right,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(327, 334)",0.1,right,BMA,"c(""BMAa"", ""BMAp"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(327, 334)",0.1,right,BMA,"c(""BMAa"", ""BMAp"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,916,0.1,right,bsc,bsc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,916,0.1,right,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,916,0.1,right,bsc,bsc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,916,0.1,right,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,382,0.1,right,CA1,CA1,WT,mPFF,M,pSyn,0,0,0,0
+IM333,382,0.1,right,CA1,CA1,WT,mPFF,F,pSyn,0,0,0,0
+IM337,382,0.1,right,CA1,CA1,WT,mPFF,M,pSyn,0,0,0,0
+IM340,382,0.1,right,CA1,CA1,WT,mPFF,F,pSyn,0,0,0,0
+IM330,423,0.1,right,CA2,CA2,WT,mPFF,M,pSyn,0,0,0,0
+IM333,423,0.1,right,CA2,CA2,WT,mPFF,F,pSyn,0,0,0,0
+IM337,423,0.1,right,CA2,CA2,WT,mPFF,M,pSyn,0,0,0,0
+IM340,423,0.1,right,CA2,CA2,WT,mPFF,F,pSyn,0.001020048,0,0.001020048,0
+IM330,463,0.1,right,CA3,CA3,WT,mPFF,M,pSyn,0,0,0,0
+IM333,463,0.1,right,CA3,CA3,WT,mPFF,F,pSyn,0,0,0,0
+IM337,463,0.1,right,CA3,CA3,WT,mPFF,M,pSyn,9.54E-06,0,9.54E-06,0
+IM340,463,0.1,right,CA3,CA3,WT,mPFF,F,pSyn,1.38E-05,0,1.38E-05,0
+IM330,512,0.1,right,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,512,0.1,right,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,512,0.1,right,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,512,0.1,right,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(484682516, 964, 971, 986)",0.1,right,cc,"c(""ccb"", ""ee"", ""fp"", ""ccs"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(484682516, 986, 964, 971)",0.1,right,cc,"c(""ccb"", ""ccs"", ""ee"", ""fp"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(964, 484682516, 986, 971)",0.1,right,cc,"c(""ee"", ""ccb"", ""ccs"", ""fp"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(484682516, 986, 964, 971)",0.1,right,cc,"c(""ccb"", ""ccs"", ""ee"", ""fp"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,1108,0.1,right,ccg,ccg,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1108,0.1,right,ccg,ccg,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1108,0.1,right,ccg,ccg,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1108,0.1,right,ccg,ccg,WT,mPFF,F,pSyn,4.00E-05,0,4.00E-05,0
+IM330,"c(551, 544, 559)",0.1,right,CEA,"c(""CEAl"", ""CEAc"", ""CEAm"")",WT,mPFF,M,pSyn,0.004391452,0,0.004391452,0
+IM333,"c(544, 559, 551)",0.1,right,CEA,"c(""CEAc"", ""CEAm"", ""CEAl"")",WT,mPFF,F,pSyn,4.65E-05,0,4.65E-05,0
+IM337,"c(551, 559, 544)",0.1,right,CEA,"c(""CEAl"", ""CEAm"", ""CEAc"")",WT,mPFF,M,pSyn,0.002664267,0.002182431,0.000481835,1.190643187
+IM340,"c(551, 559, 544)",0.1,right,CEA,"c(""CEAl"", ""CEAm"", ""CEAc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,940,0.1,right,cing,cing,WT,mPFF,M,pSyn,0,0,0,0
+IM333,940,0.1,right,cing,cing,WT,mPFF,F,pSyn,0.000536843,0,0.000536843,0
+IM337,940,0.1,right,cing,cing,WT,mPFF,M,pSyn,0,0,0,0
+IM340,940,0.1,right,cing,cing,WT,mPFF,F,pSyn,0,0,0,0
+IM330,575,0.1,right,CL,CL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,575,0.1,right,CL,CL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,575,0.1,right,CL,CL,WT,mPFF,M,pSyn,0.001025507,0,0.001025507,0
+IM340,575,0.1,right,CL,CL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,583,0.1,right,CLA,CLA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,583,0.1,right,CLA,CLA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,583,0.1,right,CLA,CLA,WT,mPFF,M,pSyn,8.25E-05,0,8.25E-05,0
+IM340,583,0.1,right,CLA,CLA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,591,0.1,right,CLI,CLI,WT,mPFF,M,pSyn,0,0,0,0
+IM333,591,0.1,right,CLI,CLI,WT,mPFF,F,pSyn,0,0,0,0
+IM337,591,0.1,right,CLI,CLI,WT,mPFF,M,pSyn,0,0,0,0
+IM340,591,0.1,right,CLI,CLI,WT,mPFF,F,pSyn,0,0,0,0
+IM330,599,0.1,right,CM,CM,WT,mPFF,M,pSyn,0,0,0,0
+IM333,599,0.1,right,CM,CM,WT,mPFF,F,pSyn,0.000629532,0,0.000629532,0
+IM337,599,0.1,right,CM,CM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,599,0.1,right,CM,CM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,639,0.1,right,COA,COAa,WT,mPFF,M,pSyn,0,0,0,0
+IM333,639,0.1,right,COA,COAa,WT,mPFF,F,pSyn,0,0,0,0
+IM337,639,0.1,right,COA,COAa,WT,mPFF,M,pSyn,0,0,0,0
+IM340,639,0.1,right,COA,COAa,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(655, 663)",0.1,right,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(663, 655)",0.1,right,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(655, 663)",0.1,right,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(663, 655)",0.1,right,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,672,0.1,right,CP,CP,WT,mPFF,M,pSyn,5.93E-06,0,5.93E-06,0
+IM333,672,0.1,right,CP,CP,WT,mPFF,F,pSyn,1.72E-05,0,1.72E-05,0
+IM337,672,0.1,right,CP,CP,WT,mPFF,M,pSyn,0.000109425,0,0.000109425,0
+IM340,672,0.1,right,CP,CP,WT,mPFF,F,pSyn,3.59E-05,0,3.59E-05,0
+IM333,924,0.1,right,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM337,924,0.1,right,cpd,cpd,WT,mPFF,M,pSyn,0,0,0,0
+IM340,924,0.1,right,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM330,679,0.1,right,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM333,679,0.1,right,CS,CS,WT,mPFF,F,pSyn,0,0,0,0
+IM337,679,0.1,right,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM340,679,0.1,right,CS,CS,WT,mPFF,F,pSyn,0,0,0,0
+IM330,784,0.1,right,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM333,784,0.1,right,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM337,784,0.1,right,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM340,784,0.1,right,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM330,703,0.1,right,CTXsp,CTXsp,WT,mPFF,M,pSyn,0,0,0,0
+IM333,703,0.1,right,CTXsp,CTXsp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,703,0.1,right,CTXsp,CTXsp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,703,0.1,right,CTXsp,CTXsp,WT,mPFF,F,pSyn,8.28E-05,0,8.28E-05,0
+IM330,"c(10703, 632, 10704)",0.1,right,DG,"c(""DG-mo"", ""DG-sg"", ""DG-po"")",WT,mPFF,M,pSyn,5.65E-06,0,5.65E-06,0
+IM333,"c(632, 10703, 10704)",0.1,right,DG,"c(""DG-sg"", ""DG-mo"", ""DG-po"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(10703, 632, 10704)",0.1,right,DG,"c(""DG-mo"", ""DG-sg"", ""DG-po"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(632, 10703, 10704)",0.1,right,DG,"c(""DG-sg"", ""DG-mo"", ""DG-po"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,443,0.1,right,dhc,dhc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,443,0.1,right,dhc,dhc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,443,0.1,right,dhc,dhc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,443,0.1,right,dhc,dhc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,830,0.1,right,DMH,DMH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,830,0.1,right,DMH,DMH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,830,0.1,right,DMH,DMH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,830,0.1,right,DMH,DMH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,814,0.1,right,DP,DP,WT,mPFF,M,pSyn,0,0,0,0
+IM333,814,0.1,right,DP,DP,WT,mPFF,M,pSyn,0,0,0,0
+IM337,814,0.1,right,DP,DP,WT,mPFF,M,pSyn,0,0,0,0
+IM340,814,0.1,right,DP,DP,WT,mPFF,F,pSyn,0,0,0,0
+IM333,872,0.1,right,DR,DR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,872,0.1,right,DR,DR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,872,0.1,right,DR,DR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,812,0.1,right,dscp,dscp,WT,mPFF,M,pSyn,0,0,0,0
+IM333,812,0.1,right,dscp,dscp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,812,0.1,right,dscp,dscp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,812,0.1,right,dscp,dscp,WT,mPFF,F,pSyn,0,0,0,0
+IM330,579,0.1,right,ec,ec,WT,mPFF,M,pSyn,0,0,0,0
+IM333,579,0.1,right,ec,ec,WT,mPFF,F,pSyn,0,0,0,0
+IM337,579,0.1,right,ec,ec,WT,mPFF,M,pSyn,0.000384692,0,0.000384692,0
+IM340,579,0.1,right,ec,ec,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(977, 1045, 836, 988, 427)",0.1,right,ECT,"c(""ECT6a"", ""ECT6b"", ""ECT1"", ""ECT5"", ""ECT2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(427, 988, 1045, 836, 977)",0.1,right,ECT,"c(""ECT2/3"", ""ECT5"", ""ECT6b"", ""ECT1"", ""ECT6a"")",WT,mPFF,F,pSyn,1.75E-05,0,1.75E-05,0
+IM337,"c(977, 836, 1045, 427, 988)",0.1,right,ECT,"c(""ECT6a"", ""ECT1"", ""ECT6b"", ""ECT2/3"", ""ECT5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(977, 988, 836, 427, 1045)",0.1,right,ECT,"c(""ECT6a"", ""ECT5"", ""ECT1"", ""ECT2/3"", ""ECT6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,1092,0.1,right,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1092,0.1,right,em,em,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1092,0.1,right,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1092,0.1,right,em,em,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(20, 139, 28, 52, 1121)",0.1,right,ENTl,"c(""ENTl2"", ""ENTl5"", ""ENTl6a"", ""ENTl3"", ""ENTl1"")",WT,mPFF,M,pSyn,1.50E-05,0,1.50E-05,0
+IM333,"c(52, 28, 1121, 139, 20)",0.1,right,ENTl,"c(""ENTl3"", ""ENTl6a"", ""ENTl1"", ""ENTl5"", ""ENTl2"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(139, 52, 1121, 20, 28)",0.1,right,ENTl,"c(""ENTl5"", ""ENTl3"", ""ENTl1"", ""ENTl2"", ""ENTl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(52, 1121, 139, 20, 28)",0.1,right,ENTl,"c(""ENTl3"", ""ENTl1"", ""ENTl5"", ""ENTl2"", ""ENTl6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(743, 664, 727, 543, 526)",0.1,right,ENTm,"c(""ENTm6"", ""ENTm3"", ""ENTm5"", ""ENTm2"", ""ENTm1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(664, 543, 727, 526, 743)",0.1,right,ENTm,"c(""ENTm3"", ""ENTm2"", ""ENTm5"", ""ENTm1"", ""ENTm6"")",WT,mPFF,F,pSyn,1.02E-05,0,1.02E-05,0
+IM337,"c(743, 664, 526, 727, 543)",0.1,right,ENTm,"c(""ENTm6"", ""ENTm3"", ""ENTm1"", ""ENTm5"", ""ENTm2"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(743, 664, 727, 543, 526)",0.1,right,ENTm,"c(""ENTm6"", ""ENTm3"", ""ENTm5"", ""ENTm2"", ""ENTm1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(952, 966)",0.1,right,EP,"c(""EPd"", ""EPv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(966, 952)",0.1,right,EP,"c(""EPv"", ""EPd"")",WT,mPFF,"c(""F"", ""M"")",pSyn,0,0,0,0
+IM337,"c(952, 966)",0.1,right,EP,"c(""EPd"", ""EPv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(952, 966)",0.1,right,EP,"c(""EPd"", ""EPv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,560581551,0.1,right,Eth,Eth,WT,mPFF,M,pSyn,0,0,0,0
+IM333,560581551,0.1,right,Eth,Eth,WT,mPFF,F,pSyn,0,0,0,0
+IM337,560581551,0.1,right,Eth,Eth,WT,mPFF,M,pSyn,0,0,0,0
+IM340,560581551,0.1,right,Eth,Eth,WT,mPFF,F,pSyn,0,0,0,0
+IM333,975,0.1,right,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM337,975,0.1,right,EW,EW,WT,mPFF,M,pSyn,0,0,0,0
+IM340,975,0.1,right,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM330,982,0.1,right,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM333,982,0.1,right,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM337,982,0.1,right,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM340,982,0.1,right,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM330,603,0.1,right,fi,fi,WT,mPFF,M,pSyn,0,0,0,0
+IM333,603,0.1,right,fi,fi,WT,mPFF,F,pSyn,0,0,0,0
+IM337,603,0.1,right,fi,fi,WT,mPFF,M,pSyn,0,0,0,0
+IM340,603,0.1,right,fi,fi,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1009,0.1,right,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1009,0.1,right,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1009,0.1,right,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,0.00171827,0,0.00171827,0
+IM340,1009,0.1,right,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0,0,0,0
+IM330,595,0.1,right,fr,fr,WT,mPFF,M,pSyn,0,0,0,0
+IM333,595,0.1,right,fr,fr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,595,0.1,right,fr,fr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,595,0.1,right,fr,fr,WT,mPFF,F,pSyn,0,0,0,0
+IM330,526157196,0.1,right,FRP,FRP6a,WT,mPFF,M,pSyn,0,0,0,0
+IM333,526157196,0.1,right,FRP,FRP6a,WT,mPFF,M,pSyn,0,0,0,0
+IM337,526157196,0.1,right,FRP,FRP6a,WT,mPFF,M,pSyn,0,0,0,0
+IM340,526157196,0.1,right,FRP,FRP6a,WT,mPFF,F,pSyn,0,0,0,0
+IM330,436,0.1,right,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM333,436,0.1,right,fx,fx,WT,mPFF,F,pSyn,0,0,0,0
+IM337,436,0.1,right,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM340,436,0.1,right,fx,fx,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(187, 36, 638, 148, 662, 180)",0.1,right,GU,"c(""GU5"", ""GU1"", ""GU6a"", ""GU4"", ""GU6b"", ""GU2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(180, 662, 148, 36, 638, 187)",0.1,right,GU,"c(""GU2/3"", ""GU6b"", ""GU4"", ""GU1"", ""GU6a"", ""GU5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(662, 180, 187, 148, 36, 638)",0.1,right,GU,"c(""GU6b"", ""GU2/3"", ""GU5"", ""GU4"", ""GU1"", ""GU6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(662, 180, 36, 148, 638, 187)",0.1,right,GU,"c(""GU6b"", ""GU2/3"", ""GU1"", ""GU4"", ""GU6a"", ""GU5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,589508447,0.1,right,HATA,HATA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,589508447,0.1,right,HATA,HATA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,589508447,0.1,right,HATA,HATA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,589508447,0.1,right,HATA,HATA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,611,0.1,right,hbc,hbc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,611,0.1,right,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,611,0.1,right,hbc,hbc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,611,0.1,right,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1089,0.1,right,HPF,HPF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1089,0.1,right,HPF,HPF,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1089,0.1,right,HPF,HPF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1089,0.1,right,HPF,HPF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1097,0.1,right,HY,HY,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1097,0.1,right,HY,HY,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1097,0.1,right,HY,HY,WT,mPFF,M,pSyn,9.15E-06,0,9.15E-06,0
+IM340,1097,0.1,right,HY,HY,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1105,0.1,right,IA,IA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1105,0.1,right,IA,IA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1105,0.1,right,IA,IA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1105,0.1,right,IA,IA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,828,0.1,right,IC,ICe,WT,mPFF,M,pSyn,0,0,0,0
+IM333,828,0.1,right,IC,ICe,WT,mPFF,F,pSyn,0,0,0,0
+IM337,828,0.1,right,IC,ICe,WT,mPFF,M,pSyn,0,0,0,0
+IM340,828,0.1,right,IC,ICe,WT,mPFF,F,pSyn,0,0,0,0
+IM330,12,0.1,right,IF,IF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,12,0.1,right,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM337,12,0.1,right,IF,IF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,12,0.1,right,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,19,0.1,right,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,19,0.1,right,IG,IG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,19,0.1,right,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,19,0.1,right,IG,IG,WT,mPFF,F,pSyn,0,0,0,0
+IM330,27,0.1,right,IGL,IGL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,27,0.1,right,IGL,IGL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,35,0.1,right,III,III,WT,mPFF,M,pSyn,0,0,0,0
+IM333,848,0.1,right,IIn,IIn,WT,mPFF,F,pSyn,0,0,0,0
+IM337,848,0.1,right,IIn,IIn,WT,mPFF,M,pSyn,0,0,0,0
+IM340,848,0.1,right,IIn,IIn,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(556, 827, 707, 1054)",0.1,right,ILA,"c(""ILA2/3"", ""ILA5"", ""ILA1"", ""ILA6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(707, 556, 827, 1054)",0.1,right,ILA,"c(""ILA1"", ""ILA2/3"", ""ILA5"", ""ILA6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM337,"c(827, 556, 707)",0.1,right,ILA,"c(""ILA5"", ""ILA2/3"", ""ILA1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(556, 1054, 827, 707)",0.1,right,ILA,"c(""ILA2/3"", ""ILA6a"", ""ILA5"", ""ILA1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,59,0.1,right,IMD,IMD,WT,mPFF,M,pSyn,0,0,0,0
+IM333,59,0.1,right,IMD,IMD,WT,mPFF,F,pSyn,0,0,0,0
+IM337,59,0.1,right,IMD,IMD,WT,mPFF,M,pSyn,0,0,0,0
+IM340,59,0.1,right,IMD,IMD,WT,mPFF,F,pSyn,0.001065,0,0.001065,0
+IM330,900,0.1,right,In,aco,WT,mPFF,M,pSyn,0,0,0,0
+IM333,900,0.1,right,In,aco,WT,mPFF,"c(""F"", ""M"")",pSyn,0,0,0,0
+IM337,900,0.1,right,In,aco,WT,mPFF,M,pSyn,0,0,0,0
+IM340,900,0.1,right,In,aco,WT,mPFF,F,pSyn,0,0,0,0
+IM333,67,0.1,right,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM337,67,0.1,right,INC,INC,WT,mPFF,M,pSyn,0,0,0,0
+IM340,67,0.1,right,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM330,6,0.1,right,int,int,WT,mPFF,M,pSyn,0,0,0,0
+IM333,6,0.1,right,int,int,WT,mPFF,F,pSyn,0,0,0,0
+IM337,6,0.1,right,int,int,WT,mPFF,M,pSyn,0,0,0,0
+IM340,6,0.1,right,int,int,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(607344850, 607344838, 100, 607344854, 607344842, 607344858)",0.1,right,IPN,"c(""IPI"", ""IPC"", ""IPN"", ""IPDM"", ""IPA"", ""IPDL"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(607344834, 607344862, 607344858)",0.1,right,IPN,"c(""IPR"", ""IPRL"", ""IPDL"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(607344834, 607344862)",0.1,right,IPN,"c(""IPR"", ""IPRL"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(607344834, 607344862)",0.1,right,IPN,"c(""IPR"", ""IPRL"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,131,0.1,right,LA,LA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,131,0.1,right,LA,LA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,131,0.1,right,LA,LA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,131,0.1,right,LA,LA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,155,0.1,right,LD,LD,WT,mPFF,M,pSyn,0,0,0,0
+IM333,155,0.1,right,LD,LD,WT,mPFF,F,pSyn,0,0,0,0
+IM337,155,0.1,right,LD,LD,WT,mPFF,M,pSyn,4.84E-05,0,4.84E-05,0
+IM340,155,0.1,right,LD,LD,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(496345672, 496345668, 496345664)",0.1,right,LGd,"c(""LGd-ip"", ""LGd-co"", ""LGd-sh"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(496345664, 496345668, 496345672)",0.1,right,LGd,"c(""LGd-sh"", ""LGd-co"", ""LGd-ip"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(496345668, 496345664, 496345672)",0.1,right,LGd,"c(""LGd-co"", ""LGd-sh"", ""LGd-ip"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(496345664, 496345668, 496345672)",0.1,right,LGd,"c(""LGd-sh"", ""LGd-co"", ""LGd-ip"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,178,0.1,right,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,178,0.1,right,LGv,LGv,WT,mPFF,F,pSyn,0,0,0,0
+IM337,178,0.1,right,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM340,178,0.1,right,LGv,LGv,WT,mPFF,F,pSyn,0,0,0,0
+IM330,186,0.1,right,LH,LH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,186,0.1,right,LH,LH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,186,0.1,right,LH,LH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,186,0.1,right,LH,LH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,194,0.1,right,LHA,LHA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,194,0.1,right,LHA,LHA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,194,0.1,right,LHA,LHA,WT,mPFF,M,pSyn,5.96E-05,0,5.96E-05,0
+IM340,194,0.1,right,LHA,LHA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,658,0.1,right,ll,ll,WT,mPFF,M,pSyn,8.05E-05,0,8.05E-05,0
+IM333,658,0.1,right,ll,ll,WT,mPFF,F,pSyn,0.000491505,0,0.000491505,0
+IM337,658,0.1,right,ll,ll,WT,mPFF,M,pSyn,0,0,0,0
+IM340,658,0.1,right,ll,ll,WT,mPFF,F,pSyn,0,0,0,0
+IM337,210,0.1,right,LM,LM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,210,0.1,right,LM,LM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,665,0.1,right,lotg,lot,WT,mPFF,M,pSyn,0,0,0,0
+IM333,665,0.1,right,lotg,lot,WT,mPFF,"c(""M"", ""F"")",pSyn,0,0,0,0
+IM337,665,0.1,right,lotg,lot,WT,mPFF,M,pSyn,0,0,0,0
+IM340,665,0.1,right,lotg,lot,WT,mPFF,F,pSyn,0,0,0,0
+IM330,218,0.1,right,LP,LP,WT,mPFF,M,pSyn,0,0,0,0
+IM333,218,0.1,right,LP,LP,WT,mPFF,F,pSyn,0.001103246,0,0.001103246,0
+IM337,218,0.1,right,LP,LP,WT,mPFF,M,pSyn,0,0,0,0
+IM340,218,0.1,right,LP,LP,WT,mPFF,F,pSyn,0,0,0,0
+IM333,226,0.1,right,LPO,LPO,WT,mPFF,F,pSyn,0,0,0,0
+IM340,226,0.1,right,LPO,LPO,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(258, 266)",0.1,right,LS,"c(""LSr"", ""LSv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(266, 258)",0.1,right,LS,"c(""LSv"", ""LSr"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(258, 266)",0.1,right,LS,"c(""LSr"", ""LSv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(266, 258)",0.1,right,LS,"c(""LSv"", ""LSr"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,66,0.1,right,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,66,0.1,right,LT,LT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,66,0.1,right,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM333,549009211,0.1,right,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM337,549009211,0.1,right,MA3,MA3,WT,mPFF,M,pSyn,0,0,0,0
+IM340,549009211,0.1,right,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM330,313,0.1,right,MB,MB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,313,0.1,right,MB,MB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,313,0.1,right,MB,MB,WT,mPFF,M,pSyn,3.00E-06,0,3.00E-06,0
+IM340,313,0.1,right,MB,MB,WT,mPFF,F,pSyn,1.64E-05,0,1.64E-05,0
+IM330,246,0.1,right,MBmot,RR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,381,0.1,right,MBmot,SNr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,381,0.1,right,MBmot,SNr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,381,0.1,right,MBmot,SNr,WT,mPFF,F,pSyn,0,0,0,0
+IM333,374,0.1,right,MBsta,SNc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,374,0.1,right,MBsta,SNc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,374,0.1,right,MBsta,SNc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,78,0.1,right,mcp,mcp,WT,mPFF,M,pSyn,0,0,0,0
+IM333,78,0.1,right,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,78,0.1,right,mcp,mcp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,78,0.1,right,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM330,362,0.1,right,MD,MD,WT,mPFF,M,pSyn,0,0,0,0
+IM333,362,0.1,right,MD,MD,WT,mPFF,F,pSyn,0,0,0,0
+IM337,362,0.1,right,MD,MD,WT,mPFF,M,pSyn,0,0,0,0
+IM340,362,0.1,right,MD,MD,WT,mPFF,F,pSyn,0,0,0,0
+IM330,10671,0.1,right,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM333,10671,0.1,right,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM337,10671,0.1,right,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM340,10671,0.1,right,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM330,403,0.1,right,MEA,MEA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,403,0.1,right,MEA,MEA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,403,0.1,right,MEA,MEA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,403,0.1,right,MEA,MEA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,63,0.1,right,MEZ,PVHd,WT,mPFF,M,pSyn,0,0,0,0
+IM333,63,0.1,right,MEZ,PVHd,WT,mPFF,F,pSyn,0,0,0,0
+IM337,63,0.1,right,MEZ,PVHd,WT,mPFF,M,pSyn,0,0,0,0
+IM340,63,0.1,right,MEZ,PVHd,WT,mPFF,F,pSyn,0,0,0,0
+IM340,54,0.1,right,mfb,mfb,WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(1079, 1072, 1088)",0.1,right,MG,"c(""MGv"", ""MGd"", ""MGm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1072, 1088, 1079)",0.1,right,MG,"c(""MGd"", ""MGm"", ""MGv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1088, 1079, 1072)",0.1,right,MG,"c(""MGm"", ""MGv"", ""MGd"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,483,0.1,right,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,483,0.1,right,MH,MH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,483,0.1,right,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,483,0.1,right,MH,MH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,697,0.1,right,ml,ml,WT,mPFF,M,pSyn,0,0,0,0
+IM333,697,0.1,right,ml,ml,WT,mPFF,F,pSyn,0,0,0,0
+IM337,697,0.1,right,ml,ml,WT,mPFF,M,pSyn,0,0,0,0
+IM340,697,0.1,right,ml,ml,WT,mPFF,F,pSyn,0,0,0,0
+IM330,62,0.1,right,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM333,62,0.1,right,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM337,62,0.1,right,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM340,62,0.1,right,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(606826651, 606826659, 606826655, 606826647)",0.1,right,MM,"c(""MMm"", ""MMd"", ""MMp"", ""MMl"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(606826659, 606826655, 606826647, 606826651)",0.1,right,MM,"c(""MMd"", ""MMp"", ""MMl"", ""MMm"")",WT,mPFF,M,pSyn,0.000116444,0,0.000116444,0
+IM340,"c(606826659, 606826651, 606826655, 606826647, 732)",0.1,right,MM,"c(""MMd"", ""MMm"", ""MMp"", ""MMl"", ""MMme"")",WT,mPFF,F,pSyn,2.58E-05,0,2.58E-05,0
+IM330,"c(943, 648, 320, 844, 882)",0.1,right,MOp,"c(""MOp2/3"", ""MOp5"", ""MOp1"", ""MOp6a"", ""MOp6b"")",WT,mPFF,M,pSyn,0.0005927,0,0.0005927,0
+IM333,"c(943, 320, 648, 882, 844)",0.1,right,MOp,"c(""MOp2/3"", ""MOp1"", ""MOp5"", ""MOp6b"", ""MOp6a"")",WT,mPFF,"c(""F"", ""M"")",pSyn,0,0,0,0
+IM337,"c(882, 943, 320, 648, 844)",0.1,right,MOp,"c(""MOp6b"", ""MOp2/3"", ""MOp1"", ""MOp5"", ""MOp6a"")",WT,mPFF,M,pSyn,2.89E-06,0,2.89E-06,0
+IM340,"c(648, 844, 882, 320, 943)",0.1,right,MOp,"c(""MOp5"", ""MOp6a"", ""MOp6b"", ""MOp1"", ""MOp2/3"")",WT,mPFF,F,pSyn,1.24E-05,0,1.24E-05,0
+IM330,"c(962, 767, 1021, 656, 1085)",0.1,right,MOs,"c(""MOs2/3"", ""MOs5"", ""MOs6a"", ""MOs1"", ""MOs6b"")",WT,mPFF,M,pSyn,1.14E-05,0,1.14E-05,0
+IM333,"c(962, 767, 1021, 656, 1085)",0.1,right,MOs,"c(""MOs2/3"", ""MOs5"", ""MOs6a"", ""MOs1"", ""MOs6b"")",WT,mPFF,"c(""F"", ""M"")",pSyn,0,0,0,0
+IM337,"c(962, 1085, 767, 656, 1021)",0.1,right,MOs,"c(""MOs2/3"", ""MOs6b"", ""MOs5"", ""MOs1"", ""MOs6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1021, 656, 962, 767, 1085)",0.1,right,MOs,"c(""MOs6a"", ""MOs1"", ""MOs2/3"", ""MOs5"", ""MOs6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,93,0.1,right,moV,moV,WT,mPFF,M,pSyn,0,0,0,0
+IM333,93,0.1,right,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM337,93,0.1,right,moV,moV,WT,mPFF,M,pSyn,0,0,0,0
+IM340,93,0.1,right,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM333,673,0.1,right,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,673,0.1,right,mp,mp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,673,0.1,right,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM340,531,0.1,right,MPT,MPT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,128,0.1,right,MRN,MRN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,128,0.1,right,MRN,MRN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,128,0.1,right,MRN,MRN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,128,0.1,right,MRN,MRN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,564,0.1,right,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM333,564,0.1,right,MS,MS,WT,mPFF,F,pSyn,0,0,0,0
+IM337,564,0.1,right,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM340,564,0.1,right,MS,MS,WT,mPFF,F,pSyn,0,0,0,0
+IM333,58,0.1,right,MT,MT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,58,0.1,right,MT,MT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,58,0.1,right,MT,MT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,681,0.1,right,mtg,mtg,WT,mPFF,M,pSyn,0,0,0,0
+IM333,681,0.1,right,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM337,681,0.1,right,mtg,mtg,WT,mPFF,M,pSyn,0,0,0,0
+IM340,681,0.1,right,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM330,690,0.1,right,mtt,mtt,WT,mPFF,M,pSyn,0,0,0,0
+IM333,690,0.1,right,mtt,mtt,WT,mPFF,F,pSyn,0,0,0,0
+IM337,690,0.1,right,mtt,mtt,WT,mPFF,M,pSyn,0,0,0,0
+IM340,690,0.1,right,mtt,mtt,WT,mPFF,F,pSyn,0,0,0,0
+IM330,997,0.1,right,None,None,WT,mPFF,M,pSyn,0,0,0,0
+IM333,997,0.1,right,None,None,WT,mPFF,F,pSyn,0,0,0,0
+IM337,997,0.1,right,None,None,WT,mPFF,M,pSyn,0,0,0,0
+IM340,997,0.1,right,None,None,WT,mPFF,F,pSyn,0,0,0,0
+IM333,587,0.1,right,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM337,587,0.1,right,ND,ND,WT,mPFF,M,pSyn,0,0,0,0
+IM340,587,0.1,right,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM330,596,0.1,right,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,596,0.1,right,NDB,NDB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,596,0.1,right,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,596,0.1,right,NDB,NDB,WT,mPFF,F,pSyn,0,0,0,0
+IM330,612,0.1,right,NLL,NLL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,612,0.1,right,NLL,NLL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,612,0.1,right,NLL,NLL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,612,0.1,right,NLL,NLL,WT,mPFF,F,pSyn,0.00010697,0,0.00010697,0
+IM333,628,0.1,right,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,628,0.1,right,NOT,NOT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,628,0.1,right,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,634,0.1,right,NPC,NPC,WT,mPFF,M,pSyn,0,0,0,0
+IM340,634,0.1,right,NPC,NPC,WT,mPFF,F,pSyn,0,0,0,0
+IM330,102,0.1,right,nst,nst,WT,mPFF,M,pSyn,0,0,0,0
+IM333,102,0.1,right,nst,nst,WT,mPFF,F,pSyn,0,0,0,0
+IM337,102,0.1,right,nst,nst,WT,mPFF,M,pSyn,0,0,0,0
+IM340,102,0.1,right,nst,nst,WT,mPFF,F,pSyn,0,0,0,0
+IM330,698,0.1,right,OLF,OLF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,698,0.1,right,OLF,OLF,WT,mPFF,"c(""M"", ""F"")",pSyn,0,0,0,0
+IM337,698,0.1,right,OLF,OLF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,698,0.1,right,OLF,OLF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,125,0.1,right,opt,opt,WT,mPFF,M,pSyn,0,0,0,0
+IM333,125,0.1,right,opt,opt,WT,mPFF,F,pSyn,0,0,0,0
+IM337,125,0.1,right,opt,opt,WT,mPFF,M,pSyn,0,0,0,0
+IM340,125,0.1,right,opt,opt,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682520,0.1,right,or,or,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682520,0.1,right,or,or,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682520,0.1,right,or,or,WT,mPFF,M,pSyn,2.14E-05,0,2.14E-05,0
+IM340,484682520,0.1,right,or,or,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(412, 448, 440, 630, 488)",0.1,right,ORBl,"c(""ORBl2/3"", ""ORBl1"", ""ORBl6a"", ""ORBl5"", ""ORBl6b"")",WT,mPFF,M,pSyn,6.62E-06,0,6.62E-06,0
+IM333,"c(440, 630, 412, 488, 448)",0.1,right,ORBl,"c(""ORBl6a"", ""ORBl5"", ""ORBl2/3"", ""ORBl6b"", ""ORBl1"")",WT,mPFF,M,pSyn,1.58E-05,0,1.58E-05,0
+IM337,"c(448, 412, 630, 440)",0.1,right,ORBl,"c(""ORBl1"", ""ORBl2/3"", ""ORBl5"", ""ORBl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(630, 448, 440, 412, 488)",0.1,right,ORBl,"c(""ORBl5"", ""ORBl1"", ""ORBl6a"", ""ORBl2/3"", ""ORBl6b"")",WT,mPFF,F,pSyn,4.38E-05,0,4.38E-05,0
+IM330,"c(620, 484, 582, 910)",0.1,right,ORBm,"c(""ORBm5"", ""ORBm1"", ""ORBm2/3"", ""ORBm6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(910, 582, 484, 620)",0.1,right,ORBm,"c(""ORBm6a"", ""ORBm2/3"", ""ORBm1"", ""ORBm5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM337,"c(582, 620, 910, 484)",0.1,right,ORBm,"c(""ORBm2/3"", ""ORBm5"", ""ORBm6a"", ""ORBm1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(582, 620, 910, 484)",0.1,right,ORBm,"c(""ORBm2/3"", ""ORBm5"", ""ORBm6a"", ""ORBm1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1125, 288, 608, 680)",0.1,right,ORBvl,"c(""ORBvl5"", ""ORBvl2/3"", ""ORBvl6a"", ""ORBvl6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(608, 1125, 288, 680)",0.1,right,ORBvl,"c(""ORBvl6a"", ""ORBvl5"", ""ORBvl2/3"", ""ORBvl6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM337,"c(608, 969, 1125, 288)",0.1,right,ORBvl,"c(""ORBvl6a"", ""ORBvl1"", ""ORBvl5"", ""ORBvl2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(680, 1125, 608, 288)",0.1,right,ORBvl,"c(""ORBvl6b"", ""ORBvl5"", ""ORBvl6a"", ""ORBvl2/3"")",WT,mPFF,F,pSyn,1.61E-05,0,1.61E-05,0
+IM330,754,0.1,right,OT,OT,WT,mPFF,M,pSyn,1.59E-05,0,1.59E-05,0
+IM333,754,0.1,right,OT,OT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,754,0.1,right,OT,OT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,754,0.1,right,OT,OT,WT,mPFF,F,pSyn,1.00E-05,0,1.00E-05,0
+IM330,771,0.1,right,P,P,WT,mPFF,M,pSyn,0,0,0,0
+IM333,771,0.1,right,P,P,WT,mPFF,F,pSyn,0,0,0,0
+IM337,771,0.1,right,P,P,WT,mPFF,M,pSyn,0,0,0,0
+IM340,771,0.1,right,P,P,WT,mPFF,F,pSyn,0,0,0,0
+IM330,780,0.1,right,PA,PA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,780,0.1,right,PA,PA,WT,mPFF,F,pSyn,2.68E-05,0,2.68E-05,0
+IM337,780,0.1,right,PA,PA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,780,0.1,right,PA,PA,WT,mPFF,F,pSyn,0,0,0,0
+IM333,606826663,0.1,right,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM337,606826663,0.1,right,Pa4,Pa4,WT,mPFF,M,pSyn,0,0,0,0
+IM340,606826663,0.1,right,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM330,788,0.1,right,PAA,PAA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,788,0.1,right,PAA,PAA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,788,0.1,right,PAA,PAA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,788,0.1,right,PAA,PAA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,795,0.1,right,PAG,PAG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,795,0.1,right,PAG,PAG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,795,0.1,right,PAG,PAG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,795,0.1,right,PAG,PAG,WT,mPFF,F,pSyn,0,0,0,0
+IM330,803,0.1,right,PAL,PAL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,803,0.1,right,PAL,PAL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,803,0.1,right,PAL,PAL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,803,0.1,right,PAL,PAL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1022, 1031)",0.1,right,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1022, 1031)",0.1,right,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,F,pSyn,1.54E-05,0,1.54E-05,0
+IM337,"c(1022, 1031)",0.1,right,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1031, 1022)",0.1,right,PALd,"c(""GPi"", ""GPe"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,843,0.1,right,PAR,PAR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,843,0.1,right,PAR,PAR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,843,0.1,right,PAR,PAR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,843,0.1,right,PAR,PAR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,874,0.1,right,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,874,0.1,right,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,874,0.1,right,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,874,0.1,right,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM333,158,0.1,right,pc,pc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,158,0.1,right,pc,pc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,158,0.1,right,pc,pc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,907,0.1,right,PCN,PCN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,907,0.1,right,PCN,PCN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,907,0.1,right,PCN,PCN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,907,0.1,right,PCN,PCN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,576073704,0.1,right,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,576073704,0.1,right,PeF,PeF,WT,mPFF,F,pSyn,0,0,0,0
+IM337,576073704,0.1,right,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM340,576073704,0.1,right,PeF,PeF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(692, 888, 540, 335)",0.1,right,PERI,"c(""PERI5"", ""PERI2/3"", ""PERI1"", ""PERI6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(368, 335, 692, 888, 540)",0.1,right,PERI,"c(""PERI6b"", ""PERI6a"", ""PERI5"", ""PERI2/3"", ""PERI1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(335, 888, 540, 692, 368)",0.1,right,PERI,"c(""PERI6a"", ""PERI2/3"", ""PERI1"", ""PERI5"", ""PERI6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(335, 692, 888, 540, 368)",0.1,right,PERI,"c(""PERI6a"", ""PERI5"", ""PERI2/3"", ""PERI1"", ""PERI6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,930,0.1,right,PF,PF,WT,mPFF,M,pSyn,0,0,0,0
+IM333,930,0.1,right,PF,PF,WT,mPFF,F,pSyn,0,0,0,0
+IM340,930,0.1,right,PF,PF,WT,mPFF,F,pSyn,0,0,0,0
+IM330,931,0.1,right,PG,PG,WT,mPFF,M,pSyn,3.47E-05,0,3.47E-05,0
+IM333,931,0.1,right,PG,PG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,931,0.1,right,PG,PG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,931,0.1,right,PG,PG,WT,mPFF,F,pSyn,0,0,0,0
+IM330,946,0.1,right,PH,PH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,946,0.1,right,PH,PH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,946,0.1,right,PH,PH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,946,0.1,right,PH,PH,WT,mPFF,F,pSyn,0,0,0,0
+IM333,560581563,0.1,right,PIL,PIL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,560581563,0.1,right,PIL,PIL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,560581563,0.1,right,PIL,PIL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,961,0.1,right,PIR,PIR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,961,0.1,right,PIR,PIR,WT,mPFF,"c(""M"", ""F"")",pSyn,6.56E-06,0,6.56E-06,0
+IM337,961,0.1,right,PIR,PIR,WT,mPFF,M,pSyn,1.38E-05,0,1.38E-05,0
+IM340,961,0.1,right,PIR,PIR,WT,mPFF,F,pSyn,4.55E-05,0,4.55E-05,0
+IM330,"c(84, 171, 363, 304)",0.1,right,PL,"c(""PL6a"", ""PL1"", ""PL5"", ""PL2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(304, 363, 84, 171)",0.1,right,PL,"c(""PL2/3"", ""PL5"", ""PL6a"", ""PL1"")",WT,mPFF,M,pSyn,1.01E-05,0,1.01E-05,0
+IM337,"c(304, 171, 363, 84)",0.1,right,PL,"c(""PL2/3"", ""PL1"", ""PL5"", ""PL6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(171, 363, 304, 84)",0.1,right,PL,"c(""PL1"", ""PL5"", ""PL2/3"", ""PL6a"")",WT,mPFF,F,pSyn,1.93E-05,0,1.93E-05,0
+IM337,753,0.1,right,pm,pm,WT,mPFF,M,pSyn,0,0,0,0
+IM340,753,0.1,right,pm,pm,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1004,0.1,right,PMv,PMv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1004,0.1,right,PMv,PMv,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1020,0.1,right,PO,PO,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1020,0.1,right,PO,PO,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1020,0.1,right,PO,PO,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1020,0.1,right,PO,PO,WT,mPFF,F,pSyn,0,0,0,0
+IM333,1029,0.1,right,POL,POL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1029,0.1,right,POL,POL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1029,0.1,right,POL,POL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1037,0.1,right,POST,POST,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1037,0.1,right,POST,POST,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1037,0.1,right,POST,POST,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1037,0.1,right,POST,POST,WT,mPFF,F,pSyn,0,0,0,0
+IM333,563807435,0.1,right,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,563807435,0.1,right,PoT,PoT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,563807435,0.1,right,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM333,1044,0.1,right,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1044,0.1,right,PP,PP,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1044,0.1,right,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1052,0.1,right,PPN,PPN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1052,0.1,right,PPN,PPN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1052,0.1,right,PPN,PPN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1052,0.1,right,PPN,PPN,WT,mPFF,F,pSyn,0,0,0,0
+IM333,1061,0.1,right,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1061,0.1,right,PPT,PPT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1061,0.1,right,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1077,0.1,right,PR,PR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1077,0.1,right,PR,PR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1077,0.1,right,PR,PR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1077,0.1,right,PR,PR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,50,0.1,right,PRC,PRC,WT,mPFF,M,pSyn,0,0,0,0
+IM333,50,0.1,right,PRC,PRC,WT,mPFF,F,pSyn,0,0,0,0
+IM340,50,0.1,right,PRC,PRC,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1084,0.1,right,PRE,PRE,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1084,0.1,right,PRE,PRE,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1084,0.1,right,PRE,PRE,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1084,0.1,right,PRE,PRE,WT,mPFF,F,pSyn,0,0,0,0
+IM330,146,0.1,right,PRNr,PRNr,WT,mPFF,M,pSyn,0,0,0,0
+IM333,146,0.1,right,PRNr,PRNr,WT,mPFF,F,pSyn,0,0,0,0
+IM337,146,0.1,right,PRNr,PRNr,WT,mPFF,M,pSyn,0,0,0,0
+IM340,146,0.1,right,PRNr,PRNr,WT,mPFF,F,pSyn,0,0,0,0
+IM333,484682470,0.1,right,ProS,ProS,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682470,0.1,right,ProS,ProS,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682470,0.1,right,ProS,ProS,WT,mPFF,F,pSyn,0,0,0,0
+IM330,364,0.1,right,PSTN,PSTN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,364,0.1,right,PSTN,PSTN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,364,0.1,right,PSTN,PSTN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,364,0.1,right,PSTN,PSTN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,149,0.1,right,PVT,PVT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,149,0.1,right,PVT,PVT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,149,0.1,right,PVT,PVT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,149,0.1,right,PVT,PVT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,118,0.1,right,PVZ,PVi,WT,mPFF,M,pSyn,0,0,0,0
+IM333,118,0.1,right,PVZ,PVi,WT,mPFF,F,pSyn,0,0,0,0
+IM337,118,0.1,right,PVZ,PVi,WT,mPFF,M,pSyn,0.00203913,0,0.00203913,0
+IM340,118,0.1,right,PVZ,PVi,WT,mPFF,F,pSyn,0,0,0,0
+IM330,181,0.1,right,RE,RE,WT,mPFF,M,pSyn,0,0,0,0
+IM333,181,0.1,right,RE,RE,WT,mPFF,F,pSyn,0,0,0,0
+IM337,181,0.1,right,RE,RE,WT,mPFF,M,pSyn,0,0,0,0
+IM340,181,0.1,right,RE,RE,WT,mPFF,F,pSyn,0,0,0,0
+IM330,189,0.1,right,RH,RH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,189,0.1,right,RH,RH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,189,0.1,right,RH,RH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,189,0.1,right,RH,RH,WT,mPFF,F,pSyn,0,0,0,0
+IM333,197,0.1,right,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,197,0.1,right,RL,RL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,197,0.1,right,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,214,0.1,right,RN,RN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,214,0.1,right,RN,RN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,214,0.1,right,RN,RN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,214,0.1,right,RN,RN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(906, 279, 965, 774, 671)",0.1,right,RSPagl,"c(""RSPagl6a"", ""RSPagl6b"", ""RSPagl2/3"", ""RSPagl5"", ""RSPagl1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(906, 279, 774, 965, 671)",0.1,right,RSPagl,"c(""RSPagl6a"", ""RSPagl6b"", ""RSPagl5"", ""RSPagl2/3"", ""RSPagl1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(279, 774, 671, 965, 906)",0.1,right,RSPagl,"c(""RSPagl6b"", ""RSPagl5"", ""RSPagl1"", ""RSPagl2/3"", ""RSPagl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(671, 279, 906, 965, 774)",0.1,right,RSPagl,"c(""RSPagl1"", ""RSPagl6b"", ""RSPagl6a"", ""RSPagl2/3"", ""RSPagl5"")",WT,mPFF,F,pSyn,2.60E-05,0,2.60E-05,0
+IM330,"c(610, 274, 434, 330, 442)",0.1,right,RSPd,"c(""RSPd5"", ""RSPd6a"", ""RSPd2/3"", ""RSPd6b"", ""RSPd1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(274, 442, 434, 330, 610)",0.1,right,RSPd,"c(""RSPd6a"", ""RSPd1"", ""RSPd2/3"", ""RSPd6b"", ""RSPd5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(274, 610, 330, 442, 434)",0.1,right,RSPd,"c(""RSPd6a"", ""RSPd5"", ""RSPd6b"", ""RSPd1"", ""RSPd2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(610, 330, 442, 434, 274)",0.1,right,RSPd,"c(""RSPd5"", ""RSPd6b"", ""RSPd1"", ""RSPd2/3"", ""RSPd6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(430, 687, 590, 542, 622)",0.1,right,RSPv,"c(""RSPv2/3"", ""RSPv5"", ""RSPv6a"", ""RSPv1"", ""RSPv6b"")",WT,mPFF,M,pSyn,0.000260525,0,0.000260525,0
+IM333,"c(542, 430, 687, 622, 590)",0.1,right,RSPv,"c(""RSPv1"", ""RSPv2/3"", ""RSPv5"", ""RSPv6b"", ""RSPv6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(542, 687, 590, 622, 430)",0.1,right,RSPv,"c(""RSPv1"", ""RSPv5"", ""RSPv6a"", ""RSPv6b"", ""RSPv2/3"")",WT,mPFF,M,pSyn,1.06E-05,0,1.06E-05,0
+IM340,"c(622, 590, 430, 542, 687)",0.1,right,RSPv,"c(""RSPv6b"", ""RSPv6a"", ""RSPv2/3"", ""RSPv1"", ""RSPv5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,262,0.1,right,RT,RT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,262,0.1,right,RT,RT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,262,0.1,right,RT,RT,WT,mPFF,M,pSyn,1.91E-05,0,1.91E-05,0
+IM340,262,0.1,right,RT,RT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,863,0.1,right,rust,rust,WT,mPFF,M,pSyn,0,0,0,0
+IM333,863,0.1,right,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM337,863,0.1,right,rust,rust,WT,mPFF,M,pSyn,0,0,0,0
+IM340,863,0.1,right,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM330,271,0.1,right,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,271,0.1,right,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM337,271,0.1,right,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM340,271,0.1,right,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(17, 10, 26, 42)",0.1,right,SCm,"c(""SCiw"", ""SCig"", ""SCdg"", ""SCdw"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(10, 42, 17, 26)",0.1,right,SCm,"c(""SCig"", ""SCdw"", ""SCiw"", ""SCdg"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(26, 10, 42, 17)",0.1,right,SCm,"c(""SCdg"", ""SCig"", ""SCdw"", ""SCiw"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(10, 17, 26, 42)",0.1,right,SCm,"c(""SCig"", ""SCiw"", ""SCdg"", ""SCdw"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,599626923,0.1,right,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM337,599626923,0.1,right,SCO,SCO,WT,mPFF,M,pSyn,0,0,0,0
+IM340,599626923,0.1,right,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM333,326,0.1,right,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM337,326,0.1,right,scp,scp,WT,mPFF,M,pSyn,0,0,0,0
+IM340,326,0.1,right,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(842, 834, 851)",0.1,right,SCs,"c(""SCsg"", ""SCzo"", ""SCop"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(834, 842, 851)",0.1,right,SCs,"c(""SCzo"", ""SCsg"", ""SCop"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(851, 842, 834)",0.1,right,SCs,"c(""SCop"", ""SCsg"", ""SCzo"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(842, 851, 834)",0.1,right,SCs,"c(""SCsg"", ""SCop"", ""SCzo"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682512,0.1,right,scwm,scwm,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682512,0.1,right,scwm,scwm,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682512,0.1,right,scwm,scwm,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682512,0.1,right,scwm,scwm,WT,mPFF,F,pSyn,0,0,0,0
+IM333,325,0.1,right,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,325,0.1,right,SGN,SGN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,325,0.1,right,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,333,0.1,right,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,333,0.1,right,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,333,0.1,right,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,333,0.1,right,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,342,0.1,right,SI,SI,WT,mPFF,M,pSyn,0,0,0,0
+IM333,342,0.1,right,SI,SI,WT,mPFF,F,pSyn,0,0,0,0
+IM337,342,0.1,right,SI,SI,WT,mPFF,M,pSyn,0,0,0,0
+IM340,342,0.1,right,SI,SI,WT,mPFF,F,pSyn,7.39E-05,0,7.39E-05,0
+IM330,802,0.1,right,sm,sm,WT,mPFF,M,pSyn,0,0,0,0
+IM333,802,0.1,right,sm,sm,WT,mPFF,F,pSyn,0,0,0,0
+IM337,802,0.1,right,sm,sm,WT,mPFF,M,pSyn,0,0,0,0
+IM340,802,0.1,right,sm,sm,WT,mPFF,F,pSyn,0,0,0,0
+IM330,366,0.1,right,SMT,SMT,WT,mPFF,M,pSyn,0,0,0,0
+IM333,366,0.1,right,SMT,SMT,WT,mPFF,F,pSyn,0,0,0,0
+IM337,366,0.1,right,SMT,SMT,WT,mPFF,M,pSyn,0,0,0,0
+IM340,366,0.1,right,SMT,SMT,WT,mPFF,F,pSyn,0,0,0,0
+IM330,609,0.1,right,SPA,SPA,WT,mPFF,M,pSyn,0,0,0,0
+IM333,609,0.1,right,SPA,SPA,WT,mPFF,F,pSyn,0,0,0,0
+IM340,609,0.1,right,SPA,SPA,WT,mPFF,F,pSyn,0,0,0,0
+IM330,414,0.1,right,SPF,SPFm,WT,mPFF,M,pSyn,0,0,0,0
+IM333,414,0.1,right,SPF,SPFm,WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(422, 414)",0.1,right,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(422, 414)",0.1,right,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1070, 1038, 201, 1047, 981, 1062)",0.1,right,SSp-bfd,"c(""SSp-bfd5"", ""SSp-bfd6a"", ""SSp-bfd2/3"", ""SSp-bfd4"", ""SSp-bfd1"", ""SSp-bfd6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1047, 1062, 981, 1038, 1070, 201)",0.1,right,SSp-bfd,"c(""SSp-bfd4"", ""SSp-bfd6b"", ""SSp-bfd1"", ""SSp-bfd6a"", ""SSp-bfd5"", ""SSp-bfd2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1038, 1062, 1070, 201, 1047, 981)",0.1,right,SSp-bfd,"c(""SSp-bfd6a"", ""SSp-bfd6b"", ""SSp-bfd5"", ""SSp-bfd2/3"", ""SSp-bfd4"", ""SSp-bfd1"")",WT,mPFF,M,pSyn,5.03E-05,0,5.03E-05,0
+IM340,"c(201, 981, 1070, 1038, 1047, 1062)",0.1,right,SSp-bfd,"c(""SSp-bfd2/3"", ""SSp-bfd1"", ""SSp-bfd5"", ""SSp-bfd6a"", ""SSp-bfd4"", ""SSp-bfd6b"")",WT,mPFF,F,pSyn,3.28E-05,0,3.28E-05,0
+IM330,"c(478, 510)",0.1,right,SSp-ll,"c(""SSp-ll6a"", ""SSp-ll6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(510, 478)",0.1,right,SSp-ll,"c(""SSp-ll6b"", ""SSp-ll6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(510, 478)",0.1,right,SSp-ll,"c(""SSp-ll6b"", ""SSp-ll6a"")",WT,mPFF,M,pSyn,0.000621943,0,0.000621943,0
+IM340,"c(478, 510, 1128, 1094)",0.1,right,SSp-ll,"c(""SSp-ll6a"", ""SSp-ll6b"", ""SSp-ll5"", ""SSp-ll4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(2, 657, 1102, 974, 950, 878)",0.1,right,SSp-m,"c(""SSp-m6b"", ""SSp-m2/3"", ""SSp-m6a"", ""SSp-m5"", ""SSp-m4"", ""SSp-m1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(2, 878, 950, 974, 657, 1102)",0.1,right,SSp-m,"c(""SSp-m6b"", ""SSp-m1"", ""SSp-m4"", ""SSp-m5"", ""SSp-m2/3"", ""SSp-m6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1102, 657, 878, 2, 950, 974)",0.1,right,SSp-m,"c(""SSp-m6a"", ""SSp-m2/3"", ""SSp-m1"", ""SSp-m6b"", ""SSp-m4"", ""SSp-m5"")",WT,mPFF,M,pSyn,4.10E-06,0,4.10E-06,0
+IM340,"c(878, 974, 657, 2, 1102, 950)",0.1,right,SSp-m,"c(""SSp-m1"", ""SSp-m5"", ""SSp-m2/3"", ""SSp-m6b"", ""SSp-m6a"", ""SSp-m4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1086, 670, 1111, 9, 1006, 461)",0.1,right,SSp-tr,"c(""SSp-tr4"", ""SSp-tr2/3"", ""SSp-tr5"", ""SSp-tr6a"", ""SSp-tr1"", ""SSp-tr6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1006, 1111, 1086, 670, 461, 9)",0.1,right,SSp-tr,"c(""SSp-tr1"", ""SSp-tr5"", ""SSp-tr4"", ""SSp-tr2/3"", ""SSp-tr6b"", ""SSp-tr6a"")",WT,mPFF,F,pSyn,3.82E-05,0,3.82E-05,0
+IM337,"c(461, 670, 1111, 9, 1006, 1086)",0.1,right,SSp-tr,"c(""SSp-tr6b"", ""SSp-tr2/3"", ""SSp-tr5"", ""SSp-tr6a"", ""SSp-tr1"", ""SSp-tr4"")",WT,mPFF,M,pSyn,5.07E-05,0,5.07E-05,0
+IM340,"c(670, 1111, 1006, 461, 9, 1086)",0.1,right,SSp-tr,"c(""SSp-tr2/3"", ""SSp-tr5"", ""SSp-tr1"", ""SSp-tr6b"", ""SSp-tr6a"", ""SSp-tr4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1026, 625, 945, 577, 854, 450)",0.1,right,SSp-ul,"c(""SSp-ul6b"", ""SSp-ul5"", ""SSp-ul6a"", ""SSp-ul4"", ""SSp-ul2/3"", ""SSp-ul1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(577, 1026, 854, 625, 945, 450)",0.1,right,SSp-ul,"c(""SSp-ul4"", ""SSp-ul6b"", ""SSp-ul2/3"", ""SSp-ul5"", ""SSp-ul6a"", ""SSp-ul1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(945, 625, 577, 1026, 854, 450)",0.1,right,SSp-ul,"c(""SSp-ul6a"", ""SSp-ul5"", ""SSp-ul4"", ""SSp-ul6b"", ""SSp-ul2/3"", ""SSp-ul1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(854, 450, 945, 625, 577, 1026)",0.1,right,SSp-ul,"c(""SSp-ul2/3"", ""SSp-ul1"", ""SSp-ul6a"", ""SSp-ul5"", ""SSp-ul4"", ""SSp-ul6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(182305713, 182305709, 182305705, 182305701)",0.1,right,SSp-un,"c(""SSp-un6b"", ""SSp-un6a"", ""SSp-un5"", ""SSp-un4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(182305709, 182305705, 182305713, 182305701)",0.1,right,SSp-un,"c(""SSp-un6a"", ""SSp-un5"", ""SSp-un6b"", ""SSp-un4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(182305709, 182305705, 182305713, 182305701, 182305697)",0.1,right,SSp-un,"c(""SSp-un6a"", ""SSp-un5"", ""SSp-un6b"", ""SSp-un4"", ""SSp-un2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(182305705, 182305701, 182305697, 182305693, 182305709, 182305713)",0.1,right,SSp-un,"c(""SSp-un5"", ""SSp-un4"", ""SSp-un2/3"", ""SSp-un1"", ""SSp-un6a"", ""SSp-un6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(893, 1035, 1090, 862, 806, 873)",0.1,right,SSs,"c(""SSs6b"", ""SSs4"", ""SSs5"", ""SSs6a"", ""SSs2/3"", ""SSs1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(873, 1035, 1090, 862, 893, 806)",0.1,right,SSs,"c(""SSs1"", ""SSs4"", ""SSs5"", ""SSs6a"", ""SSs6b"", ""SSs2/3"")",WT,mPFF,F,pSyn,3.47E-05,0,3.47E-05,0
+IM337,"c(1090, 893, 806, 1035, 862, 873)",0.1,right,SSs,"c(""SSs5"", ""SSs6b"", ""SSs2/3"", ""SSs4"", ""SSs6a"", ""SSs1"")",WT,mPFF,M,pSyn,1.43E-05,0,1.43E-05,0
+IM340,"c(873, 1035, 893, 806, 862, 1090)",0.1,right,SSs,"c(""SSs1"", ""SSs4"", ""SSs6b"", ""SSs2/3"", ""SSs6a"", ""SSs5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,301,0.1,right,st,st,WT,mPFF,M,pSyn,0,0,0,0
+IM333,301,0.1,right,st,st,WT,mPFF,F,pSyn,0,0,0,0
+IM337,301,0.1,right,st,st,WT,mPFF,M,pSyn,0.012987622,0,0.012987622,0
+IM340,301,0.1,right,st,st,WT,mPFF,F,pSyn,0,0,0,0
+IM330,484682528,0.1,right,stc,stc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,484682528,0.1,right,stc,stc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,484682528,0.1,right,stc,stc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,484682528,0.1,right,stc,stc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,470,0.1,right,STN,STN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,470,0.1,right,STN,STN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,470,0.1,right,STN,STN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,470,0.1,right,STN,STN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,477,0.1,right,STR,STR,WT,mPFF,M,pSyn,0,0,0,0
+IM333,477,0.1,right,STR,STR,WT,mPFF,F,pSyn,0.00038254,0,0.00038254,0
+IM337,477,0.1,right,STR,STR,WT,mPFF,M,pSyn,0.003296467,0,0.003296467,0
+IM340,477,0.1,right,STR,STR,WT,mPFF,F,pSyn,4.46E-05,0,4.46E-05,0
+IM330,614454277,0.1,right,Su3,Su3,WT,mPFF,M,pSyn,0,0,0,0
+IM333,614454277,0.1,right,Su3,Su3,WT,mPFF,F,pSyn,0,0,0,0
+IM337,614454277,0.1,right,Su3,Su3,WT,mPFF,M,pSyn,0,0,0,0
+IM340,614454277,0.1,right,Su3,Su3,WT,mPFF,F,pSyn,0,0,0,0
+IM330,502,0.1,right,SUB,SUB,WT,mPFF,M,pSyn,0,0,0,0
+IM333,502,0.1,right,SUB,SUB,WT,mPFF,F,pSyn,0,0,0,0
+IM337,502,0.1,right,SUB,SUB,WT,mPFF,M,pSyn,0,0,0,0
+IM340,502,0.1,right,SUB,SUB,WT,mPFF,F,pSyn,0.000411746,0,0.000411746,0
+IM330,321,0.1,right,SubG,SubG,WT,mPFF,M,pSyn,0,0,0,0
+IM333,321,0.1,right,SubG,SubG,WT,mPFF,F,pSyn,0,0,0,0
+IM333,525,0.1,right,SUM,SUM,WT,mPFF,F,pSyn,0,0,0,0
+IM337,525,0.1,right,SUM,SUM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,525,0.1,right,SUM,SUM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,349,0.1,right,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM333,349,0.1,right,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM337,349,0.1,right,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM340,349,0.1,right,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM330,229,0.1,right,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM333,229,0.1,right,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM337,229,0.1,right,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM340,229,0.1,right,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(97, 289, 1127, 234, 729, 786)",0.1,right,TEa,"c(""TEa1"", ""TEa5"", ""TEa2/3"", ""TEa4"", ""TEa6a"", ""TEa6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(786, 289, 1127, 729, 234, 97)",0.1,right,TEa,"c(""TEa6b"", ""TEa5"", ""TEa2/3"", ""TEa6a"", ""TEa4"", ""TEa1"")",WT,mPFF,F,pSyn,0.000187729,0,0.000187729,0
+IM337,"c(786, 729, 289, 1127, 234, 97)",0.1,right,TEa,"c(""TEa6b"", ""TEa6a"", ""TEa5"", ""TEa2/3"", ""TEa4"", ""TEa1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1127, 729, 786, 234, 97, 289)",0.1,right,TEa,"c(""TEa2/3"", ""TEa6a"", ""TEa6b"", ""TEa4"", ""TEa1"", ""TEa5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,549,0.1,right,TH,TH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,549,0.1,right,TH,TH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,549,0.1,right,TH,TH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,549,0.1,right,TH,TH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1,0.1,right,TM,TMv,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1,0.1,right,TM,TMv,WT,mPFF,F,pSyn,0,0,0,0
+IM333,566,0.1,right,TR,TR,WT,mPFF,F,pSyn,0,0,0,0
+IM337,566,0.1,right,TR,TR,WT,mPFF,M,pSyn,0,0,0,0
+IM340,566,0.1,right,TR,TR,WT,mPFF,F,pSyn,0,0,0,0
+IM330,574,0.1,right,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM333,574,0.1,right,TRN,TRN,WT,mPFF,F,pSyn,0,0,0,0
+IM337,574,0.1,right,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM340,574,0.1,right,TRN,TRN,WT,mPFF,F,pSyn,0,0,0,0
+IM330,1043,0.1,right,tspc,tspc,WT,mPFF,M,pSyn,0,0,0,0
+IM333,1043,0.1,right,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM337,1043,0.1,right,tspc,tspc,WT,mPFF,M,pSyn,0,0,0,0
+IM340,1043,0.1,right,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(605, 597)",0.1,right,TT,"c(""TTv"", ""TTd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(597, 605)",0.1,right,TT,"c(""TTd"", ""TTv"")",WT,mPFF,M,pSyn,0,0,0,0
+IM337,"c(605, 597)",0.1,right,TT,"c(""TTv"", ""TTd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(605, 597)",0.1,right,TT,"c(""TTv"", ""TTd"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,614,0.1,right,TU,TU,WT,mPFF,M,pSyn,0,0,0,0
+IM333,614,0.1,right,TU,TU,WT,mPFF,F,pSyn,0,0,0,0
+IM337,614,0.1,right,TU,TU,WT,mPFF,M,pSyn,0,0,0,0
+IM340,614,0.1,right,TU,TU,WT,mPFF,F,pSyn,0,0,0,0
+IM330,629,0.1,right,VAL,VAL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,629,0.1,right,VAL,VAL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,629,0.1,right,VAL,VAL,WT,mPFF,M,pSyn,5.06E-05,0,5.06E-05,0
+IM340,629,0.1,right,VAL,VAL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782554, 312782562, 312782570, 312782566, 312782558, 312782550)",0.1,right,VISa,"c(""VISa2/3"", ""VISa5"", ""VISa6b"", ""VISa6a"", ""VISa4"", ""VISa1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782570, 312782558, 312782550, 312782562, 312782566, 312782554)",0.1,right,VISa,"c(""VISa6b"", ""VISa4"", ""VISa1"", ""VISa5"", ""VISa6a"", ""VISa2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(312782570, 312782554, 312782566, 312782550, 312782562, 312782558)",0.1,right,VISa,"c(""VISa6b"", ""VISa2/3"", ""VISa6a"", ""VISa1"", ""VISa5"", ""VISa4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782566, 312782550, 312782554, 312782570, 312782558, 312782562)",0.1,right,VISa,"c(""VISa6a"", ""VISa1"", ""VISa2/3"", ""VISa6b"", ""VISa4"", ""VISa5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM333,"c(1114, 233, 905, 649, 601, 1074)",0.1,right,VISal,"c(""VISal4"", ""VISal5"", ""VISal2/3"", ""VISal6b"", ""VISal6a"", ""VISal1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(233, 1074, 905, 1114, 601, 649)",0.1,right,VISal,"c(""VISal5"", ""VISal1"", ""VISal2/3"", ""VISal4"", ""VISal6a"", ""VISal6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(649, 905, 233, 601, 1114, 1074)",0.1,right,VISal,"c(""VISal6b"", ""VISal2/3"", ""VISal5"", ""VISal6a"", ""VISal4"", ""VISal1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(433, 401, 1066, 1046, 441, 281)",0.1,right,VISam,"c(""VISam5"", ""VISam4"", ""VISam2/3"", ""VISam6a"", ""VISam6b"", ""VISam1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1046, 441, 281, 1066, 401, 433)",0.1,right,VISam,"c(""VISam6a"", ""VISam6b"", ""VISam1"", ""VISam2/3"", ""VISam4"", ""VISam5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(1066, 433, 1046, 281, 441, 401)",0.1,right,VISam,"c(""VISam2/3"", ""VISam5"", ""VISam6a"", ""VISam1"", ""VISam6b"", ""VISam4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(1046, 441, 401, 281, 1066, 433)",0.1,right,VISam,"c(""VISam6a"", ""VISam6b"", ""VISam4"", ""VISam1"", ""VISam2/3"", ""VISam5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(1106, 1058, 857, 1010, 897, 849)",0.1,right,VISC,"c(""VISC2/3"", ""VISC5"", ""VISC6a"", ""VISC4"", ""VISC1"", ""VISC6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(1010, 1106, 849, 857, 897, 1058)",0.1,right,VISC,"c(""VISC4"", ""VISC2/3"", ""VISC6b"", ""VISC6a"", ""VISC1"", ""VISC5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(849, 857, 1058, 1010, 897, 1106)",0.1,right,VISC,"c(""VISC6b"", ""VISC6a"", ""VISC5"", ""VISC4"", ""VISC1"", ""VISC2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(897, 849, 857, 1106, 1010, 1058)",0.1,right,VISC,"c(""VISC1"", ""VISC6b"", ""VISC6a"", ""VISC2/3"", ""VISC4"", ""VISC5"")",WT,mPFF,F,pSyn,1.20E-05,0,1.20E-05,0
+IM330,"c(121, 74, 421, 973, 573, 613)",0.1,right,VISl,"c(""VISl6b"", ""VISl6a"", ""VISl1"", ""VISl2/3"", ""VISl4"", ""VISl5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(121, 613, 74, 573, 421, 973)",0.1,right,VISl,"c(""VISl6b"", ""VISl5"", ""VISl6a"", ""VISl4"", ""VISl1"", ""VISl2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(421, 74, 973, 573, 613)",0.1,right,VISl,"c(""VISl1"", ""VISl6a"", ""VISl2/3"", ""VISl4"", ""VISl5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(973, 74, 421, 613, 121, 573)",0.1,right,VISl,"c(""VISl2/3"", ""VISl6a"", ""VISl1"", ""VISl5"", ""VISl6b"", ""VISl4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782586, 312782578, 312782590, 312782582)",0.1,right,VISli,"c(""VISli4"", ""VISli1"", ""VISli5"", ""VISli2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782578, 312782582, 312782586, 312782590)",0.1,right,VISli,"c(""VISli1"", ""VISli2/3"", ""VISli4"", ""VISli5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(312782586, 312782578, 312782582, 312782590)",0.1,right,VISli,"c(""VISli4"", ""VISli1"", ""VISli2/3"", ""VISli5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782578, 312782590, 312782582, 312782586)",0.1,right,VISli,"c(""VISli1"", ""VISli5"", ""VISli2/3"", ""VISli4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(778, 721, 821, 593, 33, 305)",0.1,right,VISp,"c(""VISp5"", ""VISp4"", ""VISp2/3"", ""VISp1"", ""VISp6a"", ""VISp6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(778, 305, 593, 721, 821, 33)",0.1,right,VISp,"c(""VISp5"", ""VISp6b"", ""VISp1"", ""VISp4"", ""VISp2/3"", ""VISp6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(33, 778, 593, 721, 305, 821)",0.1,right,VISp,"c(""VISp6a"", ""VISp5"", ""VISp1"", ""VISp4"", ""VISp6b"", ""VISp2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(593, 821, 305, 778, 33, 721)",0.1,right,VISp,"c(""VISp1"", ""VISp2/3"", ""VISp6b"", ""VISp5"", ""VISp6a"", ""VISp4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(393, 377, 269, 902, 869)",0.1,right,VISpl,"c(""VISpl6b"", ""VISpl6a"", ""VISpl2/3"", ""VISpl5"", ""VISpl4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(902, 393, 377, 269, 869)",0.1,right,VISpl,"c(""VISpl5"", ""VISpl6b"", ""VISpl6a"", ""VISpl2/3"", ""VISpl4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(869, 393, 902, 377)",0.1,right,VISpl,"c(""VISpl4"", ""VISpl6b"", ""VISpl5"", ""VISpl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(393, 377, 902)",0.1,right,VISpl,"c(""VISpl6b"", ""VISpl6a"", ""VISpl5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(805, 501, 41)",0.1,right,VISpm,"c(""VISpm1"", ""VISpm4"", ""VISpm2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(501, 41, 805, 469, 565, 257)",0.1,right,VISpm,"c(""VISpm4"", ""VISpm2/3"", ""VISpm1"", ""VISpm6b"", ""VISpm5"", ""VISpm6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(565, 41, 805, 501, 257, 469)",0.1,right,VISpm,"c(""VISpm5"", ""VISpm2/3"", ""VISpm1"", ""VISpm4"", ""VISpm6a"", ""VISpm6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(469, 257, 41, 565, 501, 805)",0.1,right,VISpm,"c(""VISpm6b"", ""VISpm6a"", ""VISpm2/3"", ""VISpm5"", ""VISpm4"", ""VISpm1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782652, 312782640, 312782644, 312782648, 312782632, 312782636)",0.1,right,VISpor,"c(""VISpor6b"", ""VISpor4"", ""VISpor5"", ""VISpor6a"", ""VISpor1"", ""VISpor2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782632, 312782644, 312782648, 312782640, 312782636, 312782652)",0.1,right,VISpor,"c(""VISpor1"", ""VISpor5"", ""VISpor6a"", ""VISpor4"", ""VISpor2/3"", ""VISpor6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(312782644, 312782640, 312782632, 312782648, 312782636, 312782652)",0.1,right,VISpor,"c(""VISpor5"", ""VISpor4"", ""VISpor1"", ""VISpor6a"", ""VISpor2/3"", ""VISpor6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782648, 312782652, 312782640, 312782636, 312782632, 312782644)",0.1,right,VISpor,"c(""VISpor6a"", ""VISpor6b"", ""VISpor4"", ""VISpor2/3"", ""VISpor1"", ""VISpor5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(312782624, 312782612, 312782620, 312782616, 312782608, 312782604)",0.1,right,VISrl,"c(""VISrl6b"", ""VISrl4"", ""VISrl6a"", ""VISrl5"", ""VISrl2/3"", ""VISrl1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(312782604, 312782608, 312782616, 312782624, 312782612, 312782620)",0.1,right,VISrl,"c(""VISrl1"", ""VISrl2/3"", ""VISrl5"", ""VISrl6b"", ""VISrl4"", ""VISrl6a"")",WT,mPFF,F,pSyn,0.003047921,0,0.003047921,0
+IM337,"c(312782604, 312782624, 312782608, 312782616, 312782612, 312782620)",0.1,right,VISrl,"c(""VISrl1"", ""VISrl6b"", ""VISrl2/3"", ""VISrl5"", ""VISrl4"", ""VISrl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(312782620, 312782616, 312782624, 312782608, 312782604, 312782612)",0.1,right,VISrl,"c(""VISrl6a"", ""VISrl5"", ""VISrl6b"", ""VISrl2/3"", ""VISrl1"", ""VISrl4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,685,0.1,right,VM,VM,WT,mPFF,M,pSyn,0,0,0,0
+IM333,685,0.1,right,VM,VM,WT,mPFF,F,pSyn,0,0,0,0
+IM337,685,0.1,right,VM,VM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,685,0.1,right,VM,VM,WT,mPFF,F,pSyn,0,0,0,0
+IM330,693,0.1,right,VMH,VMH,WT,mPFF,M,pSyn,0,0,0,0
+IM333,693,0.1,right,VMH,VMH,WT,mPFF,F,pSyn,0,0,0,0
+IM337,693,0.1,right,VMH,VMH,WT,mPFF,M,pSyn,0,0,0,0
+IM340,693,0.1,right,VMH,VMH,WT,mPFF,F,pSyn,0,0,0,0
+IM330,"c(725, 741)",0.1,right,VP,"c(""VPLpc"", ""VPMpc"")",WT,mPFF,M,pSyn,0,0,0,0
+IM333,"c(741, 725)",0.1,right,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM337,"c(741, 725)",0.1,right,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,M,pSyn,0,0,0,0
+IM340,"c(725, 741)",0.1,right,VP,"c(""VPLpc"", ""VPMpc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM330,718,0.1,right,VPL,VPL,WT,mPFF,M,pSyn,0,0,0,0
+IM333,718,0.1,right,VPL,VPL,WT,mPFF,F,pSyn,0,0,0,0
+IM337,718,0.1,right,VPL,VPL,WT,mPFF,M,pSyn,0,0,0,0
+IM340,718,0.1,right,VPL,VPL,WT,mPFF,F,pSyn,0,0,0,0
+IM330,733,0.1,right,VPM,VPM,WT,mPFF,M,pSyn,0,0,0,0
+IM333,733,0.1,right,VPM,VPM,WT,mPFF,F,pSyn,0,0,0,0
+IM337,733,0.1,right,VPM,VPM,WT,mPFF,M,pSyn,0,0,0,0
+IM340,733,0.1,right,VPM,VPM,WT,mPFF,F,pSyn,0,0,0,0
+IM333,749,0.1,right,VTA,VTA,WT,mPFF,F,pSyn,0,0,0,0
+IM337,749,0.1,right,VTA,VTA,WT,mPFF,M,pSyn,0,0,0,0
+IM340,749,0.1,right,VTA,VTA,WT,mPFF,F,pSyn,9.70E-05,0,9.70E-05,0
+IM330,560581559,0.1,right,Xi,Xi,WT,mPFF,M,pSyn,0,0,0,0
+IM333,560581559,0.1,right,Xi,Xi,WT,mPFF,F,pSyn,0,0,0,0
+IM337,560581559,0.1,right,Xi,Xi,WT,mPFF,M,pSyn,0,0,0,0
+IM340,560581559,0.1,right,Xi,Xi,WT,mPFF,F,pSyn,0,0,0,0
+IM330,797,0.1,right,ZI,ZI,WT,mPFF,M,pSyn,0,0,0,0
+IM333,797,0.1,right,ZI,ZI,WT,mPFF,F,pSyn,0,0,0,0
+IM337,797,0.1,right,ZI,ZI,WT,mPFF,M,pSyn,0,0,0,0
+IM340,797,0.1,right,ZI,ZI,WT,mPFF,F,pSyn,0,0,0,0

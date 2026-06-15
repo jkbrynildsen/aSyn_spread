@@ -1,0 +1,1863 @@
+mouse,Region ID,mpi,side,parent,daughter,genotype,treatment,sex,marker,Total % Area,Inclusion % Area,Neurite % Area,Inclusion per mm^2
+IM 332,"c(211, 935, 1015, 927, 919)",0.3,left,ACAd,"c(""ACAd2/3"", ""ACAd1"", ""ACAd5"", ""ACAd6b"", ""ACAd6a"")",WT,mPFF,M,pSyn,0.00342211,0,0.00342211,0
+IM 335,"c(927, 1015, 919, 935, 211)",0.3,left,ACAd,"c(""ACAd6b"", ""ACAd5"", ""ACAd6a"", ""ACAd1"", ""ACAd2/3"")",WT,mPFF,F,pSyn,0.004924119,0,0.004924119,0
+IM 339,"c(211, 935, 1015, 927, 919)",0.3,left,ACAd,"c(""ACAd2/3"", ""ACAd1"", ""ACAd5"", ""ACAd6b"", ""ACAd6a"")",WT,mPFF,M,pSyn,0.002785877,0,0.002785877,0
+IM 342,"c(211, 1015, 935, 919, 927)",0.3,left,ACAd,"c(""ACAd2/3"", ""ACAd5"", ""ACAd1"", ""ACAd6a"", ""ACAd6b"")",WT,mPFF,F,pSyn,0.006307608,0,0.006307608,0
+IM 332,"c(819, 588, 296, 772, 810)",0.3,left,ACAv,"c(""ACAv6b"", ""ACAv1"", ""ACAv2/3"", ""ACAv5"", ""ACAv6a"")",WT,mPFF,M,pSyn,0.006116639,0,0.006116639,0
+IM 335,"c(819, 772, 810, 296, 588)",0.3,left,ACAv,"c(""ACAv6b"", ""ACAv5"", ""ACAv6a"", ""ACAv2/3"", ""ACAv1"")",WT,mPFF,F,pSyn,0.001564734,0,0.001564734,0
+IM 339,"c(819, 810, 296, 772, 588)",0.3,left,ACAv,"c(""ACAv6b"", ""ACAv6a"", ""ACAv2/3"", ""ACAv5"", ""ACAv1"")",WT,mPFF,M,pSyn,0.002168276,0,0.002168276,0
+IM 342,"c(772, 588, 810, 819, 296)",0.3,left,ACAv,"c(""ACAv5"", ""ACAv1"", ""ACAv6a"", ""ACAv6b"", ""ACAv2/3"")",WT,mPFF,F,pSyn,0.004052034,0,0.004052034,0
+IM 332,56,0.3,left,ACB,ACB,WT,mPFF,M,pSyn,0.001393248,0,0.001393248,0
+IM 335,56,0.3,left,ACB,ACB,WT,mPFF,F,pSyn,0.003135432,0,0.003135432,0
+IM 339,56,0.3,left,ACB,ACB,WT,mPFF,M,pSyn,0.003890012,0,0.003890012,0
+IM 342,56,0.3,left,ACB,ACB,WT,mPFF,F,pSyn,0.001837544,0,0.001837544,0
+IM 335,88,0.3,left,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,88,0.3,left,AHN,AHN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,88,0.3,left,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(328, 1101, 783, 996, 831)",0.3,left,AId,"c(""AId2/3"", ""AId5"", ""AId6a"", ""AId1"", ""AId6b"")",WT,mPFF,M,pSyn,0.004131114,0,0.004131114,0
+IM 335,"c(1101, 328, 996, 783, 831)",0.3,left,AId,"c(""AId5"", ""AId2/3"", ""AId1"", ""AId6a"", ""AId6b"")",WT,mPFF,F,pSyn,0.002194339,0,0.002194339,0
+IM 339,"c(996, 783, 1101, 328, 831)",0.3,left,AId,"c(""AId1"", ""AId6a"", ""AId5"", ""AId2/3"", ""AId6b"")",WT,mPFF,M,pSyn,0.009499341,0,0.009499341,0
+IM 342,"c(996, 1101, 328, 783, 831)",0.3,left,AId,"c(""AId1"", ""AId5"", ""AId2/3"", ""AId6a"", ""AId6b"")",WT,mPFF,F,pSyn,0.005320883,0,0.005320883,0
+IM 332,"c(355, 120, 163, 314, 344)",0.3,left,AIp,"c(""AIp6b"", ""AIp1"", ""AIp2/3"", ""AIp6a"", ""AIp5"")",WT,mPFF,M,pSyn,0.001180854,0,0.001180854,0
+IM 335,"c(344, 314, 120, 355, 163)",0.3,left,AIp,"c(""AIp5"", ""AIp6a"", ""AIp1"", ""AIp6b"", ""AIp2/3"")",WT,mPFF,F,pSyn,0.001519832,0,0.001519832,0
+IM 339,"c(344, 163, 355, 314, 120)",0.3,left,AIp,"c(""AIp5"", ""AIp2/3"", ""AIp6b"", ""AIp6a"", ""AIp1"")",WT,mPFF,M,pSyn,0.007206923,0,0.007206923,0
+IM 342,"c(314, 355, 120, 163, 344)",0.3,left,AIp,"c(""AIp6a"", ""AIp6b"", ""AIp1"", ""AIp2/3"", ""AIp5"")",WT,mPFF,F,pSyn,0.000951393,0,0.000951393,0
+IM 332,"c(704, 694, 800, 675)",0.3,left,AIv,"c(""AIv1"", ""AIv2/3"", ""AIv5"", ""AIv6a"")",WT,mPFF,M,pSyn,0.001537223,0,0.001537223,0
+IM 335,"c(704, 800, 675, 694)",0.3,left,AIv,"c(""AIv1"", ""AIv5"", ""AIv6a"", ""AIv2/3"")",WT,mPFF,F,pSyn,0.005221754,0,0.005221754,0
+IM 339,"c(694, 704, 675, 800)",0.3,left,AIv,"c(""AIv2/3"", ""AIv1"", ""AIv6a"", ""AIv5"")",WT,mPFF,M,pSyn,0.001008193,0,0.001008193,0
+IM 342,"c(694, 675, 704, 800)",0.3,left,AIv,"c(""AIv2/3"", ""AIv6a"", ""AIv1"", ""AIv5"")",WT,mPFF,F,pSyn,0.002231695,0,0.002231695,0
+IM 332,466,0.3,left,alv,alv,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,466,0.3,left,alv,alv,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,466,0.3,left,alv,alv,WT,mPFF,M,pSyn,0.00054187,0,0.00054187,0
+IM 342,466,0.3,left,alv,alv,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,884,0.3,left,amc,amc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,884,0.3,left,amc,amc,WT,mPFF,F,pSyn,0.029930524,0,0.029930524,0
+IM 339,884,0.3,left,amc,amc,WT,mPFF,M,pSyn,0.062125147,0,0.062125147,0
+IM 342,884,0.3,left,amc,amc,WT,mPFF,F,pSyn,0.049155041,0,0.049155041,0
+IM 332,159,0.3,left,AON,AON,WT,mPFF,M,pSyn,9.08E-06,0,9.08E-06,0
+IM 335,159,0.3,left,AON,AON,WT,mPFF,F,pSyn,0.000233191,0,0.000233191,0
+IM 339,159,0.3,left,AON,AON,WT,mPFF,M,pSyn,0.000266523,0,0.000266523,0
+IM 342,159,0.3,left,AON,AON,WT,mPFF,F,pSyn,6.56E-05,0,6.56E-05,0
+IM 332,215,0.3,left,APN,APN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,215,0.3,left,APN,APN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,215,0.3,left,APN,APN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,215,0.3,left,APN,APN,WT,mPFF,F,pSyn,1.76E-05,0,1.76E-05,0
+IM 332,484682508,0.3,left,APr,APr,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,484682508,0.3,left,APr,APr,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,484682508,0.3,left,APr,APr,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,484682508,0.3,left,APr,APr,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,484682524,0.3,left,ar,ar,WT,mPFF,M,pSyn,0.001669172,0,0.001669172,0
+IM 335,484682524,0.3,left,ar,ar,WT,mPFF,F,pSyn,0.00090255,0,0.00090255,0
+IM 339,484682524,0.3,left,ar,ar,WT,mPFF,M,pSyn,0.004621363,0,0.004621363,0
+IM 342,484682524,0.3,left,ar,ar,WT,mPFF,F,pSyn,0.004845223,0,0.004845223,0
+IM 332,223,0.3,left,ARH,ARH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,223,0.3,left,ARH,ARH,WT,mPFF,F,pSyn,0.00015304,0,0.00015304,0
+IM 339,223,0.3,left,ARH,ARH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,223,0.3,left,ARH,ARH,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,231,0.3,left,AT,AT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,231,0.3,left,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,231,0.3,left,AT,AT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,231,0.3,left,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(243, 678, 252, 527, 156, 600)",0.3,left,AUDd,"c(""AUDd6b"", ""AUDd4"", ""AUDd5"", ""AUDd1"", ""AUDd6a"", ""AUDd2/3"")",WT,mPFF,M,pSyn,0.000226569,0,0.000226569,0
+IM 335,"c(678, 527, 252, 600, 156, 243)",0.3,left,AUDd,"c(""AUDd4"", ""AUDd1"", ""AUDd5"", ""AUDd2/3"", ""AUDd6a"", ""AUDd6b"")",WT,mPFF,F,pSyn,0.000344136,0,0.000344136,0
+IM 339,"c(527, 678, 243, 156, 600, 252)",0.3,left,AUDd,"c(""AUDd1"", ""AUDd4"", ""AUDd6b"", ""AUDd6a"", ""AUDd2/3"", ""AUDd5"")",WT,mPFF,M,pSyn,0.00210895,0,0.00210895,0
+IM 342,"c(600, 527, 678, 243, 252, 156)",0.3,left,AUDd,"c(""AUDd2/3"", ""AUDd1"", ""AUDd4"", ""AUDd6b"", ""AUDd5"", ""AUDd6a"")",WT,mPFF,F,pSyn,0.000496913,0,0.000496913,0
+IM 332,"c(954, 735, 816, 847, 251, 1005)",0.3,left,AUDp,"c(""AUDp6a"", ""AUDp1"", ""AUDp4"", ""AUDp5"", ""AUDp2/3"", ""AUDp6b"")",WT,mPFF,M,pSyn,0.000550093,0,0.000550093,0
+IM 335,"c(847, 954, 1005, 251, 735, 816)",0.3,left,AUDp,"c(""AUDp5"", ""AUDp6a"", ""AUDp6b"", ""AUDp2/3"", ""AUDp1"", ""AUDp4"")",WT,mPFF,F,pSyn,3.52E-05,0,3.52E-05,0
+IM 339,"c(816, 1005, 251, 954, 735, 847)",0.3,left,AUDp,"c(""AUDp4"", ""AUDp6b"", ""AUDp2/3"", ""AUDp6a"", ""AUDp1"", ""AUDp5"")",WT,mPFF,M,pSyn,0.000339202,0,0.000339202,0
+IM 342,"c(847, 954, 1005, 735, 816, 251)",0.3,left,AUDp,"c(""AUDp5"", ""AUDp6a"", ""AUDp6b"", ""AUDp1"", ""AUDp4"", ""AUDp2/3"")",WT,mPFF,F,pSyn,0.000806577,0,0.000806577,0
+IM 332,"c(696, 759, 791, 643, 249, 456)",0.3,left,AUDpo,"c(""AUDpo1"", ""AUDpo4"", ""AUDpo5"", ""AUDpo2/3"", ""AUDpo6a"", ""AUDpo6b"")",WT,mPFF,M,pSyn,0.000195146,0,0.000195146,0
+IM 335,"c(456, 643, 791, 249, 759, 696)",0.3,left,AUDpo,"c(""AUDpo6b"", ""AUDpo2/3"", ""AUDpo5"", ""AUDpo6a"", ""AUDpo4"", ""AUDpo1"")",WT,mPFF,F,pSyn,8.97E-05,0,8.97E-05,0
+IM 339,"c(456, 249, 791, 643, 696, 759)",0.3,left,AUDpo,"c(""AUDpo6b"", ""AUDpo6a"", ""AUDpo5"", ""AUDpo2/3"", ""AUDpo1"", ""AUDpo4"")",WT,mPFF,M,pSyn,0.00011446,0,0.00011446,0
+IM 342,"c(643, 759, 249, 791, 456, 696)",0.3,left,AUDpo,"c(""AUDpo2/3"", ""AUDpo4"", ""AUDpo6a"", ""AUDpo5"", ""AUDpo6b"", ""AUDpo1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(990, 1023, 959, 755, 520, 598)",0.3,left,AUDv,"c(""AUDv4"", ""AUDv5"", ""AUDv1"", ""AUDv2/3"", ""AUDv6a"", ""AUDv6b"")",WT,mPFF,M,pSyn,0.000926971,0,0.000926971,0
+IM 335,"c(755, 990, 959, 1023, 598, 520)",0.3,left,AUDv,"c(""AUDv2/3"", ""AUDv4"", ""AUDv1"", ""AUDv5"", ""AUDv6b"", ""AUDv6a"")",WT,mPFF,F,pSyn,0.000401226,0,0.000401226,0
+IM 339,"c(990, 959, 755, 598, 520, 1023)",0.3,left,AUDv,"c(""AUDv4"", ""AUDv1"", ""AUDv2/3"", ""AUDv6b"", ""AUDv6a"", ""AUDv5"")",WT,mPFF,M,pSyn,0.001111024,0,0.001111024,0
+IM 342,"c(1023, 990, 755, 959, 520, 598)",0.3,left,AUDv,"c(""AUDv5"", ""AUDv4"", ""AUDv2/3"", ""AUDv1"", ""AUDv6a"", ""AUDv6b"")",WT,mPFF,F,pSyn,0.000621563,0,0.000621563,0
+IM 342,272,0.3,left,AVPV,AVPV,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,292,0.3,left,BA,BA,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,482,0.3,left,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,482,0.3,left,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,482,0.3,left,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,482,0.3,left,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(451, 303, 311)",0.3,left,BLA,"c(""BLAv"", ""BLAa"", ""BLAp"")",WT,mPFF,M,pSyn,0.020866278,0,0.020866278,0
+IM 335,"c(451, 303, 311)",0.3,left,BLA,"c(""BLAv"", ""BLAa"", ""BLAp"")",WT,mPFF,F,pSyn,0.014676309,0,0.014676309,0
+IM 339,"c(303, 451, 311)",0.3,left,BLA,"c(""BLAa"", ""BLAv"", ""BLAp"")",WT,mPFF,M,pSyn,0.023938914,0,0.023938914,0
+IM 342,"c(303, 451, 311)",0.3,left,BLA,"c(""BLAa"", ""BLAv"", ""BLAp"")",WT,mPFF,F,pSyn,0.038634953,0,0.038634953,0
+IM 332,"c(334, 327)",0.3,left,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,M,pSyn,6.96E-05,0,6.96E-05,0
+IM 335,"c(334, 327)",0.3,left,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,F,pSyn,0.001598796,0,0.001598796,0
+IM 339,"c(327, 334)",0.3,left,BMA,"c(""BMAa"", ""BMAp"")",WT,mPFF,M,pSyn,0.001123153,0,0.001123153,0
+IM 342,"c(334, 327)",0.3,left,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,F,pSyn,0.000658871,0,0.000658871,0
+IM 332,916,0.3,left,bsc,bsc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,916,0.3,left,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,916,0.3,left,bsc,bsc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,916,0.3,left,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,382,0.3,left,CA1,CA1,WT,mPFF,M,pSyn,4.82E-06,0,4.82E-06,0
+IM 335,382,0.3,left,CA1,CA1,WT,mPFF,F,pSyn,2.24E-05,0,2.24E-05,0
+IM 339,382,0.3,left,CA1,CA1,WT,mPFF,M,pSyn,3.98E-05,0,3.98E-05,0
+IM 342,382,0.3,left,CA1,CA1,WT,mPFF,F,pSyn,0.000247267,0,0.000247267,0
+IM 332,423,0.3,left,CA2,CA2,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,423,0.3,left,CA2,CA2,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,423,0.3,left,CA2,CA2,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,423,0.3,left,CA2,CA2,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,463,0.3,left,CA3,CA3,WT,mPFF,M,pSyn,1.58E-05,0,1.58E-05,0
+IM 335,463,0.3,left,CA3,CA3,WT,mPFF,F,pSyn,7.12E-05,0,7.12E-05,0
+IM 339,463,0.3,left,CA3,CA3,WT,mPFF,M,pSyn,0.000235274,0,0.000235274,0
+IM 342,463,0.3,left,CA3,CA3,WT,mPFF,F,pSyn,6.15E-05,0,6.15E-05,0
+IM 332,512,0.3,left,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,512,0.3,left,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,512,0.3,left,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,512,0.3,left,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(971, 964, 986, 484682516)",0.3,left,cc,"c(""fp"", ""ee"", ""ccs"", ""ccb"")",WT,mPFF,M,pSyn,6.48E-05,0,6.48E-05,0
+IM 335,"c(986, 484682516, 964, 971)",0.3,left,cc,"c(""ccs"", ""ccb"", ""ee"", ""fp"")",WT,mPFF,F,pSyn,0.001254878,0,0.001254878,0
+IM 339,"c(971, 986, 964, 484682516)",0.3,left,cc,"c(""fp"", ""ccs"", ""ee"", ""ccb"")",WT,mPFF,M,pSyn,0.002525656,0,0.002525656,0
+IM 342,"c(964, 986, 484682516, 971)",0.3,left,cc,"c(""ee"", ""ccs"", ""ccb"", ""fp"")",WT,mPFF,F,pSyn,0.001936719,0,0.001936719,0
+IM 332,1108,0.3,left,ccg,ccg,WT,mPFF,M,pSyn,0.010254423,0,0.010254423,0
+IM 335,1108,0.3,left,ccg,ccg,WT,mPFF,F,pSyn,0.005468214,0,0.005468214,0
+IM 339,1108,0.3,left,ccg,ccg,WT,mPFF,M,pSyn,0.008100596,0,0.008100596,0
+IM 342,1108,0.3,left,ccg,ccg,WT,mPFF,F,pSyn,0.00543854,0,0.00543854,0
+IM 332,"c(551, 544, 559)",0.3,left,CEA,"c(""CEAl"", ""CEAc"", ""CEAm"")",WT,mPFF,M,pSyn,0.002677435,0,0.002677435,0
+IM 335,"c(551, 559, 544)",0.3,left,CEA,"c(""CEAl"", ""CEAm"", ""CEAc"")",WT,mPFF,F,pSyn,0.000912217,0,0.000912217,0
+IM 339,"c(551, 544, 559)",0.3,left,CEA,"c(""CEAl"", ""CEAc"", ""CEAm"")",WT,mPFF,M,pSyn,0.015549838,0,0.015549838,0
+IM 342,"c(544, 551, 559)",0.3,left,CEA,"c(""CEAc"", ""CEAl"", ""CEAm"")",WT,mPFF,F,pSyn,0.003088482,0,0.003088482,0
+IM 332,940,0.3,left,cing,cing,WT,mPFF,M,pSyn,0.000844815,0,0.000844815,0
+IM 335,940,0.3,left,cing,cing,WT,mPFF,F,pSyn,0.001482395,0,0.001482395,0
+IM 339,940,0.3,left,cing,cing,WT,mPFF,M,pSyn,0.001355109,0,0.001355109,0
+IM 342,940,0.3,left,cing,cing,WT,mPFF,F,pSyn,0.0011333,0,0.0011333,0
+IM 332,575,0.3,left,CL,CL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,575,0.3,left,CL,CL,WT,mPFF,F,pSyn,0.000204419,0,0.000204419,0
+IM 339,575,0.3,left,CL,CL,WT,mPFF,M,pSyn,0.002561834,0,0.002561834,0
+IM 342,575,0.3,left,CL,CL,WT,mPFF,F,pSyn,0.000587626,0,0.000587626,0
+IM 332,583,0.3,left,CLA,CLA,WT,mPFF,M,pSyn,0.019447805,0,0.019447805,0
+IM 335,583,0.3,left,CLA,CLA,WT,mPFF,F,pSyn,0.003025204,0,0.003025204,0
+IM 339,583,0.3,left,CLA,CLA,WT,mPFF,M,pSyn,0.009295926,0,0.009295926,0
+IM 342,583,0.3,left,CLA,CLA,WT,mPFF,F,pSyn,0.007886831,0,0.007886831,0
+IM 332,591,0.3,left,CLI,CLI,WT,mPFF,M,pSyn,0,0,0,0
+IM 339,591,0.3,left,CLI,CLI,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,599,0.3,left,CM,CM,WT,mPFF,M,pSyn,0.009781526,0,0.009781526,0
+IM 335,599,0.3,left,CM,CM,WT,mPFF,F,pSyn,0.002423296,0,0.002423296,0
+IM 339,599,0.3,left,CM,CM,WT,mPFF,M,pSyn,0.024815774,0,0.024815774,0
+IM 342,599,0.3,left,CM,CM,WT,mPFF,F,pSyn,0.003760017,0,0.003760017,0
+IM 332,639,0.3,left,COA,COAa,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,639,0.3,left,COA,COAa,WT,mPFF,F,pSyn,0.000127892,0,0.000127892,0
+IM 339,639,0.3,left,COA,COAa,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,639,0.3,left,COA,COAa,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(663, 655)",0.3,left,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(655, 663)",0.3,left,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(663, 655)",0.3,left,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,M,pSyn,0.000182493,0,0.000182493,0
+IM 342,"c(655, 663)",0.3,left,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,F,pSyn,0.000165203,0,0.000165203,0
+IM 332,672,0.3,left,CP,CP,WT,mPFF,M,pSyn,0.006197934,0,0.006197934,0
+IM 335,672,0.3,left,CP,CP,WT,mPFF,F,pSyn,0.005827459,0,0.005827459,0
+IM 339,672,0.3,left,CP,CP,WT,mPFF,M,pSyn,0.004136826,0,0.004136826,0
+IM 342,672,0.3,left,CP,CP,WT,mPFF,F,pSyn,0.002567235,0,0.002567235,0
+IM 332,924,0.3,left,cpd,cpd,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,924,0.3,left,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,924,0.3,left,cpd,cpd,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,924,0.3,left,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,679,0.3,left,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,679,0.3,left,CS,CS,WT,mPFF,F,pSyn,1.99E-05,0,1.99E-05,0
+IM 339,679,0.3,left,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,679,0.3,left,CS,CS,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,336,0.3,left,csc,csc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,336,0.3,left,csc,csc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,336,0.3,left,csc,csc,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,784,0.3,left,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,784,0.3,left,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,784,0.3,left,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,784,0.3,left,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,703,0.3,left,CTXsp,CTXsp,WT,mPFF,M,pSyn,0.00091482,0,0.00091482,0
+IM 335,703,0.3,left,CTXsp,CTXsp,WT,mPFF,F,pSyn,0.002174253,0,0.002174253,0
+IM 339,703,0.3,left,CTXsp,CTXsp,WT,mPFF,M,pSyn,0.000356451,0,0.000356451,0
+IM 342,703,0.3,left,CTXsp,CTXsp,WT,mPFF,F,pSyn,0.013757817,0,0.013757817,0
+IM 332,"c(10703, 632, 10704)",0.3,left,DG,"c(""DG-mo"", ""DG-sg"", ""DG-po"")",WT,mPFF,M,pSyn,1.54E-05,0,1.54E-05,0
+IM 335,"c(10704, 632, 10703)",0.3,left,DG,"c(""DG-po"", ""DG-sg"", ""DG-mo"")",WT,mPFF,F,pSyn,1.70E-05,0,1.70E-05,0
+IM 339,"c(10703, 632, 10704)",0.3,left,DG,"c(""DG-mo"", ""DG-sg"", ""DG-po"")",WT,mPFF,M,pSyn,2.94E-06,0,2.94E-06,0
+IM 342,"c(632, 10704, 10703)",0.3,left,DG,"c(""DG-sg"", ""DG-po"", ""DG-mo"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,443,0.3,left,dhc,dhc,WT,mPFF,M,pSyn,0.001391042,0,0.001391042,0
+IM 335,443,0.3,left,dhc,dhc,WT,mPFF,F,pSyn,0.000921722,0,0.000921722,0
+IM 339,443,0.3,left,dhc,dhc,WT,mPFF,M,pSyn,0.001995065,0,0.001995065,0
+IM 342,443,0.3,left,dhc,dhc,WT,mPFF,F,pSyn,0.000855814,0,0.000855814,0
+IM 332,830,0.3,left,DMH,DMH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,830,0.3,left,DMH,DMH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,830,0.3,left,DMH,DMH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,830,0.3,left,DMH,DMH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,814,0.3,left,DP,DP,WT,mPFF,M,pSyn,0.000682837,0,0.000682837,0
+IM 342,814,0.3,left,DP,DP,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,872,0.3,left,DR,DR,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,872,0.3,left,DR,DR,WT,mPFF,F,pSyn,5.95E-05,0,5.95E-05,0
+IM 339,872,0.3,left,DR,DR,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,872,0.3,left,DR,DR,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,812,0.3,left,dscp,dscp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,812,0.3,left,dscp,dscp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,812,0.3,left,dscp,dscp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,812,0.3,left,dscp,dscp,WT,mPFF,F,pSyn,0.007618622,0,0.007618622,0
+IM 332,579,0.3,left,ec,ec,WT,mPFF,M,pSyn,0.016688729,0,0.016688729,0
+IM 335,579,0.3,left,ec,ec,WT,mPFF,F,pSyn,0.004964987,0,0.004964987,0
+IM 339,579,0.3,left,ec,ec,WT,mPFF,M,pSyn,0.007812343,0,0.007812343,0
+IM 342,579,0.3,left,ec,ec,WT,mPFF,F,pSyn,0.008131296,0,0.008131296,0
+IM 332,"c(977, 1045, 988, 836, 427)",0.3,left,ECT,"c(""ECT6a"", ""ECT6b"", ""ECT5"", ""ECT1"", ""ECT2/3"")",WT,mPFF,M,pSyn,0.001717005,0,0.001717005,0
+IM 335,"c(977, 836, 427, 988, 1045)",0.3,left,ECT,"c(""ECT6a"", ""ECT1"", ""ECT2/3"", ""ECT5"", ""ECT6b"")",WT,mPFF,F,pSyn,0.011819002,0,0.011819002,0
+IM 339,"c(1045, 988, 977, 836, 427)",0.3,left,ECT,"c(""ECT6b"", ""ECT5"", ""ECT6a"", ""ECT1"", ""ECT2/3"")",WT,mPFF,M,pSyn,0.012810809,0,0.012810809,0
+IM 342,"c(1045, 427, 988, 836, 977)",0.3,left,ECT,"c(""ECT6b"", ""ECT2/3"", ""ECT5"", ""ECT1"", ""ECT6a"")",WT,mPFF,F,pSyn,0.009992436,0,0.009992436,0
+IM 332,1092,0.3,left,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1092,0.3,left,em,em,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1092,0.3,left,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1092,0.3,left,em,em,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(28, 52, 139, 20, 1121)",0.3,left,ENTl,"c(""ENTl6a"", ""ENTl3"", ""ENTl5"", ""ENTl2"", ""ENTl1"")",WT,mPFF,M,pSyn,0.001206427,0,0.001206427,0
+IM 335,"c(20, 28, 52, 1121, 139)",0.3,left,ENTl,"c(""ENTl2"", ""ENTl6a"", ""ENTl3"", ""ENTl1"", ""ENTl5"")",WT,mPFF,F,pSyn,0.003601453,0,0.003601453,0
+IM 339,"c(20, 1121, 52, 139, 28)",0.3,left,ENTl,"c(""ENTl2"", ""ENTl1"", ""ENTl3"", ""ENTl5"", ""ENTl6a"")",WT,mPFF,M,pSyn,0.001421001,0,0.001421001,0
+IM 342,"c(139, 52, 28, 20, 1121)",0.3,left,ENTl,"c(""ENTl5"", ""ENTl3"", ""ENTl6a"", ""ENTl2"", ""ENTl1"")",WT,mPFF,F,pSyn,0.001509553,0,0.001509553,0
+IM 332,"c(526, 727, 543, 743, 664)",0.3,left,ENTm,"c(""ENTm1"", ""ENTm5"", ""ENTm2"", ""ENTm6"", ""ENTm3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(526, 664, 727, 543, 743)",0.3,left,ENTm,"c(""ENTm1"", ""ENTm3"", ""ENTm5"", ""ENTm2"", ""ENTm6"")",WT,mPFF,F,pSyn,0.001276917,0,0.001276917,0
+IM 339,"c(543, 526, 664, 743, 727)",0.3,left,ENTm,"c(""ENTm2"", ""ENTm1"", ""ENTm3"", ""ENTm6"", ""ENTm5"")",WT,mPFF,M,pSyn,0.000108119,0,0.000108119,0
+IM 342,"c(664, 543, 526, 743, 727)",0.3,left,ENTm,"c(""ENTm3"", ""ENTm2"", ""ENTm1"", ""ENTm6"", ""ENTm5"")",WT,mPFF,F,pSyn,2.20E-05,0,2.20E-05,0
+IM 332,"c(966, 952)",0.3,left,EP,"c(""EPv"", ""EPd"")",WT,mPFF,M,pSyn,0.00023721,0,0.00023721,0
+IM 335,"c(952, 966)",0.3,left,EP,"c(""EPd"", ""EPv"")",WT,mPFF,F,pSyn,0.001954925,0,0.001954925,0
+IM 339,"c(952, 966)",0.3,left,EP,"c(""EPd"", ""EPv"")",WT,mPFF,M,pSyn,0.005612706,0,0.005612706,0
+IM 342,"c(966, 952)",0.3,left,EP,"c(""EPv"", ""EPd"")",WT,mPFF,F,pSyn,0.00254296,0,0.00254296,0
+IM 332,560581551,0.3,left,Eth,Eth,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,560581551,0.3,left,Eth,Eth,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,560581551,0.3,left,Eth,Eth,WT,mPFF,M,pSyn,6.25E-05,0,6.25E-05,0
+IM 342,560581551,0.3,left,Eth,Eth,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,975,0.3,left,EW,EW,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,975,0.3,left,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,975,0.3,left,EW,EW,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,975,0.3,left,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,982,0.3,left,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,982,0.3,left,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,982,0.3,left,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,982,0.3,left,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,804,0.3,left,FF,FF,WT,mPFF,M,pSyn,0,0,0,0
+IM 339,804,0.3,left,FF,FF,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,804,0.3,left,FF,FF,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,603,0.3,left,fi,fi,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,603,0.3,left,fi,fi,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,603,0.3,left,fi,fi,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,603,0.3,left,fi,fi,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1009,0.3,left,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,2.78E-05,0,2.78E-05,0
+IM 335,1009,0.3,left,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1009,0.3,left,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,0.000505596,0,0.000505596,0
+IM 342,1009,0.3,left,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0.000347642,0,0.000347642,0
+IM 332,595,0.3,left,fr,fr,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,595,0.3,left,fr,fr,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,595,0.3,left,fr,fr,WT,mPFF,M,pSyn,0.011344544,0,0.011344544,0
+IM 342,595,0.3,left,fr,fr,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,526157196,0.3,left,FRP,FRP6a,WT,mPFF,M,pSyn,0.012465168,0,0.012465168,0
+IM 335,526157196,0.3,left,FRP,FRP6a,WT,mPFF,F,pSyn,0.007809935,0,0.007809935,0
+IM 339,526157196,0.3,left,FRP,FRP6a,WT,mPFF,M,pSyn,0.015987223,0,0.015987223,0
+IM 342,526157196,0.3,left,FRP,FRP6a,WT,mPFF,F,pSyn,0.004844065,0,0.004844065,0
+IM 332,436,0.3,left,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,436,0.3,left,fx,fx,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,436,0.3,left,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,436,0.3,left,fx,fx,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(662, 187, 180, 148, 638, 36)",0.3,left,GU,"c(""GU6b"", ""GU5"", ""GU2/3"", ""GU4"", ""GU6a"", ""GU1"")",WT,mPFF,M,pSyn,0.006617189,0,0.006617189,0
+IM 335,"c(148, 662, 180, 187, 36, 638)",0.3,left,GU,"c(""GU4"", ""GU6b"", ""GU2/3"", ""GU5"", ""GU1"", ""GU6a"")",WT,mPFF,F,pSyn,0.005665956,0,0.005665956,0
+IM 339,"c(187, 148, 180, 36, 638, 662)",0.3,left,GU,"c(""GU5"", ""GU4"", ""GU2/3"", ""GU1"", ""GU6a"", ""GU6b"")",WT,mPFF,M,pSyn,0.036132265,0.004846326,0.031285939,1.572080207
+IM 342,"c(148, 36, 187, 638, 662, 180)",0.3,left,GU,"c(""GU4"", ""GU1"", ""GU5"", ""GU6a"", ""GU6b"", ""GU2/3"")",WT,mPFF,F,pSyn,0.024932055,0,0.024932055,0
+IM 332,589508447,0.3,left,HATA,HATA,WT,mPFF,M,pSyn,0.000833738,0,0.000833738,0
+IM 335,589508447,0.3,left,HATA,HATA,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,589508447,0.3,left,HATA,HATA,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,589508447,0.3,left,HATA,HATA,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,611,0.3,left,hbc,hbc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,611,0.3,left,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,611,0.3,left,hbc,hbc,WT,mPFF,M,pSyn,0.000639765,0,0.000639765,0
+IM 342,611,0.3,left,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1089,0.3,left,HPF,HPF,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1089,0.3,left,HPF,HPF,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1089,0.3,left,HPF,HPF,WT,mPFF,M,pSyn,0.000222256,0,0.000222256,0
+IM 342,1089,0.3,left,HPF,HPF,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1097,0.3,left,HY,HY,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1097,0.3,left,HY,HY,WT,mPFF,F,pSyn,1.49E-05,0,1.49E-05,0
+IM 339,1097,0.3,left,HY,HY,WT,mPFF,M,pSyn,0.000875623,0,0.000875623,0
+IM 342,1097,0.3,left,HY,HY,WT,mPFF,F,pSyn,0.001590811,0,0.001590811,0
+IM 332,1105,0.3,left,IA,IA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1105,0.3,left,IA,IA,WT,mPFF,F,pSyn,0.009946718,0,0.009946718,0
+IM 339,1105,0.3,left,IA,IA,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1105,0.3,left,IA,IA,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(828, 820)",0.3,left,IC,"c(""ICe"", ""ICd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(820, 828)",0.3,left,IC,"c(""ICd"", ""ICe"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,828,0.3,left,IC,ICe,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,828,0.3,left,IC,ICe,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,12,0.3,left,IF,IF,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,12,0.3,left,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,12,0.3,left,IF,IF,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,12,0.3,left,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,19,0.3,left,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,19,0.3,left,IG,IG,WT,mPFF,F,pSyn,0.001705488,0,0.001705488,0
+IM 339,19,0.3,left,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,19,0.3,left,IG,IG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,27,0.3,left,IGL,IGL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,27,0.3,left,IGL,IGL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,27,0.3,left,IGL,IGL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,27,0.3,left,IGL,IGL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,35,0.3,left,III,III,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,848,0.3,left,IIn,IIn,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,848,0.3,left,IIn,IIn,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,848,0.3,left,IIn,IIn,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(556, 827, 707)",0.3,left,ILA,"c(""ILA2/3"", ""ILA5"", ""ILA1"")",WT,mPFF,M,pSyn,0.001423636,0,0.001423636,0
+IM 335,"c(707, 827, 556)",0.3,left,ILA,"c(""ILA1"", ""ILA5"", ""ILA2/3"")",WT,mPFF,F,pSyn,0.002967173,0,0.002967173,0
+IM 339,"c(1054, 556, 707, 827)",0.3,left,ILA,"c(""ILA6a"", ""ILA2/3"", ""ILA1"", ""ILA5"")",WT,mPFF,M,pSyn,0.003229661,0,0.003229661,0
+IM 342,"c(827, 556, 707, 1054)",0.3,left,ILA,"c(""ILA5"", ""ILA2/3"", ""ILA1"", ""ILA6a"")",WT,mPFF,F,pSyn,0.025362854,0,0.025362854,0
+IM 332,59,0.3,left,IMD,IMD,WT,mPFF,M,pSyn,0.004450768,0,0.004450768,0
+IM 335,59,0.3,left,IMD,IMD,WT,mPFF,F,pSyn,0.000911896,0,0.000911896,0
+IM 339,59,0.3,left,IMD,IMD,WT,mPFF,M,pSyn,0.020593785,0,0.020593785,0
+IM 342,59,0.3,left,IMD,IMD,WT,mPFF,F,pSyn,0.000114618,0,0.000114618,0
+IM 332,900,0.3,left,In,aco,WT,mPFF,M,pSyn,0.001260033,0,0.001260033,0
+IM 335,900,0.3,left,In,aco,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,900,0.3,left,In,aco,WT,mPFF,M,pSyn,0.002160623,0,0.002160623,0
+IM 342,900,0.3,left,In,aco,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,67,0.3,left,INC,INC,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,67,0.3,left,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,67,0.3,left,INC,INC,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,67,0.3,left,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,6,0.3,left,int,int,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,6,0.3,left,int,int,WT,mPFF,F,pSyn,0.000627778,0,0.000627778,0
+IM 339,6,0.3,left,int,int,WT,mPFF,M,pSyn,0.000388498,0,0.000388498,0
+IM 342,6,0.3,left,int,int,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(607344862, 607344834)",0.3,left,IPN,"c(""IPRL"", ""IPR"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(607344834, 607344862)",0.3,left,IPN,"c(""IPR"", ""IPRL"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,115,0.3,left,IV,IV,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,115,0.3,left,IV,IV,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,115,0.3,left,IV,IV,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,131,0.3,left,LA,LA,WT,mPFF,M,pSyn,0.004000915,0,0.004000915,0
+IM 335,131,0.3,left,LA,LA,WT,mPFF,F,pSyn,0.014776377,0,0.014776377,0
+IM 339,131,0.3,left,LA,LA,WT,mPFF,M,pSyn,0.011687408,0,0.011687408,0
+IM 342,131,0.3,left,LA,LA,WT,mPFF,F,pSyn,0.005091288,0,0.005091288,0
+IM 332,155,0.3,left,LD,LD,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,155,0.3,left,LD,LD,WT,mPFF,F,pSyn,1.46E-05,0,1.46E-05,0
+IM 339,155,0.3,left,LD,LD,WT,mPFF,M,pSyn,0.000116132,0,0.000116132,0
+IM 342,155,0.3,left,LD,LD,WT,mPFF,F,pSyn,0.000923589,0,0.000923589,0
+IM 332,"c(496345672, 496345664, 496345668)",0.3,left,LGd,"c(""LGd-ip"", ""LGd-sh"", ""LGd-co"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(496345668, 496345672, 496345664)",0.3,left,LGd,"c(""LGd-co"", ""LGd-ip"", ""LGd-sh"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(496345664, 496345668, 496345672)",0.3,left,LGd,"c(""LGd-sh"", ""LGd-co"", ""LGd-ip"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(496345672, 496345668, 496345664)",0.3,left,LGd,"c(""LGd-ip"", ""LGd-co"", ""LGd-sh"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,178,0.3,left,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,178,0.3,left,LGv,LGv,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,178,0.3,left,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,178,0.3,left,LGv,LGv,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,186,0.3,left,LH,LH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,186,0.3,left,LH,LH,WT,mPFF,F,pSyn,0.000170922,0,0.000170922,0
+IM 339,186,0.3,left,LH,LH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,186,0.3,left,LH,LH,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,194,0.3,left,LHA,LHA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,194,0.3,left,LHA,LHA,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,194,0.3,left,LHA,LHA,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,194,0.3,left,LHA,LHA,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,658,0.3,left,ll,ll,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,658,0.3,left,ll,ll,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,658,0.3,left,ll,ll,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,658,0.3,left,ll,ll,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,210,0.3,left,LM,LM,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,210,0.3,left,LM,LM,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,210,0.3,left,LM,LM,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,665,0.3,left,lotg,lot,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,665,0.3,left,lotg,lot,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,665,0.3,left,lotg,lot,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,665,0.3,left,lotg,lot,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,218,0.3,left,LP,LP,WT,mPFF,M,pSyn,1.32E-05,0,1.32E-05,0
+IM 335,218,0.3,left,LP,LP,WT,mPFF,F,pSyn,4.79E-05,0,4.79E-05,0
+IM 339,218,0.3,left,LP,LP,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,218,0.3,left,LP,LP,WT,mPFF,F,pSyn,1.42E-05,0,1.42E-05,0
+IM 332,226,0.3,left,LPO,LPO,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,226,0.3,left,LPO,LPO,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,226,0.3,left,LPO,LPO,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(266, 258)",0.3,left,LS,"c(""LSv"", ""LSr"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(266, 258)",0.3,left,LS,"c(""LSv"", ""LSr"")",WT,mPFF,F,pSyn,0.000229869,0,0.000229869,0
+IM 339,"c(266, 258)",0.3,left,LS,"c(""LSv"", ""LSr"")",WT,mPFF,M,pSyn,7.47E-05,0,7.47E-05,0
+IM 342,"c(258, 266)",0.3,left,LS,"c(""LSr"", ""LSv"")",WT,mPFF,F,pSyn,2.21E-05,0,2.21E-05,0
+IM 332,66,0.3,left,LT,LT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,66,0.3,left,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,66,0.3,left,LT,LT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,66,0.3,left,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,549009211,0.3,left,MA3,MA3,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,549009211,0.3,left,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,549009211,0.3,left,MA3,MA3,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,549009211,0.3,left,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,313,0.3,left,MB,MB,WT,mPFF,M,pSyn,5.77E-05,0,5.77E-05,0
+IM 335,313,0.3,left,MB,MB,WT,mPFF,F,pSyn,7.78E-05,0,7.78E-05,0
+IM 339,313,0.3,left,MB,MB,WT,mPFF,M,pSyn,0.000924616,0.00058737,0.000337246,0.236116959
+IM 342,313,0.3,left,MB,MB,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,381,0.3,left,MBmot,SNr,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,381,0.3,left,MBmot,SNr,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,381,0.3,left,MBmot,SNr,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,381,0.3,left,MBmot,SNr,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,374,0.3,left,MBsta,SNc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,374,0.3,left,MBsta,SNc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,374,0.3,left,MBsta,SNc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,374,0.3,left,MBsta,SNc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,78,0.3,left,mcp,mcp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,78,0.3,left,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,78,0.3,left,mcp,mcp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,78,0.3,left,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,362,0.3,left,MD,MD,WT,mPFF,M,pSyn,0.002108977,0,0.002108977,0
+IM 335,362,0.3,left,MD,MD,WT,mPFF,F,pSyn,0.001028274,0,0.001028274,0
+IM 339,362,0.3,left,MD,MD,WT,mPFF,M,pSyn,0.000675987,0,0.000675987,0
+IM 342,362,0.3,left,MD,MD,WT,mPFF,F,pSyn,4.55E-05,0,4.55E-05,0
+IM 332,10671,0.3,left,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,10671,0.3,left,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,10671,0.3,left,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,10671,0.3,left,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,403,0.3,left,MEA,MEA,WT,mPFF,M,pSyn,8.24E-05,0,8.24E-05,0
+IM 335,403,0.3,left,MEA,MEA,WT,mPFF,F,pSyn,0.000182532,0,0.000182532,0
+IM 339,403,0.3,left,MEA,MEA,WT,mPFF,M,pSyn,0.000220485,0,0.000220485,0
+IM 342,403,0.3,left,MEA,MEA,WT,mPFF,F,pSyn,1.82E-05,0,1.82E-05,0
+IM 335,63,0.3,left,MEZ,PVHd,WT,mPFF,F,pSyn,0.002354711,0,0.002354711,0
+IM 339,63,0.3,left,MEZ,PVHd,WT,mPFF,M,pSyn,0.000695094,0,0.000695094,0
+IM 342,63,0.3,left,MEZ,PVHd,WT,mPFF,F,pSyn,0.001244448,0,0.001244448,0
+IM 335,54,0.3,left,mfb,mfb,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,54,0.3,left,mfb,mfb,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,"c(1072, 1079, 1088)",0.3,left,MG,"c(""MGd"", ""MGv"", ""MGm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(1088, 1072, 1079)",0.3,left,MG,"c(""MGm"", ""MGd"", ""MGv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(1088, 1072, 1079)",0.3,left,MG,"c(""MGm"", ""MGd"", ""MGv"")",WT,mPFF,M,pSyn,5.71E-05,0,5.71E-05,0
+IM 342,"c(1088, 1072, 1079)",0.3,left,MG,"c(""MGm"", ""MGd"", ""MGv"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,483,0.3,left,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,483,0.3,left,MH,MH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,483,0.3,left,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,483,0.3,left,MH,MH,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,697,0.3,left,ml,ml,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,697,0.3,left,ml,ml,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,697,0.3,left,ml,ml,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,697,0.3,left,ml,ml,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,62,0.3,left,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,62,0.3,left,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,62,0.3,left,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,62,0.3,left,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(606826655, 606826647, 606826659, 606826651, 732)",0.3,left,MM,"c(""MMp"", ""MMl"", ""MMd"", ""MMm"", ""MMme"")",WT,mPFF,M,pSyn,5.24E-05,0,5.24E-05,0
+IM 335,"c(606826651, 606826647, 732, 606826659)",0.3,left,MM,"c(""MMm"", ""MMl"", ""MMme"", ""MMd"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(606826651, 606826647, 606826659, 732)",0.3,left,MM,"c(""MMm"", ""MMl"", ""MMd"", ""MMme"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(606826647, 606826659, 606826655, 606826651)",0.3,left,MM,"c(""MMl"", ""MMd"", ""MMp"", ""MMm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(943, 648, 320, 844, 882)",0.3,left,MOp,"c(""MOp2/3"", ""MOp5"", ""MOp1"", ""MOp6a"", ""MOp6b"")",WT,mPFF,M,pSyn,0.000188444,0,0.000188444,0
+IM 335,"c(943, 648, 320, 844, 882)",0.3,left,MOp,"c(""MOp2/3"", ""MOp5"", ""MOp1"", ""MOp6a"", ""MOp6b"")",WT,mPFF,F,pSyn,0.001035731,0,0.001035731,0
+IM 339,"c(320, 943, 648, 844, 882)",0.3,left,MOp,"c(""MOp1"", ""MOp2/3"", ""MOp5"", ""MOp6a"", ""MOp6b"")",WT,mPFF,M,pSyn,0.001483294,0,0.001483294,0
+IM 342,"c(320, 943, 648, 844, 882)",0.3,left,MOp,"c(""MOp1"", ""MOp2/3"", ""MOp5"", ""MOp6a"", ""MOp6b"")",WT,mPFF,F,pSyn,0.001931653,0,0.001931653,0
+IM 332,"c(656, 962, 767, 1021, 1085)",0.3,left,MOs,"c(""MOs1"", ""MOs2/3"", ""MOs5"", ""MOs6a"", ""MOs6b"")",WT,mPFF,M,pSyn,0.001340841,0,0.001340841,0
+IM 335,"c(656, 1085, 962, 767, 1021)",0.3,left,MOs,"c(""MOs1"", ""MOs6b"", ""MOs2/3"", ""MOs5"", ""MOs6a"")",WT,mPFF,F,pSyn,0.002517966,0,0.002517966,0
+IM 339,"c(962, 1021, 656, 767, 1085)",0.3,left,MOs,"c(""MOs2/3"", ""MOs6a"", ""MOs1"", ""MOs5"", ""MOs6b"")",WT,mPFF,M,pSyn,0.002861143,0,0.002861143,0
+IM 342,"c(656, 1021, 962, 767, 1085)",0.3,left,MOs,"c(""MOs1"", ""MOs6a"", ""MOs2/3"", ""MOs5"", ""MOs6b"")",WT,mPFF,F,pSyn,0.002129262,0,0.002129262,0
+IM 332,93,0.3,left,moV,moV,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,93,0.3,left,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,93,0.3,left,moV,moV,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,93,0.3,left,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,673,0.3,left,mp,mp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,673,0.3,left,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,673,0.3,left,mp,mp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,673,0.3,left,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,128,0.3,left,MRN,MRN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,128,0.3,left,MRN,MRN,WT,mPFF,F,pSyn,2.10E-05,0,2.10E-05,0
+IM 339,128,0.3,left,MRN,MRN,WT,mPFF,M,pSyn,0.000183502,0,0.000183502,0
+IM 342,128,0.3,left,MRN,MRN,WT,mPFF,F,pSyn,0.00011003,0,0.00011003,0
+IM 332,564,0.3,left,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,564,0.3,left,MS,MS,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,564,0.3,left,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,564,0.3,left,MS,MS,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,58,0.3,left,MT,MT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,58,0.3,left,MT,MT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,58,0.3,left,MT,MT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,58,0.3,left,MT,MT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,681,0.3,left,mtg,mtg,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,681,0.3,left,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,681,0.3,left,mtg,mtg,WT,mPFF,M,pSyn,0.047502181,0.048484984,-0.000982804,0
+IM 342,681,0.3,left,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,690,0.3,left,mtt,mtt,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,690,0.3,left,mtt,mtt,WT,mPFF,F,pSyn,0.00181473,0,0.00181473,0
+IM 339,690,0.3,left,mtt,mtt,WT,mPFF,M,pSyn,0.003212693,0,0.003212693,0
+IM 342,690,0.3,left,mtt,mtt,WT,mPFF,F,pSyn,9.05E-05,0,9.05E-05,0
+IM 332,997,0.3,left,None,None,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,997,0.3,left,None,None,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,997,0.3,left,None,None,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,997,0.3,left,None,None,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,587,0.3,left,ND,ND,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,587,0.3,left,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,587,0.3,left,ND,ND,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,587,0.3,left,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,596,0.3,left,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,596,0.3,left,NDB,NDB,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,596,0.3,left,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,596,0.3,left,NDB,NDB,WT,mPFF,F,pSyn,0.000106164,0,0.000106164,0
+IM 332,612,0.3,left,NLL,NLL,WT,mPFF,M,pSyn,0.000137317,0,0.000137317,0
+IM 335,612,0.3,left,NLL,NLL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,612,0.3,left,NLL,NLL,WT,mPFF,M,pSyn,0.000117023,0,0.000117023,0
+IM 342,612,0.3,left,NLL,NLL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,628,0.3,left,NOT,NOT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,628,0.3,left,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,628,0.3,left,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,634,0.3,left,NPC,NPC,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,102,0.3,left,nst,nst,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,102,0.3,left,nst,nst,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,102,0.3,left,nst,nst,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,102,0.3,left,nst,nst,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,698,0.3,left,OLF,OLF,WT,mPFF,M,pSyn,0.000154612,0,0.000154612,0
+IM 335,698,0.3,left,OLF,OLF,WT,mPFF,F,pSyn,0.001356419,0,0.001356419,0
+IM 339,698,0.3,left,OLF,OLF,WT,mPFF,M,pSyn,0.000909245,0,0.000909245,0
+IM 342,698,0.3,left,OLF,OLF,WT,mPFF,F,pSyn,0.000573519,0,0.000573519,0
+IM 332,125,0.3,left,opt,opt,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,125,0.3,left,opt,opt,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,125,0.3,left,opt,opt,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,125,0.3,left,opt,opt,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,484682520,0.3,left,or,or,WT,mPFF,M,pSyn,0.001373587,0,0.001373587,0
+IM 335,484682520,0.3,left,or,or,WT,mPFF,F,pSyn,0.000455663,0,0.000455663,0
+IM 339,484682520,0.3,left,or,or,WT,mPFF,M,pSyn,0.003342572,0,0.003342572,0
+IM 342,484682520,0.3,left,or,or,WT,mPFF,F,pSyn,0.001942401,0,0.001942401,0
+IM 332,"c(448, 440, 412, 630)",0.3,left,ORBl,"c(""ORBl1"", ""ORBl6a"", ""ORBl2/3"", ""ORBl5"")",WT,mPFF,M,pSyn,0.006223402,0,0.006223402,0
+IM 335,"c(448, 630, 412, 440)",0.3,left,ORBl,"c(""ORBl1"", ""ORBl5"", ""ORBl2/3"", ""ORBl6a"")",WT,mPFF,F,pSyn,0.006699153,0,0.006699153,0
+IM 339,"c(488, 412, 630, 440, 448)",0.3,left,ORBl,"c(""ORBl6b"", ""ORBl2/3"", ""ORBl5"", ""ORBl6a"", ""ORBl1"")",WT,mPFF,M,pSyn,0.004121898,0,0.004121898,0
+IM 342,"c(440, 630, 412, 448)",0.3,left,ORBl,"c(""ORBl6a"", ""ORBl5"", ""ORBl2/3"", ""ORBl1"")",WT,mPFF,F,pSyn,0.005336463,0,0.005336463,0
+IM 332,"c(582, 484, 910, 620)",0.3,left,ORBm,"c(""ORBm2/3"", ""ORBm1"", ""ORBm6a"", ""ORBm5"")",WT,mPFF,M,pSyn,0.005139031,0,0.005139031,0
+IM 335,"c(582, 910, 484, 620)",0.3,left,ORBm,"c(""ORBm2/3"", ""ORBm6a"", ""ORBm1"", ""ORBm5"")",WT,mPFF,F,pSyn,0.007345998,0,0.007345998,0
+IM 339,"c(620, 910, 484, 582)",0.3,left,ORBm,"c(""ORBm5"", ""ORBm6a"", ""ORBm1"", ""ORBm2/3"")",WT,mPFF,M,pSyn,0.005373885,0,0.005373885,0
+IM 342,"c(910, 484, 620, 582)",0.3,left,ORBm,"c(""ORBm6a"", ""ORBm1"", ""ORBm5"", ""ORBm2/3"")",WT,mPFF,F,pSyn,0.016715462,0,0.016715462,0
+IM 332,"c(288, 608, 969, 1125)",0.3,left,ORBvl,"c(""ORBvl2/3"", ""ORBvl6a"", ""ORBvl1"", ""ORBvl5"")",WT,mPFF,M,pSyn,0.010532651,0,0.010532651,0
+IM 335,"c(1125, 288, 608, 969)",0.3,left,ORBvl,"c(""ORBvl5"", ""ORBvl2/3"", ""ORBvl6a"", ""ORBvl1"")",WT,mPFF,F,pSyn,0.008103909,0,0.008103909,0
+IM 339,"c(608, 1125, 288, 680)",0.3,left,ORBvl,"c(""ORBvl6a"", ""ORBvl5"", ""ORBvl2/3"", ""ORBvl6b"")",WT,mPFF,M,pSyn,0.007933181,0,0.007933181,0
+IM 342,"c(1125, 608, 288)",0.3,left,ORBvl,"c(""ORBvl5"", ""ORBvl6a"", ""ORBvl2/3"")",WT,mPFF,F,pSyn,0.008855133,0,0.008855133,0
+IM 332,754,0.3,left,OT,OT,WT,mPFF,M,pSyn,6.06E-05,0,6.06E-05,0
+IM 335,754,0.3,left,OT,OT,WT,mPFF,F,pSyn,0.001521359,0,0.001521359,0
+IM 339,754,0.3,left,OT,OT,WT,mPFF,M,pSyn,0.001290236,0,0.001290236,0
+IM 342,754,0.3,left,OT,OT,WT,mPFF,F,pSyn,0.001934518,0,0.001934518,0
+IM 332,771,0.3,left,P,P,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,771,0.3,left,P,P,WT,mPFF,F,pSyn,1.36E-05,0,1.36E-05,0
+IM 339,771,0.3,left,P,P,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,771,0.3,left,P,P,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,780,0.3,left,PA,PA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,780,0.3,left,PA,PA,WT,mPFF,F,pSyn,0.002591793,0,0.002591793,0
+IM 339,780,0.3,left,PA,PA,WT,mPFF,M,pSyn,0.000859964,0,0.000859964,0
+IM 342,780,0.3,left,PA,PA,WT,mPFF,F,pSyn,5.49E-05,0,5.49E-05,0
+IM 332,606826663,0.3,left,Pa4,Pa4,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,606826663,0.3,left,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,606826663,0.3,left,Pa4,Pa4,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,606826663,0.3,left,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,788,0.3,left,PAA,PAA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,788,0.3,left,PAA,PAA,WT,mPFF,F,pSyn,8.26E-05,0,8.26E-05,0
+IM 339,788,0.3,left,PAA,PAA,WT,mPFF,M,pSyn,0.000237118,0,0.000237118,0
+IM 342,788,0.3,left,PAA,PAA,WT,mPFF,F,pSyn,0.005388131,0,0.005388131,0
+IM 332,795,0.3,left,PAG,PAG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,795,0.3,left,PAG,PAG,WT,mPFF,F,pSyn,9.47E-06,0,9.47E-06,0
+IM 339,795,0.3,left,PAG,PAG,WT,mPFF,M,pSyn,0.000254715,0,0.000254715,0
+IM 342,795,0.3,left,PAG,PAG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,803,0.3,left,PAL,PAL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,803,0.3,left,PAL,PAL,WT,mPFF,F,pSyn,3.95E-05,0,3.95E-05,0
+IM 339,803,0.3,left,PAL,PAL,WT,mPFF,M,pSyn,0.002443907,0,0.002443907,0
+IM 342,803,0.3,left,PAL,PAL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(1022, 1031)",0.3,left,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,M,pSyn,0.000464559,0,0.000464559,0
+IM 335,"c(1022, 1031)",0.3,left,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,F,pSyn,4.63E-05,0,4.63E-05,0
+IM 339,"c(1022, 1031)",0.3,left,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,M,pSyn,0.000170504,0,0.000170504,0
+IM 342,"c(1022, 1031)",0.3,left,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,F,pSyn,0.000762576,0,0.000762576,0
+IM 332,843,0.3,left,PAR,PAR,WT,mPFF,M,pSyn,3.84E-05,0,3.84E-05,0
+IM 335,843,0.3,left,PAR,PAR,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,843,0.3,left,PAR,PAR,WT,mPFF,M,pSyn,1.82E-05,0,1.82E-05,0
+IM 342,843,0.3,left,PAR,PAR,WT,mPFF,F,pSyn,7.79E-06,0,7.79E-06,0
+IM 332,874,0.3,left,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,874,0.3,left,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,874,0.3,left,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,874,0.3,left,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,158,0.3,left,pc,pc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,158,0.3,left,pc,pc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,907,0.3,left,PCN,PCN,WT,mPFF,M,pSyn,0.000144032,0,0.000144032,0
+IM 335,907,0.3,left,PCN,PCN,WT,mPFF,F,pSyn,0.002103394,0,0.002103394,0
+IM 339,907,0.3,left,PCN,PCN,WT,mPFF,M,pSyn,0.003964385,0,0.003964385,0
+IM 342,907,0.3,left,PCN,PCN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,576073704,0.3,left,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,576073704,0.3,left,PeF,PeF,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,576073704,0.3,left,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,576073704,0.3,left,PeF,PeF,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(888, 692, 540, 368, 335)",0.3,left,PERI,"c(""PERI2/3"", ""PERI5"", ""PERI1"", ""PERI6b"", ""PERI6a"")",WT,mPFF,M,pSyn,0.000519871,0,0.000519871,0
+IM 335,"c(540, 888, 335, 692, 368)",0.3,left,PERI,"c(""PERI1"", ""PERI2/3"", ""PERI6a"", ""PERI5"", ""PERI6b"")",WT,mPFF,F,pSyn,0.003798245,0,0.003798245,0
+IM 339,"c(692, 888, 540, 335, 368)",0.3,left,PERI,"c(""PERI5"", ""PERI2/3"", ""PERI1"", ""PERI6a"", ""PERI6b"")",WT,mPFF,M,pSyn,0.008266275,0,0.008266275,0
+IM 342,"c(888, 692, 540, 335, 368)",0.3,left,PERI,"c(""PERI2/3"", ""PERI5"", ""PERI1"", ""PERI6a"", ""PERI6b"")",WT,mPFF,F,pSyn,0.003914461,0,0.003914461,0
+IM 332,930,0.3,left,PF,PF,WT,mPFF,M,pSyn,0.0002262,0,0.0002262,0
+IM 335,930,0.3,left,PF,PF,WT,mPFF,F,pSyn,0.001382313,0,0.001382313,0
+IM 339,930,0.3,left,PF,PF,WT,mPFF,M,pSyn,0.000250628,0,0.000250628,0
+IM 342,930,0.3,left,PF,PF,WT,mPFF,F,pSyn,0.000512473,0,0.000512473,0
+IM 332,931,0.3,left,PG,PG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,931,0.3,left,PG,PG,WT,mPFF,F,pSyn,8.58E-05,0,8.58E-05,0
+IM 339,931,0.3,left,PG,PG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,931,0.3,left,PG,PG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,946,0.3,left,PH,PH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,946,0.3,left,PH,PH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,946,0.3,left,PH,PH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,946,0.3,left,PH,PH,WT,mPFF,F,pSyn,2.96E-05,0,2.96E-05,0
+IM 332,560581563,0.3,left,PIL,PIL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,560581563,0.3,left,PIL,PIL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,560581563,0.3,left,PIL,PIL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,560581563,0.3,left,PIL,PIL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,961,0.3,left,PIR,PIR,WT,mPFF,M,pSyn,2.21E-05,0,2.21E-05,0
+IM 335,961,0.3,left,PIR,PIR,WT,mPFF,F,pSyn,6.69E-05,0,6.69E-05,0
+IM 339,961,0.3,left,PIR,PIR,WT,mPFF,M,pSyn,0.000277662,0,0.000277662,0
+IM 342,961,0.3,left,PIR,PIR,WT,mPFF,F,pSyn,0.000128558,0,0.000128558,0
+IM 332,"c(84, 171, 304, 363)",0.3,left,PL,"c(""PL6a"", ""PL1"", ""PL2/3"", ""PL5"")",WT,mPFF,M,pSyn,0.016143237,0,0.016143237,0
+IM 335,"c(84, 363, 304, 171)",0.3,left,PL,"c(""PL6a"", ""PL5"", ""PL2/3"", ""PL1"")",WT,mPFF,F,pSyn,0.014765682,0,0.014765682,0
+IM 339,"c(304, 363, 84, 171)",0.3,left,PL,"c(""PL2/3"", ""PL5"", ""PL6a"", ""PL1"")",WT,mPFF,M,pSyn,0.007501335,0,0.007501335,0
+IM 342,"c(171, 84, 304, 363)",0.3,left,PL,"c(""PL1"", ""PL6a"", ""PL2/3"", ""PL5"")",WT,mPFF,F,pSyn,0.01253272,0,0.01253272,0
+IM 332,753,0.3,left,pm,pm,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,753,0.3,left,pm,pm,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,753,0.3,left,pm,pm,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,753,0.3,left,pm,pm,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,980,0.3,left,PMd,PMd,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,980,0.3,left,PMd,PMd,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1004,0.3,left,PMv,PMv,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1004,0.3,left,PMv,PMv,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1004,0.3,left,PMv,PMv,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1004,0.3,left,PMv,PMv,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1020,0.3,left,PO,PO,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1020,0.3,left,PO,PO,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1020,0.3,left,PO,PO,WT,mPFF,M,pSyn,0.000600909,0,0.000600909,0
+IM 342,1020,0.3,left,PO,PO,WT,mPFF,F,pSyn,0.000552973,0,0.000552973,0
+IM 332,1029,0.3,left,POL,POL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1029,0.3,left,POL,POL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1029,0.3,left,POL,POL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1029,0.3,left,POL,POL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1037,0.3,left,POST,POST,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1037,0.3,left,POST,POST,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1037,0.3,left,POST,POST,WT,mPFF,M,pSyn,0.000863612,0,0.000863612,0
+IM 342,1037,0.3,left,POST,POST,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,563807435,0.3,left,PoT,PoT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,563807435,0.3,left,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,563807435,0.3,left,PoT,PoT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,563807435,0.3,left,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1044,0.3,left,PP,PP,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1044,0.3,left,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1044,0.3,left,PP,PP,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1044,0.3,left,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1052,0.3,left,PPN,PPN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1052,0.3,left,PPN,PPN,WT,mPFF,F,pSyn,0.000120647,0,0.000120647,0
+IM 339,1052,0.3,left,PPN,PPN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1052,0.3,left,PPN,PPN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1061,0.3,left,PPT,PPT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1061,0.3,left,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,1061,0.3,left,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1077,0.3,left,PR,PR,WT,mPFF,M,pSyn,0.002865191,0,0.002865191,0
+IM 335,1077,0.3,left,PR,PR,WT,mPFF,F,pSyn,0.004148286,0,0.004148286,0
+IM 339,1077,0.3,left,PR,PR,WT,mPFF,M,pSyn,0.004374907,0,0.004374907,0
+IM 342,1077,0.3,left,PR,PR,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,50,0.3,left,PRC,PRC,WT,mPFF,M,pSyn,0.000396343,0,0.000396343,0
+IM 335,50,0.3,left,PRC,PRC,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,50,0.3,left,PRC,PRC,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,50,0.3,left,PRC,PRC,WT,mPFF,F,pSyn,0.00025776,0,0.00025776,0
+IM 332,1084,0.3,left,PRE,PRE,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1084,0.3,left,PRE,PRE,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1084,0.3,left,PRE,PRE,WT,mPFF,M,pSyn,0.004085631,0,0.004085631,0
+IM 342,1084,0.3,left,PRE,PRE,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,146,0.3,left,PRNr,PRNr,WT,mPFF,M,pSyn,2.81E-05,0,2.81E-05,0
+IM 335,146,0.3,left,PRNr,PRNr,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,146,0.3,left,PRNr,PRNr,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,146,0.3,left,PRNr,PRNr,WT,mPFF,F,pSyn,2.14E-05,0,2.14E-05,0
+IM 332,484682470,0.3,left,ProS,ProS,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,484682470,0.3,left,ProS,ProS,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,484682470,0.3,left,ProS,ProS,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,484682470,0.3,left,ProS,ProS,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,364,0.3,left,PSTN,PSTN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,364,0.3,left,PSTN,PSTN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,364,0.3,left,PSTN,PSTN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,364,0.3,left,PSTN,PSTN,WT,mPFF,F,pSyn,0.009237011,0,0.009237011,0
+IM 332,126,0.3,left,PVR,PVp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,126,0.3,left,PVR,PVp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,149,0.3,left,PVT,PVT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,149,0.3,left,PVT,PVT,WT,mPFF,F,pSyn,0.002771152,0,0.002771152,0
+IM 339,149,0.3,left,PVT,PVT,WT,mPFF,M,pSyn,0.004322887,0,0.004322887,0
+IM 342,149,0.3,left,PVT,PVT,WT,mPFF,F,pSyn,0.001230276,0,0.001230276,0
+IM 332,118,0.3,left,PVZ,PVi,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,118,0.3,left,PVZ,PVi,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,118,0.3,left,PVZ,PVi,WT,mPFF,M,pSyn,0.000199933,0,0.000199933,0
+IM 342,118,0.3,left,PVZ,PVi,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,181,0.3,left,RE,RE,WT,mPFF,M,pSyn,0.000400736,0,0.000400736,0
+IM 335,181,0.3,left,RE,RE,WT,mPFF,F,pSyn,0.004223006,0,0.004223006,0
+IM 339,181,0.3,left,RE,RE,WT,mPFF,M,pSyn,0.00705749,0,0.00705749,0
+IM 342,181,0.3,left,RE,RE,WT,mPFF,F,pSyn,0.003903746,0,0.003903746,0
+IM 332,189,0.3,left,RH,RH,WT,mPFF,M,pSyn,0.000212736,0,0.000212736,0
+IM 335,189,0.3,left,RH,RH,WT,mPFF,F,pSyn,0.019650419,0,0.019650419,0
+IM 339,189,0.3,left,RH,RH,WT,mPFF,M,pSyn,0.014120043,0,0.014120043,0
+IM 342,189,0.3,left,RH,RH,WT,mPFF,F,pSyn,0.011545808,0,0.011545808,0
+IM 332,197,0.3,left,RL,RL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,197,0.3,left,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,197,0.3,left,RL,RL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,197,0.3,left,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,214,0.3,left,RN,RN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,214,0.3,left,RN,RN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,214,0.3,left,RN,RN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,214,0.3,left,RN,RN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(965, 671, 906, 279, 774)",0.3,left,RSPagl,"c(""RSPagl2/3"", ""RSPagl1"", ""RSPagl6a"", ""RSPagl6b"", ""RSPagl5"")",WT,mPFF,M,pSyn,0.000536234,0,0.000536234,0
+IM 335,"c(965, 906, 279, 774, 671)",0.3,left,RSPagl,"c(""RSPagl2/3"", ""RSPagl6a"", ""RSPagl6b"", ""RSPagl5"", ""RSPagl1"")",WT,mPFF,F,pSyn,4.35E-05,0,4.35E-05,0
+IM 339,"c(906, 774, 671, 965, 279)",0.3,left,RSPagl,"c(""RSPagl6a"", ""RSPagl5"", ""RSPagl1"", ""RSPagl2/3"", ""RSPagl6b"")",WT,mPFF,M,pSyn,3.88E-05,0,3.88E-05,0
+IM 342,"c(279, 906, 671, 965, 774)",0.3,left,RSPagl,"c(""RSPagl6b"", ""RSPagl6a"", ""RSPagl1"", ""RSPagl2/3"", ""RSPagl5"")",WT,mPFF,F,pSyn,3.26E-05,0,3.26E-05,0
+IM 332,"c(274, 442, 330, 610, 434)",0.3,left,RSPd,"c(""RSPd6a"", ""RSPd1"", ""RSPd6b"", ""RSPd5"", ""RSPd2/3"")",WT,mPFF,M,pSyn,3.13E-05,0,3.13E-05,0
+IM 335,"c(610, 330, 434, 442, 274)",0.3,left,RSPd,"c(""RSPd5"", ""RSPd6b"", ""RSPd2/3"", ""RSPd1"", ""RSPd6a"")",WT,mPFF,F,pSyn,4.49E-05,0,4.49E-05,0
+IM 339,"c(274, 330, 610, 442, 434)",0.3,left,RSPd,"c(""RSPd6a"", ""RSPd6b"", ""RSPd5"", ""RSPd1"", ""RSPd2/3"")",WT,mPFF,M,pSyn,2.22E-05,0,2.22E-05,0
+IM 342,"c(330, 610, 442, 434, 274)",0.3,left,RSPd,"c(""RSPd6b"", ""RSPd5"", ""RSPd1"", ""RSPd2/3"", ""RSPd6a"")",WT,mPFF,F,pSyn,6.14E-05,0,6.14E-05,0
+IM 332,"c(687, 590, 622, 430, 542)",0.3,left,RSPv,"c(""RSPv5"", ""RSPv6a"", ""RSPv6b"", ""RSPv2/3"", ""RSPv1"")",WT,mPFF,M,pSyn,6.41E-05,0,6.41E-05,0
+IM 335,"c(542, 622, 430, 687, 590)",0.3,left,RSPv,"c(""RSPv1"", ""RSPv6b"", ""RSPv2/3"", ""RSPv5"", ""RSPv6a"")",WT,mPFF,F,pSyn,4.88E-06,0,4.88E-06,0
+IM 339,"c(430, 622, 687, 542, 590)",0.3,left,RSPv,"c(""RSPv2/3"", ""RSPv6b"", ""RSPv5"", ""RSPv1"", ""RSPv6a"")",WT,mPFF,M,pSyn,0.000279689,0,0.000279689,0
+IM 342,"c(430, 590, 622, 542, 687)",0.3,left,RSPv,"c(""RSPv2/3"", ""RSPv6a"", ""RSPv6b"", ""RSPv1"", ""RSPv5"")",WT,mPFF,F,pSyn,0.000126374,0,0.000126374,0
+IM 332,262,0.3,left,RT,RT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,262,0.3,left,RT,RT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,262,0.3,left,RT,RT,WT,mPFF,M,pSyn,0.017505631,0,0.017505631,0
+IM 342,262,0.3,left,RT,RT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,863,0.3,left,rust,rust,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,863,0.3,left,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,863,0.3,left,rust,rust,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,863,0.3,left,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,271,0.3,left,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,271,0.3,left,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,271,0.3,left,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,271,0.3,left,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(17, 42, 26, 10)",0.3,left,SCm,"c(""SCiw"", ""SCdw"", ""SCdg"", ""SCig"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(17, 26, 42, 10)",0.3,left,SCm,"c(""SCiw"", ""SCdg"", ""SCdw"", ""SCig"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(10, 17, 42, 26)",0.3,left,SCm,"c(""SCig"", ""SCiw"", ""SCdw"", ""SCdg"")",WT,mPFF,M,pSyn,2.96E-06,0,2.96E-06,0
+IM 342,"c(42, 17, 26, 10)",0.3,left,SCm,"c(""SCdw"", ""SCiw"", ""SCdg"", ""SCig"")",WT,mPFF,F,pSyn,3.76E-06,0,3.76E-06,0
+IM 332,599626923,0.3,left,SCO,SCO,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,599626923,0.3,left,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,599626923,0.3,left,SCO,SCO,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,599626923,0.3,left,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,326,0.3,left,scp,scp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,326,0.3,left,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,326,0.3,left,scp,scp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,326,0.3,left,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(842, 834, 851)",0.3,left,SCs,"c(""SCsg"", ""SCzo"", ""SCop"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(834, 851, 842)",0.3,left,SCs,"c(""SCzo"", ""SCop"", ""SCsg"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(851, 834, 842)",0.3,left,SCs,"c(""SCop"", ""SCzo"", ""SCsg"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(842, 851, 834)",0.3,left,SCs,"c(""SCsg"", ""SCop"", ""SCzo"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,866,0.3,left,sctv,sctv,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,484682512,0.3,left,scwm,scwm,WT,mPFF,M,pSyn,0.000255795,0,0.000255795,0
+IM 335,484682512,0.3,left,scwm,scwm,WT,mPFF,F,pSyn,0.002641452,0,0.002641452,0
+IM 339,484682512,0.3,left,scwm,scwm,WT,mPFF,M,pSyn,0.001712021,0,0.001712021,0
+IM 342,484682512,0.3,left,scwm,scwm,WT,mPFF,F,pSyn,0.001752492,0,0.001752492,0
+IM 332,325,0.3,left,SGN,SGN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,325,0.3,left,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,325,0.3,left,SGN,SGN,WT,mPFF,M,pSyn,0.000602268,0,0.000602268,0
+IM 342,325,0.3,left,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,333,0.3,left,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,333,0.3,left,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,333,0.3,left,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,333,0.3,left,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,342,0.3,left,SI,SI,WT,mPFF,M,pSyn,0.000388792,0,0.000388792,0
+IM 335,342,0.3,left,SI,SI,WT,mPFF,F,pSyn,0.002176035,0,0.002176035,0
+IM 339,342,0.3,left,SI,SI,WT,mPFF,M,pSyn,0.000569861,0,0.000569861,0
+IM 342,342,0.3,left,SI,SI,WT,mPFF,F,pSyn,0.000678897,0,0.000678897,0
+IM 332,802,0.3,left,sm,sm,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,802,0.3,left,sm,sm,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,802,0.3,left,sm,sm,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,802,0.3,left,sm,sm,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,366,0.3,left,SMT,SMT,WT,mPFF,M,pSyn,0.0014838,0,0.0014838,0
+IM 335,366,0.3,left,SMT,SMT,WT,mPFF,F,pSyn,0.002385649,0,0.002385649,0
+IM 339,366,0.3,left,SMT,SMT,WT,mPFF,M,pSyn,0.003855245,0,0.003855245,0
+IM 342,366,0.3,left,SMT,SMT,WT,mPFF,F,pSyn,0.004776079,0,0.004776079,0
+IM 342,122,0.3,left,SOC,POR,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,609,0.3,left,SPA,SPA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,609,0.3,left,SPA,SPA,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,609,0.3,left,SPA,SPA,WT,mPFF,M,pSyn,0.000390637,0,0.000390637,0
+IM 342,609,0.3,left,SPA,SPA,WT,mPFF,F,pSyn,3.87E-05,0,3.87E-05,0
+IM 332,414,0.3,left,SPF,SPFm,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(422, 414)",0.3,left,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,414,0.3,left,SPF,SPFm,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(422, 414)",0.3,left,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(1038, 1062, 201, 1070, 1047, 981)",0.3,left,SSp-bfd,"c(""SSp-bfd6a"", ""SSp-bfd6b"", ""SSp-bfd2/3"", ""SSp-bfd5"", ""SSp-bfd4"", ""SSp-bfd1"")",WT,mPFF,M,pSyn,0.000135652,0,0.000135652,0
+IM 335,"c(1047, 201, 1038, 981, 1070, 1062)",0.3,left,SSp-bfd,"c(""SSp-bfd4"", ""SSp-bfd2/3"", ""SSp-bfd6a"", ""SSp-bfd1"", ""SSp-bfd5"", ""SSp-bfd6b"")",WT,mPFF,F,pSyn,0.000130002,0,0.000130002,0
+IM 339,"c(981, 1047, 1062, 1070, 1038, 201)",0.3,left,SSp-bfd,"c(""SSp-bfd1"", ""SSp-bfd4"", ""SSp-bfd6b"", ""SSp-bfd5"", ""SSp-bfd6a"", ""SSp-bfd2/3"")",WT,mPFF,M,pSyn,0.000625753,0,0.000625753,0
+IM 342,"c(1047, 201, 1038, 1062, 981, 1070)",0.3,left,SSp-bfd,"c(""SSp-bfd4"", ""SSp-bfd2/3"", ""SSp-bfd6a"", ""SSp-bfd6b"", ""SSp-bfd1"", ""SSp-bfd5"")",WT,mPFF,F,pSyn,0.001974314,0,0.001974314,0
+IM 332,510,0.3,left,SSp-ll,SSp-ll6b,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(510, 478)",0.3,left,SSp-ll,"c(""SSp-ll6b"", ""SSp-ll6a"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(878, 950, 2, 1102, 657, 974)",0.3,left,SSp-m,"c(""SSp-m1"", ""SSp-m4"", ""SSp-m6b"", ""SSp-m6a"", ""SSp-m2/3"", ""SSp-m5"")",WT,mPFF,M,pSyn,0.000119842,0,0.000119842,0
+IM 335,"c(974, 950, 2, 1102, 878, 657)",0.3,left,SSp-m,"c(""SSp-m5"", ""SSp-m4"", ""SSp-m6b"", ""SSp-m6a"", ""SSp-m1"", ""SSp-m2/3"")",WT,mPFF,F,pSyn,0.000144151,0,0.000144151,0
+IM 339,"c(974, 950, 657, 878, 2, 1102)",0.3,left,SSp-m,"c(""SSp-m5"", ""SSp-m4"", ""SSp-m2/3"", ""SSp-m1"", ""SSp-m6b"", ""SSp-m6a"")",WT,mPFF,M,pSyn,0.001319999,0,0.001319999,0
+IM 342,"c(1102, 2, 950, 657, 974, 878)",0.3,left,SSp-m,"c(""SSp-m6a"", ""SSp-m6b"", ""SSp-m4"", ""SSp-m2/3"", ""SSp-m5"", ""SSp-m1"")",WT,mPFF,F,pSyn,0.000885322,0,0.000885322,0
+IM 332,"c(1006, 461, 1086, 1111, 9, 670)",0.3,left,SSp-tr,"c(""SSp-tr1"", ""SSp-tr6b"", ""SSp-tr4"", ""SSp-tr5"", ""SSp-tr6a"", ""SSp-tr2/3"")",WT,mPFF,M,pSyn,0.000394694,0,0.000394694,0
+IM 335,"c(1006, 670, 1086, 1111, 461, 9)",0.3,left,SSp-tr,"c(""SSp-tr1"", ""SSp-tr2/3"", ""SSp-tr4"", ""SSp-tr5"", ""SSp-tr6b"", ""SSp-tr6a"")",WT,mPFF,F,pSyn,0.002252251,0,0.002252251,0
+IM 339,"c(1086, 1111, 9, 1006, 461, 670)",0.3,left,SSp-tr,"c(""SSp-tr4"", ""SSp-tr5"", ""SSp-tr6a"", ""SSp-tr1"", ""SSp-tr6b"", ""SSp-tr2/3"")",WT,mPFF,M,pSyn,0.000744493,0,0.000744493,0
+IM 342,"c(9, 461, 1111, 1086, 670, 1006)",0.3,left,SSp-tr,"c(""SSp-tr6a"", ""SSp-tr6b"", ""SSp-tr5"", ""SSp-tr4"", ""SSp-tr2/3"", ""SSp-tr1"")",WT,mPFF,F,pSyn,0.000427373,0,0.000427373,0
+IM 332,"c(450, 854, 945, 1026)",0.3,left,SSp-ul,"c(""SSp-ul1"", ""SSp-ul2/3"", ""SSp-ul6a"", ""SSp-ul6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(1026, 854, 625, 945, 450, 577)",0.3,left,SSp-ul,"c(""SSp-ul6b"", ""SSp-ul2/3"", ""SSp-ul5"", ""SSp-ul6a"", ""SSp-ul1"", ""SSp-ul4"")",WT,mPFF,F,pSyn,0.000200608,0,0.000200608,0
+IM 339,"c(450, 577, 625, 1026, 854)",0.3,left,SSp-ul,"c(""SSp-ul1"", ""SSp-ul4"", ""SSp-ul5"", ""SSp-ul6b"", ""SSp-ul2/3"")",WT,mPFF,M,pSyn,3.83E-05,0,3.83E-05,0
+IM 342,"c(1026, 625, 854, 945, 577, 450)",0.3,left,SSp-ul,"c(""SSp-ul6b"", ""SSp-ul5"", ""SSp-ul2/3"", ""SSp-ul6a"", ""SSp-ul4"", ""SSp-ul1"")",WT,mPFF,F,pSyn,0.00172635,0,0.00172635,0
+IM 332,"c(182305713, 182305709, 182305705)",0.3,left,SSp-un,"c(""SSp-un6b"", ""SSp-un6a"", ""SSp-un5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(182305713, 182305701, 182305705, 182305709)",0.3,left,SSp-un,"c(""SSp-un6b"", ""SSp-un4"", ""SSp-un5"", ""SSp-un6a"")",WT,mPFF,F,pSyn,0.000658558,0,0.000658558,0
+IM 339,"c(182305709, 182305713)",0.3,left,SSp-un,"c(""SSp-un6a"", ""SSp-un6b"")",WT,mPFF,M,pSyn,0.003085578,0,0.003085578,0
+IM 342,"c(182305709, 182305713, 182305705)",0.3,left,SSp-un,"c(""SSp-un6a"", ""SSp-un6b"", ""SSp-un5"")",WT,mPFF,F,pSyn,0.000320365,0,0.000320365,0
+IM 332,"c(806, 873, 1035, 1090, 893, 862)",0.3,left,SSs,"c(""SSs2/3"", ""SSs1"", ""SSs4"", ""SSs5"", ""SSs6b"", ""SSs6a"")",WT,mPFF,M,pSyn,0.001469113,0,0.001469113,0
+IM 335,"c(1035, 893, 1090, 806, 873, 862)",0.3,left,SSs,"c(""SSs4"", ""SSs6b"", ""SSs5"", ""SSs2/3"", ""SSs1"", ""SSs6a"")",WT,mPFF,F,pSyn,0.001508774,0,0.001508774,0
+IM 339,"c(862, 1035, 893, 1090, 806, 873)",0.3,left,SSs,"c(""SSs6a"", ""SSs4"", ""SSs6b"", ""SSs5"", ""SSs2/3"", ""SSs1"")",WT,mPFF,M,pSyn,0.003902688,0,0.003902688,0
+IM 342,"c(862, 893, 1090, 806, 873, 1035)",0.3,left,SSs,"c(""SSs6a"", ""SSs6b"", ""SSs5"", ""SSs2/3"", ""SSs1"", ""SSs4"")",WT,mPFF,F,pSyn,0.001611005,0,0.001611005,0
+IM 332,301,0.3,left,st,st,WT,mPFF,M,pSyn,0.008455528,0,0.008455528,0
+IM 335,301,0.3,left,st,st,WT,mPFF,F,pSyn,0.029271788,0,0.029271788,0
+IM 339,301,0.3,left,st,st,WT,mPFF,M,pSyn,0.042243061,0,0.042243061,0
+IM 342,301,0.3,left,st,st,WT,mPFF,F,pSyn,0.038999832,0,0.038999832,0
+IM 332,484682528,0.3,left,stc,stc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,484682528,0.3,left,stc,stc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,484682528,0.3,left,stc,stc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,484682528,0.3,left,stc,stc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,470,0.3,left,STN,STN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,470,0.3,left,STN,STN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,470,0.3,left,STN,STN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,470,0.3,left,STN,STN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,477,0.3,left,STR,STR,WT,mPFF,M,pSyn,0.004601738,0,0.004601738,0
+IM 335,477,0.3,left,STR,STR,WT,mPFF,F,pSyn,0.001381362,0,0.001381362,0
+IM 339,477,0.3,left,STR,STR,WT,mPFF,M,pSyn,0.002504583,0,0.002504583,0
+IM 342,477,0.3,left,STR,STR,WT,mPFF,F,pSyn,0.001867252,0,0.001867252,0
+IM 332,614454277,0.3,left,Su3,Su3,WT,mPFF,M,pSyn,0,0,0,0
+IM 339,614454277,0.3,left,Su3,Su3,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,614454277,0.3,left,Su3,Su3,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,502,0.3,left,SUB,SUB,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,502,0.3,left,SUB,SUB,WT,mPFF,F,pSyn,1.52E-05,0,1.52E-05,0
+IM 339,502,0.3,left,SUB,SUB,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,502,0.3,left,SUB,SUB,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,321,0.3,left,SubG,SubG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,321,0.3,left,SubG,SubG,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,321,0.3,left,SubG,SubG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,321,0.3,left,SubG,SubG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,525,0.3,left,SUM,SUM,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,525,0.3,left,SUM,SUM,WT,mPFF,F,pSyn,0.007617497,0,0.007617497,0
+IM 339,525,0.3,left,SUM,SUM,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,525,0.3,left,SUM,SUM,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,349,0.3,left,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,349,0.3,left,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,349,0.3,left,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,349,0.3,left,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,229,0.3,left,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,229,0.3,left,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,229,0.3,left,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,229,0.3,left,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(97, 289, 1127, 786, 234, 729)",0.3,left,TEa,"c(""TEa1"", ""TEa5"", ""TEa2/3"", ""TEa6b"", ""TEa4"", ""TEa6a"")",WT,mPFF,M,pSyn,0.001874694,0,0.001874694,0
+IM 335,"c(234, 1127, 729, 786, 289, 97)",0.3,left,TEa,"c(""TEa4"", ""TEa2/3"", ""TEa6a"", ""TEa6b"", ""TEa5"", ""TEa1"")",WT,mPFF,F,pSyn,0.005724217,0,0.005724217,0
+IM 339,"c(289, 729, 234, 786, 97, 1127)",0.3,left,TEa,"c(""TEa5"", ""TEa6a"", ""TEa4"", ""TEa6b"", ""TEa1"", ""TEa2/3"")",WT,mPFF,M,pSyn,0.006022875,0,0.006022875,0
+IM 342,"c(97, 786, 289, 729, 234, 1127)",0.3,left,TEa,"c(""TEa1"", ""TEa6b"", ""TEa5"", ""TEa6a"", ""TEa4"", ""TEa2/3"")",WT,mPFF,F,pSyn,0.007500842,0,0.007500842,0
+IM 332,549,0.3,left,TH,TH,WT,mPFF,M,pSyn,8.19E-05,0,8.19E-05,0
+IM 335,549,0.3,left,TH,TH,WT,mPFF,F,pSyn,0.003930091,0,0.003930091,0
+IM 339,549,0.3,left,TH,TH,WT,mPFF,M,pSyn,0.000352459,0,0.000352459,0
+IM 342,549,0.3,left,TH,TH,WT,mPFF,F,pSyn,0.000986621,0,0.000986621,0
+IM 332,"c(1, 1126)",0.3,left,TM,"c(""TMv"", ""TMd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1,0.3,left,TM,TMv,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1,0.3,left,TM,TMv,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1,0.3,left,TM,TMv,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,566,0.3,left,TR,TR,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,566,0.3,left,TR,TR,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,566,0.3,left,TR,TR,WT,mPFF,M,pSyn,0.000143879,0,0.000143879,0
+IM 342,566,0.3,left,TR,TR,WT,mPFF,F,pSyn,0.000245473,0,0.000245473,0
+IM 332,574,0.3,left,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,574,0.3,left,TRN,TRN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,574,0.3,left,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,574,0.3,left,TRN,TRN,WT,mPFF,F,pSyn,0.000160934,0,0.000160934,0
+IM 332,1043,0.3,left,tspc,tspc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1043,0.3,left,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1043,0.3,left,tspc,tspc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1043,0.3,left,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(605, 597)",0.3,left,TT,"c(""TTv"", ""TTd"")",WT,mPFF,M,pSyn,3.92E-05,0,3.92E-05,0
+IM 335,"c(597, 605)",0.3,left,TT,"c(""TTd"", ""TTv"")",WT,mPFF,F,pSyn,0.000673888,0,0.000673888,0
+IM 339,"c(605, 597)",0.3,left,TT,"c(""TTv"", ""TTd"")",WT,mPFF,M,pSyn,0.000181213,0,0.000181213,0
+IM 342,"c(605, 597)",0.3,left,TT,"c(""TTv"", ""TTd"")",WT,mPFF,F,pSyn,5.71E-05,0,5.71E-05,0
+IM 332,614,0.3,left,TU,TU,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,614,0.3,left,TU,TU,WT,mPFF,F,pSyn,9.50E-05,0,9.50E-05,0
+IM 339,614,0.3,left,TU,TU,WT,mPFF,M,pSyn,3.69E-05,0,3.69E-05,0
+IM 342,614,0.3,left,TU,TU,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,629,0.3,left,VAL,VAL,WT,mPFF,M,pSyn,7.48E-05,0,7.48E-05,0
+IM 335,629,0.3,left,VAL,VAL,WT,mPFF,F,pSyn,0.001531368,0,0.001531368,0
+IM 339,629,0.3,left,VAL,VAL,WT,mPFF,M,pSyn,0.003462291,0,0.003462291,0
+IM 342,629,0.3,left,VAL,VAL,WT,mPFF,F,pSyn,0.00029036,0,0.00029036,0
+IM 332,"c(312782558, 312782550, 312782562, 312782554, 312782570, 312782566)",0.3,left,VISa,"c(""VISa4"", ""VISa1"", ""VISa5"", ""VISa2/3"", ""VISa6b"", ""VISa6a"")",WT,mPFF,M,pSyn,0.000330179,0,0.000330179,0
+IM 335,"c(312782550, 312782554, 312782558, 312782570, 312782566, 312782562)",0.3,left,VISa,"c(""VISa1"", ""VISa2/3"", ""VISa4"", ""VISa6b"", ""VISa6a"", ""VISa5"")",WT,mPFF,F,pSyn,2.95E-05,0,2.95E-05,0
+IM 339,"c(312782566, 312782570, 312782558, 312782562, 312782550, 312782554)",0.3,left,VISa,"c(""VISa6a"", ""VISa6b"", ""VISa4"", ""VISa5"", ""VISa1"", ""VISa2/3"")",WT,mPFF,M,pSyn,0.00143804,0,0.00143804,0
+IM 342,"c(312782562, 312782554, 312782558, 312782550, 312782570, 312782566)",0.3,left,VISa,"c(""VISa5"", ""VISa2/3"", ""VISa4"", ""VISa1"", ""VISa6b"", ""VISa6a"")",WT,mPFF,F,pSyn,0.000552063,0,0.000552063,0
+IM 332,"c(905, 1074, 649, 601, 233, 1114)",0.3,left,VISal,"c(""VISal2/3"", ""VISal1"", ""VISal6b"", ""VISal6a"", ""VISal5"", ""VISal4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(649, 233, 1114, 905, 601, 1074)",0.3,left,VISal,"c(""VISal6b"", ""VISal5"", ""VISal4"", ""VISal2/3"", ""VISal6a"", ""VISal1"")",WT,mPFF,F,pSyn,0.000157252,0,0.000157252,0
+IM 339,"c(905, 601, 1074, 649, 233, 1114)",0.3,left,VISal,"c(""VISal2/3"", ""VISal6a"", ""VISal1"", ""VISal6b"", ""VISal5"", ""VISal4"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(1114, 601, 905, 1074, 233, 649)",0.3,left,VISal,"c(""VISal4"", ""VISal6a"", ""VISal2/3"", ""VISal1"", ""VISal5"", ""VISal6b"")",WT,mPFF,F,pSyn,0.000850819,0,0.000850819,0
+IM 332,"c(1046, 441, 1066, 281, 401, 433)",0.3,left,VISam,"c(""VISam6a"", ""VISam6b"", ""VISam2/3"", ""VISam1"", ""VISam4"", ""VISam5"")",WT,mPFF,M,pSyn,0.000205559,0,0.000205559,0
+IM 335,"c(441, 433, 281, 1046, 401, 1066)",0.3,left,VISam,"c(""VISam6b"", ""VISam5"", ""VISam1"", ""VISam6a"", ""VISam4"", ""VISam2/3"")",WT,mPFF,F,pSyn,4.41E-05,0,4.41E-05,0
+IM 339,"c(441, 1066, 433, 1046, 401, 281)",0.3,left,VISam,"c(""VISam6b"", ""VISam2/3"", ""VISam5"", ""VISam6a"", ""VISam4"", ""VISam1"")",WT,mPFF,M,pSyn,0.002485443,0,0.002485443,0
+IM 342,"c(1046, 441, 281, 401, 433, 1066)",0.3,left,VISam,"c(""VISam6a"", ""VISam6b"", ""VISam1"", ""VISam4"", ""VISam5"", ""VISam2/3"")",WT,mPFF,F,pSyn,0.00033866,0,0.00033866,0
+IM 332,"c(1106, 1010, 1058, 897, 849, 857)",0.3,left,VISC,"c(""VISC2/3"", ""VISC4"", ""VISC5"", ""VISC1"", ""VISC6b"", ""VISC6a"")",WT,mPFF,M,pSyn,0.00104756,0,0.00104756,0
+IM 335,"c(1010, 897, 1106, 1058, 857, 849)",0.3,left,VISC,"c(""VISC4"", ""VISC1"", ""VISC2/3"", ""VISC5"", ""VISC6a"", ""VISC6b"")",WT,mPFF,F,pSyn,0.001357736,0,0.001357736,0
+IM 339,"c(897, 1058, 1106, 849, 857, 1010)",0.3,left,VISC,"c(""VISC1"", ""VISC5"", ""VISC2/3"", ""VISC6b"", ""VISC6a"", ""VISC4"")",WT,mPFF,M,pSyn,0.002757412,0,0.002757412,0
+IM 342,"c(1106, 849, 1058, 897, 857, 1010)",0.3,left,VISC,"c(""VISC2/3"", ""VISC6b"", ""VISC5"", ""VISC1"", ""VISC6a"", ""VISC4"")",WT,mPFF,F,pSyn,0.002454329,0,0.002454329,0
+IM 332,"c(613, 421, 121, 573, 973, 74)",0.3,left,VISl,"c(""VISl5"", ""VISl1"", ""VISl6b"", ""VISl4"", ""VISl2/3"", ""VISl6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(573, 74, 613, 421, 973, 121)",0.3,left,VISl,"c(""VISl4"", ""VISl6a"", ""VISl5"", ""VISl1"", ""VISl2/3"", ""VISl6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(421, 613, 573, 973, 74, 121)",0.3,left,VISl,"c(""VISl1"", ""VISl5"", ""VISl4"", ""VISl2/3"", ""VISl6a"", ""VISl6b"")",WT,mPFF,M,pSyn,0.000783873,0,0.000783873,0
+IM 342,"c(74, 613, 973, 573, 421)",0.3,left,VISl,"c(""VISl6a"", ""VISl5"", ""VISl2/3"", ""VISl4"", ""VISl1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(312782594, 312782598, 312782582, 312782586, 312782590, 312782578)",0.3,left,VISli,"c(""VISli6a"", ""VISli6b"", ""VISli2/3"", ""VISli4"", ""VISli5"", ""VISli1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 339,"c(312782578, 312782582, 312782594, 312782590, 312782586, 312782598)",0.3,left,VISli,"c(""VISli1"", ""VISli2/3"", ""VISli6a"", ""VISli5"", ""VISli4"", ""VISli6b"")",WT,mPFF,M,pSyn,5.51E-05,0,5.51E-05,0
+IM 342,"c(312782582, 312782586, 312782578)",0.3,left,VISli,"c(""VISli2/3"", ""VISli4"", ""VISli1"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(33, 593, 778, 821, 721, 305)",0.3,left,VISp,"c(""VISp6a"", ""VISp1"", ""VISp5"", ""VISp2/3"", ""VISp4"", ""VISp6b"")",WT,mPFF,M,pSyn,8.73E-06,0,8.73E-06,0
+IM 335,"c(721, 778, 33, 593, 821, 305)",0.3,left,VISp,"c(""VISp4"", ""VISp5"", ""VISp6a"", ""VISp1"", ""VISp2/3"", ""VISp6b"")",WT,mPFF,F,pSyn,0.000126333,0,0.000126333,0
+IM 339,"c(593, 721, 305, 33, 821, 778)",0.3,left,VISp,"c(""VISp1"", ""VISp4"", ""VISp6b"", ""VISp6a"", ""VISp2/3"", ""VISp5"")",WT,mPFF,M,pSyn,0.000203726,0,0.000203726,0
+IM 342,"c(821, 778, 721, 593, 305, 33)",0.3,left,VISp,"c(""VISp2/3"", ""VISp5"", ""VISp4"", ""VISp1"", ""VISp6b"", ""VISp6a"")",WT,mPFF,F,pSyn,0.000213654,0,0.000213654,0
+IM 332,"c(269, 377, 393, 750, 869, 902)",0.3,left,VISpl,"c(""VISpl2/3"", ""VISpl6a"", ""VISpl6b"", ""VISpl1"", ""VISpl4"", ""VISpl5"")",WT,mPFF,M,pSyn,0.000101896,0,0.000101896,0
+IM 335,"c(269, 377, 902, 393, 869)",0.3,left,VISpl,"c(""VISpl2/3"", ""VISpl6a"", ""VISpl5"", ""VISpl6b"", ""VISpl4"")",WT,mPFF,F,pSyn,0.000902508,0,0.000902508,0
+IM 339,"c(902, 393, 377, 869)",0.3,left,VISpl,"c(""VISpl5"", ""VISpl6b"", ""VISpl6a"", ""VISpl4"")",WT,mPFF,M,pSyn,0.00040086,0,0.00040086,0
+IM 342,"c(377, 869, 902, 393)",0.3,left,VISpl,"c(""VISpl6a"", ""VISpl4"", ""VISpl5"", ""VISpl6b"")",WT,mPFF,F,pSyn,0.00114835,0,0.00114835,0
+IM 332,"c(805, 41, 501, 257, 565, 469)",0.3,left,VISpm,"c(""VISpm1"", ""VISpm2/3"", ""VISpm4"", ""VISpm6a"", ""VISpm5"", ""VISpm6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(501, 41, 257, 565, 805, 469)",0.3,left,VISpm,"c(""VISpm4"", ""VISpm2/3"", ""VISpm6a"", ""VISpm5"", ""VISpm1"", ""VISpm6b"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(41, 565, 469, 257, 501, 805)",0.3,left,VISpm,"c(""VISpm2/3"", ""VISpm5"", ""VISpm6b"", ""VISpm6a"", ""VISpm4"", ""VISpm1"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(501, 257, 41, 805, 565, 469)",0.3,left,VISpm,"c(""VISpm4"", ""VISpm6a"", ""VISpm2/3"", ""VISpm1"", ""VISpm5"", ""VISpm6b"")",WT,mPFF,F,pSyn,5.74E-05,0,5.74E-05,0
+IM 332,"c(312782636, 312782648, 312782640, 312782632, 312782644)",0.3,left,VISpor,"c(""VISpor2/3"", ""VISpor6a"", ""VISpor4"", ""VISpor1"", ""VISpor5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(312782640, 312782644, 312782636, 312782648, 312782632)",0.3,left,VISpor,"c(""VISpor4"", ""VISpor5"", ""VISpor2/3"", ""VISpor6a"", ""VISpor1"")",WT,mPFF,F,pSyn,0.001084164,0,0.001084164,0
+IM 339,"c(312782632, 312782652, 312782648, 312782636, 312782640, 312782644)",0.3,left,VISpor,"c(""VISpor1"", ""VISpor6b"", ""VISpor6a"", ""VISpor2/3"", ""VISpor4"", ""VISpor5"")",WT,mPFF,M,pSyn,0.000118011,0,0.000118011,0
+IM 342,"c(312782636, 312782648, 312782632, 312782644, 312782652, 312782640)",0.3,left,VISpor,"c(""VISpor2/3"", ""VISpor6a"", ""VISpor1"", ""VISpor5"", ""VISpor6b"", ""VISpor4"")",WT,mPFF,F,pSyn,0.001302848,0,0.001302848,0
+IM 332,"c(312782624, 312782620, 312782608, 312782604, 312782612, 312782616)",0.3,left,VISrl,"c(""VISrl6b"", ""VISrl6a"", ""VISrl2/3"", ""VISrl1"", ""VISrl4"", ""VISrl5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(312782616, 312782624, 312782620, 312782604, 312782612, 312782608)",0.3,left,VISrl,"c(""VISrl5"", ""VISrl6b"", ""VISrl6a"", ""VISrl1"", ""VISrl4"", ""VISrl2/3"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(312782612, 312782608, 312782604, 312782624, 312782620, 312782616)",0.3,left,VISrl,"c(""VISrl4"", ""VISrl2/3"", ""VISrl1"", ""VISrl6b"", ""VISrl6a"", ""VISrl5"")",WT,mPFF,M,pSyn,0.000820149,0,0.000820149,0
+IM 342,"c(312782624, 312782604, 312782608, 312782616, 312782620, 312782612)",0.3,left,VISrl,"c(""VISrl6b"", ""VISrl1"", ""VISrl2/3"", ""VISrl5"", ""VISrl6a"", ""VISrl4"")",WT,mPFF,F,pSyn,0.001023703,0,0.001023703,0
+IM 332,685,0.3,left,VM,VM,WT,mPFF,M,pSyn,0.001130054,0,0.001130054,0
+IM 335,685,0.3,left,VM,VM,WT,mPFF,F,pSyn,0.003263605,0,0.003263605,0
+IM 339,685,0.3,left,VM,VM,WT,mPFF,M,pSyn,0.006397211,0,0.006397211,0
+IM 342,685,0.3,left,VM,VM,WT,mPFF,F,pSyn,0.002569462,0,0.002569462,0
+IM 332,693,0.3,left,VMH,VMH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,693,0.3,left,VMH,VMH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,693,0.3,left,VMH,VMH,WT,mPFF,M,pSyn,0.000208979,0,0.000208979,0
+IM 342,693,0.3,left,VMH,VMH,WT,mPFF,F,pSyn,0.002995783,0,0.002995783,0
+IM 332,"c(741, 725)",0.3,left,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(741, 725)",0.3,left,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(741, 725)",0.3,left,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,M,pSyn,0.001476495,0,0.001476495,0
+IM 342,"c(725, 741)",0.3,left,VP,"c(""VPLpc"", ""VPMpc"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,718,0.3,left,VPL,VPL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,718,0.3,left,VPL,VPL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,718,0.3,left,VPL,VPL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,718,0.3,left,VPL,VPL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,733,0.3,left,VPM,VPM,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,733,0.3,left,VPM,VPM,WT,mPFF,F,pSyn,3.10E-05,0,3.10E-05,0
+IM 339,733,0.3,left,VPM,VPM,WT,mPFF,M,pSyn,0.001066678,0,0.001066678,0
+IM 342,733,0.3,left,VPM,VPM,WT,mPFF,F,pSyn,0.000319192,0,0.000319192,0
+IM 332,749,0.3,left,VTA,VTA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,749,0.3,left,VTA,VTA,WT,mPFF,F,pSyn,0.000221216,0,0.000221216,0
+IM 339,749,0.3,left,VTA,VTA,WT,mPFF,M,pSyn,0.002036129,0,0.002036129,0
+IM 342,749,0.3,left,VTA,VTA,WT,mPFF,F,pSyn,0.000141108,0,0.000141108,0
+IM 332,560581559,0.3,left,Xi,Xi,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,560581559,0.3,left,Xi,Xi,WT,mPFF,F,pSyn,0.00480983,0,0.00480983,0
+IM 339,560581559,0.3,left,Xi,Xi,WT,mPFF,M,pSyn,0.005711471,0,0.005711471,0
+IM 342,560581559,0.3,left,Xi,Xi,WT,mPFF,F,pSyn,0.00022338,0,0.00022338,0
+IM 332,797,0.3,left,ZI,ZI,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,797,0.3,left,ZI,ZI,WT,mPFF,F,pSyn,6.26E-05,0,6.26E-05,0
+IM 339,797,0.3,left,ZI,ZI,WT,mPFF,M,pSyn,0.000296765,0,0.000296765,0
+IM 342,797,0.3,left,ZI,ZI,WT,mPFF,F,pSyn,0.000210438,0,0.000210438,0
+IM 332,"c(935, 927, 1015, 919, 211)",0.3,right,ACAd,"c(""ACAd1"", ""ACAd6b"", ""ACAd5"", ""ACAd6a"", ""ACAd2/3"")",WT,mPFF,M,pSyn,0.022719246,0,0.022719246,0
+IM 335,"c(935, 919, 211, 1015, 927)",0.3,right,ACAd,"c(""ACAd1"", ""ACAd6a"", ""ACAd2/3"", ""ACAd5"", ""ACAd6b"")",WT,mPFF,F,pSyn,0.032928205,0.007231756,0.025696449,2.490094097
+IM 339,"c(211, 1015, 935, 919, 927)",0.3,right,ACAd,"c(""ACAd2/3"", ""ACAd5"", ""ACAd1"", ""ACAd6a"", ""ACAd6b"")",WT,mPFF,M,pSyn,0.015915859,0,0.015915859,0
+IM 342,"c(1015, 211, 935, 927, 919)",0.3,right,ACAd,"c(""ACAd5"", ""ACAd2/3"", ""ACAd1"", ""ACAd6b"", ""ACAd6a"")",WT,mPFF,F,pSyn,0.027715855,0,0.027715855,0
+IM 332,"c(588, 819, 296, 810, 772)",0.3,right,ACAv,"c(""ACAv1"", ""ACAv6b"", ""ACAv2/3"", ""ACAv6a"", ""ACAv5"")",WT,mPFF,M,pSyn,0.0084777,0,0.0084777,0
+IM 335,"c(588, 810, 772, 819, 296)",0.3,right,ACAv,"c(""ACAv1"", ""ACAv6a"", ""ACAv5"", ""ACAv6b"", ""ACAv2/3"")",WT,mPFF,F,pSyn,0.010946771,0,0.010946771,0
+IM 339,"c(810, 819, 296, 588, 772)",0.3,right,ACAv,"c(""ACAv6a"", ""ACAv6b"", ""ACAv2/3"", ""ACAv1"", ""ACAv5"")",WT,mPFF,M,pSyn,0.00495753,0,0.00495753,0
+IM 342,"c(810, 772, 819, 588, 296)",0.3,right,ACAv,"c(""ACAv6a"", ""ACAv5"", ""ACAv6b"", ""ACAv1"", ""ACAv2/3"")",WT,mPFF,F,pSyn,0.010615234,0,0.010615234,0
+IM 332,56,0.3,right,ACB,ACB,WT,mPFF,M,pSyn,0.012430931,0,0.012430931,0
+IM 335,56,0.3,right,ACB,ACB,WT,mPFF,F,pSyn,0.028890928,0,0.028890928,0
+IM 339,56,0.3,right,ACB,ACB,WT,mPFF,M,pSyn,0.024003121,0,0.024003121,0
+IM 342,56,0.3,right,ACB,ACB,WT,mPFF,F,pSyn,0.011890938,0,0.011890938,0
+IM 335,88,0.3,right,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,88,0.3,right,AHN,AHN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,88,0.3,right,AHN,AHN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(328, 996, 783, 1101, 831)",0.3,right,AId,"c(""AId2/3"", ""AId1"", ""AId6a"", ""AId5"", ""AId6b"")",WT,mPFF,M,pSyn,0.003657261,0,0.003657261,0
+IM 335,"c(783, 1101, 996, 328, 831)",0.3,right,AId,"c(""AId6a"", ""AId5"", ""AId1"", ""AId2/3"", ""AId6b"")",WT,mPFF,F,pSyn,0.008166881,0,0.008166881,0
+IM 339,"c(783, 996, 1101, 328, 831)",0.3,right,AId,"c(""AId6a"", ""AId1"", ""AId5"", ""AId2/3"", ""AId6b"")",WT,mPFF,M,pSyn,0.00760228,0,0.00760228,0
+IM 342,"c(783, 996, 1101, 328, 831)",0.3,right,AId,"c(""AId6a"", ""AId1"", ""AId5"", ""AId2/3"", ""AId6b"")",WT,mPFF,F,pSyn,0.004650417,0,0.004650417,0
+IM 332,"c(120, 355, 344, 314, 163)",0.3,right,AIp,"c(""AIp1"", ""AIp6b"", ""AIp5"", ""AIp6a"", ""AIp2/3"")",WT,mPFF,M,pSyn,0.003341986,0,0.003341986,0
+IM 335,"c(163, 355, 120, 344, 314)",0.3,right,AIp,"c(""AIp2/3"", ""AIp6b"", ""AIp1"", ""AIp5"", ""AIp6a"")",WT,mPFF,F,pSyn,0.007719462,0.002735791,0.004983671,0
+IM 339,"c(344, 314, 163, 120, 355)",0.3,right,AIp,"c(""AIp5"", ""AIp6a"", ""AIp2/3"", ""AIp1"", ""AIp6b"")",WT,mPFF,M,pSyn,0.019242899,0,0.019242899,0
+IM 342,"c(314, 355, 120, 344, 163)",0.3,right,AIp,"c(""AIp6a"", ""AIp6b"", ""AIp1"", ""AIp5"", ""AIp2/3"")",WT,mPFF,F,pSyn,0.011030947,0,0.011030947,0
+IM 332,"c(800, 675, 704, 694)",0.3,right,AIv,"c(""AIv5"", ""AIv6a"", ""AIv1"", ""AIv2/3"")",WT,mPFF,M,pSyn,0.001018321,0,0.001018321,0
+IM 335,"c(694, 704, 800, 675)",0.3,right,AIv,"c(""AIv2/3"", ""AIv1"", ""AIv5"", ""AIv6a"")",WT,mPFF,F,pSyn,0.00291689,0,0.00291689,0
+IM 339,"c(800, 675, 694, 704)",0.3,right,AIv,"c(""AIv5"", ""AIv6a"", ""AIv2/3"", ""AIv1"")",WT,mPFF,M,pSyn,0.002297967,0,0.002297967,0
+IM 342,"c(800, 675, 704, 694)",0.3,right,AIv,"c(""AIv5"", ""AIv6a"", ""AIv1"", ""AIv2/3"")",WT,mPFF,F,pSyn,0.000639891,0,0.000639891,0
+IM 332,466,0.3,right,alv,alv,WT,mPFF,M,pSyn,0.000674051,0,0.000674051,0
+IM 335,466,0.3,right,alv,alv,WT,mPFF,F,pSyn,0.00384093,0,0.00384093,0
+IM 339,466,0.3,right,alv,alv,WT,mPFF,M,pSyn,0.002865831,0,0.002865831,0
+IM 342,466,0.3,right,alv,alv,WT,mPFF,F,pSyn,0.00679262,0,0.00679262,0
+IM 332,884,0.3,right,amc,amc,WT,mPFF,M,pSyn,0.018755609,0,0.018755609,0
+IM 335,884,0.3,right,amc,amc,WT,mPFF,F,pSyn,0.082698143,0,0.082698143,0
+IM 339,884,0.3,right,amc,amc,WT,mPFF,M,pSyn,0.056954764,0,0.056954764,0
+IM 342,884,0.3,right,amc,amc,WT,mPFF,F,pSyn,0.033290687,0,0.033290687,0
+IM 332,159,0.3,right,AON,AON,WT,mPFF,M,pSyn,0.00064308,0,0.00064308,0
+IM 335,159,0.3,right,AON,AON,WT,mPFF,F,pSyn,0.001327609,0,0.001327609,0
+IM 339,159,0.3,right,AON,AON,WT,mPFF,M,pSyn,0.003279357,0,0.003279357,0
+IM 342,159,0.3,right,AON,AON,WT,mPFF,F,pSyn,0.001175265,0,0.001175265,0
+IM 332,215,0.3,right,APN,APN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,215,0.3,right,APN,APN,WT,mPFF,F,pSyn,6.80E-05,0,6.80E-05,0
+IM 339,215,0.3,right,APN,APN,WT,mPFF,M,pSyn,0.001020316,0,0.001020316,0
+IM 342,215,0.3,right,APN,APN,WT,mPFF,F,pSyn,0.000126672,0,0.000126672,0
+IM 332,484682508,0.3,right,APr,APr,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,484682508,0.3,right,APr,APr,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,484682508,0.3,right,APr,APr,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,484682508,0.3,right,APr,APr,WT,mPFF,F,pSyn,0.000809468,0,0.000809468,0
+IM 332,484682524,0.3,right,ar,ar,WT,mPFF,M,pSyn,0.004563934,0,0.004563934,0
+IM 335,484682524,0.3,right,ar,ar,WT,mPFF,F,pSyn,0.026672708,0,0.026672708,0
+IM 339,484682524,0.3,right,ar,ar,WT,mPFF,M,pSyn,0.01509062,0,0.01509062,0
+IM 342,484682524,0.3,right,ar,ar,WT,mPFF,F,pSyn,0.014554749,0,0.014554749,0
+IM 332,223,0.3,right,ARH,ARH,WT,mPFF,M,pSyn,5.07E-05,0,5.07E-05,0
+IM 335,223,0.3,right,ARH,ARH,WT,mPFF,F,pSyn,0.000426673,0,0.000426673,0
+IM 339,223,0.3,right,ARH,ARH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,223,0.3,right,ARH,ARH,WT,mPFF,F,pSyn,0.000889706,0,0.000889706,0
+IM 332,231,0.3,right,AT,AT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,231,0.3,right,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,231,0.3,right,AT,AT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,231,0.3,right,AT,AT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(600, 243, 527, 252, 678, 156)",0.3,right,AUDd,"c(""AUDd2/3"", ""AUDd6b"", ""AUDd1"", ""AUDd5"", ""AUDd4"", ""AUDd6a"")",WT,mPFF,M,pSyn,0.006486236,0,0.006486236,0
+IM 335,"c(678, 252, 527, 156, 243, 600)",0.3,right,AUDd,"c(""AUDd4"", ""AUDd5"", ""AUDd1"", ""AUDd6a"", ""AUDd6b"", ""AUDd2/3"")",WT,mPFF,F,pSyn,0.002137074,0,0.002137074,0
+IM 339,"c(678, 252, 243, 600, 527, 156)",0.3,right,AUDd,"c(""AUDd4"", ""AUDd5"", ""AUDd6b"", ""AUDd2/3"", ""AUDd1"", ""AUDd6a"")",WT,mPFF,M,pSyn,0.005912776,0,0.005912776,0
+IM 342,"c(243, 156, 252, 600, 527, 678)",0.3,right,AUDd,"c(""AUDd6b"", ""AUDd6a"", ""AUDd5"", ""AUDd2/3"", ""AUDd1"", ""AUDd4"")",WT,mPFF,F,pSyn,0.005762243,0,0.005762243,0
+IM 332,"c(847, 251, 816, 954, 1005, 735)",0.3,right,AUDp,"c(""AUDp5"", ""AUDp2/3"", ""AUDp4"", ""AUDp6a"", ""AUDp6b"", ""AUDp1"")",WT,mPFF,M,pSyn,0.003530456,0,0.003530456,0
+IM 335,"c(847, 816, 251, 735, 1005, 954)",0.3,right,AUDp,"c(""AUDp5"", ""AUDp4"", ""AUDp2/3"", ""AUDp1"", ""AUDp6b"", ""AUDp6a"")",WT,mPFF,F,pSyn,0.000519267,0,0.000519267,0
+IM 339,"c(847, 735, 816, 251, 954, 1005)",0.3,right,AUDp,"c(""AUDp5"", ""AUDp1"", ""AUDp4"", ""AUDp2/3"", ""AUDp6a"", ""AUDp6b"")",WT,mPFF,M,pSyn,0.001226845,0,0.001226845,0
+IM 342,"c(1005, 954, 251, 735, 847, 816)",0.3,right,AUDp,"c(""AUDp6b"", ""AUDp6a"", ""AUDp2/3"", ""AUDp1"", ""AUDp5"", ""AUDp4"")",WT,mPFF,F,pSyn,0.003198039,0,0.003198039,0
+IM 332,"c(456, 791, 249, 759, 643, 696)",0.3,right,AUDpo,"c(""AUDpo6b"", ""AUDpo5"", ""AUDpo6a"", ""AUDpo4"", ""AUDpo2/3"", ""AUDpo1"")",WT,mPFF,M,pSyn,0.000887797,0,0.000887797,0
+IM 335,"c(759, 791, 249, 456, 643, 696)",0.3,right,AUDpo,"c(""AUDpo4"", ""AUDpo5"", ""AUDpo6a"", ""AUDpo6b"", ""AUDpo2/3"", ""AUDpo1"")",WT,mPFF,F,pSyn,0.000740912,0,0.000740912,0
+IM 339,"c(759, 643, 791, 249, 456, 696)",0.3,right,AUDpo,"c(""AUDpo4"", ""AUDpo2/3"", ""AUDpo5"", ""AUDpo6a"", ""AUDpo6b"", ""AUDpo1"")",WT,mPFF,M,pSyn,0.000221392,0,0.000221392,0
+IM 342,"c(696, 249, 759, 456, 643, 791)",0.3,right,AUDpo,"c(""AUDpo1"", ""AUDpo6a"", ""AUDpo4"", ""AUDpo6b"", ""AUDpo2/3"", ""AUDpo5"")",WT,mPFF,F,pSyn,0.000196246,0,0.000196246,0
+IM 332,"c(1023, 755, 990, 959, 520, 598)",0.3,right,AUDv,"c(""AUDv5"", ""AUDv2/3"", ""AUDv4"", ""AUDv1"", ""AUDv6a"", ""AUDv6b"")",WT,mPFF,M,pSyn,0.00440091,0,0.00440091,0
+IM 335,"c(520, 959, 990, 1023, 598, 755)",0.3,right,AUDv,"c(""AUDv6a"", ""AUDv1"", ""AUDv4"", ""AUDv5"", ""AUDv6b"", ""AUDv2/3"")",WT,mPFF,F,pSyn,0.005991748,0,0.005991748,0
+IM 339,"c(1023, 598, 959, 520, 990, 755)",0.3,right,AUDv,"c(""AUDv5"", ""AUDv6b"", ""AUDv1"", ""AUDv6a"", ""AUDv4"", ""AUDv2/3"")",WT,mPFF,M,pSyn,0.008728817,0,0.008728817,0
+IM 342,"c(755, 520, 959, 598, 1023, 990)",0.3,right,AUDv,"c(""AUDv2/3"", ""AUDv6a"", ""AUDv1"", ""AUDv6b"", ""AUDv5"", ""AUDv4"")",WT,mPFF,F,pSyn,0.005964287,0,0.005964287,0
+IM 342,272,0.3,right,AVPV,AVPV,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,292,0.3,right,BA,BA,WT,mPFF,M,pSyn,0.001304961,0,0.001304961,0
+IM 342,292,0.3,right,BA,BA,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,482,0.3,right,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,482,0.3,right,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,482,0.3,right,bic,bic,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,482,0.3,right,bic,bic,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(311, 303, 451)",0.3,right,BLA,"c(""BLAp"", ""BLAa"", ""BLAv"")",WT,mPFF,M,pSyn,0.045529324,0.003758219,0.041771105,0.709551385
+IM 335,"c(311, 303, 451)",0.3,right,BLA,"c(""BLAp"", ""BLAa"", ""BLAv"")",WT,mPFF,F,pSyn,0.150717138,0.013273566,0.137443572,2.94634479
+IM 339,"c(303, 311, 451)",0.3,right,BLA,"c(""BLAa"", ""BLAp"", ""BLAv"")",WT,mPFF,M,pSyn,0.238399004,0.077970957,0.160428047,19.70907978
+IM 342,"c(303, 311, 451)",0.3,right,BLA,"c(""BLAa"", ""BLAp"", ""BLAv"")",WT,mPFF,F,pSyn,0.227082888,0.047826203,0.179256686,9.372308743
+IM 332,"c(334, 327)",0.3,right,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,M,pSyn,0.019056274,0,0.019056274,0
+IM 335,"c(334, 327)",0.3,right,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,F,pSyn,0.049837576,0.005579379,0.044258197,1.021256907
+IM 339,"c(334, 327)",0.3,right,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,M,pSyn,0.192692544,0.049897848,0.142794696,10.97726074
+IM 342,"c(334, 327)",0.3,right,BMA,"c(""BMAp"", ""BMAa"")",WT,mPFF,F,pSyn,0.059566284,0,0.059566284,0
+IM 332,916,0.3,right,bsc,bsc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,916,0.3,right,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,916,0.3,right,bsc,bsc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,916,0.3,right,bsc,bsc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,382,0.3,right,CA1,CA1,WT,mPFF,M,pSyn,0.000748189,0.000393024,0.000355164,0.151469376
+IM 335,382,0.3,right,CA1,CA1,WT,mPFF,F,pSyn,0.000196379,0,0.000196379,0
+IM 339,382,0.3,right,CA1,CA1,WT,mPFF,M,pSyn,0.000794318,0,0.000794318,0
+IM 342,382,0.3,right,CA1,CA1,WT,mPFF,F,pSyn,7.77E-05,0,7.77E-05,0
+IM 332,423,0.3,right,CA2,CA2,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,423,0.3,right,CA2,CA2,WT,mPFF,F,pSyn,0.000267768,0,0.000267768,0
+IM 339,423,0.3,right,CA2,CA2,WT,mPFF,M,pSyn,2.79E-05,0,2.79E-05,0
+IM 342,423,0.3,right,CA2,CA2,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,463,0.3,right,CA3,CA3,WT,mPFF,M,pSyn,0.000320585,0,0.000320585,0
+IM 335,463,0.3,right,CA3,CA3,WT,mPFF,F,pSyn,0.00022306,0,0.00022306,0
+IM 339,463,0.3,right,CA3,CA3,WT,mPFF,M,pSyn,0.000435236,0,0.000435236,0
+IM 342,463,0.3,right,CA3,CA3,WT,mPFF,F,pSyn,0.000169645,0,0.000169645,0
+IM 332,512,0.3,right,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,512,0.3,right,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,512,0.3,right,CB,CB,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,512,0.3,right,CB,CB,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(964, 484682516, 971, 986)",0.3,right,cc,"c(""ee"", ""ccb"", ""fp"", ""ccs"")",WT,mPFF,M,pSyn,0.002936614,0,0.002936614,0
+IM 335,"c(986, 484682516, 964, 971)",0.3,right,cc,"c(""ccs"", ""ccb"", ""ee"", ""fp"")",WT,mPFF,F,pSyn,0.007452306,0,0.007452306,0
+IM 339,"c(971, 964, 986, 484682516)",0.3,right,cc,"c(""fp"", ""ee"", ""ccs"", ""ccb"")",WT,mPFF,M,pSyn,0.008092093,0,0.008092093,0
+IM 342,"c(964, 971, 484682516, 986)",0.3,right,cc,"c(""ee"", ""fp"", ""ccb"", ""ccs"")",WT,mPFF,F,pSyn,0.004435271,0,0.004435271,0
+IM 332,1108,0.3,right,ccg,ccg,WT,mPFF,M,pSyn,0.031978005,0,0.031978005,0
+IM 335,1108,0.3,right,ccg,ccg,WT,mPFF,F,pSyn,0.024415892,0,0.024415892,0
+IM 339,1108,0.3,right,ccg,ccg,WT,mPFF,M,pSyn,0.029203659,0,0.029203659,0
+IM 342,1108,0.3,right,ccg,ccg,WT,mPFF,F,pSyn,0.009098005,0,0.009098005,0
+IM 332,"c(544, 559, 551)",0.3,right,CEA,"c(""CEAc"", ""CEAm"", ""CEAl"")",WT,mPFF,M,pSyn,0.045150178,0.017013776,0.028136402,3.866804721
+IM 335,"c(544, 551, 559)",0.3,right,CEA,"c(""CEAc"", ""CEAl"", ""CEAm"")",WT,mPFF,F,pSyn,0.135003149,0.014313277,0.120689872,2.422041828
+IM 339,"c(544, 559, 551)",0.3,right,CEA,"c(""CEAc"", ""CEAm"", ""CEAl"")",WT,mPFF,M,pSyn,0.270493292,0.066172132,0.20432116,9.953379293
+IM 342,"c(551, 559, 544)",0.3,right,CEA,"c(""CEAl"", ""CEAm"", ""CEAc"")",WT,mPFF,F,pSyn,0.160157806,0.043234192,0.116923614,9.282016311
+IM 332,940,0.3,right,cing,cing,WT,mPFF,M,pSyn,0.002910498,0,0.002910498,0
+IM 335,940,0.3,right,cing,cing,WT,mPFF,F,pSyn,0.025902659,0,0.025902659,0
+IM 339,940,0.3,right,cing,cing,WT,mPFF,M,pSyn,0.032382757,0.019242243,0.013140514,5.492600691
+IM 342,940,0.3,right,cing,cing,WT,mPFF,F,pSyn,0.004304391,0,0.004304391,0
+IM 332,575,0.3,right,CL,CL,WT,mPFF,M,pSyn,0.031320904,0,0.031320904,0
+IM 335,575,0.3,right,CL,CL,WT,mPFF,F,pSyn,0.046087605,0,0.046087605,0
+IM 339,575,0.3,right,CL,CL,WT,mPFF,M,pSyn,0.083698705,0,0.083698705,0
+IM 342,575,0.3,right,CL,CL,WT,mPFF,F,pSyn,0.032719288,0,0.032719288,0
+IM 332,583,0.3,right,CLA,CLA,WT,mPFF,M,pSyn,0.010088035,0,0.010088035,0
+IM 335,583,0.3,right,CLA,CLA,WT,mPFF,F,pSyn,0.031643769,0,0.031643769,0
+IM 339,583,0.3,right,CLA,CLA,WT,mPFF,M,pSyn,0.004091484,0,0.004091484,0
+IM 342,583,0.3,right,CLA,CLA,WT,mPFF,F,pSyn,0.001637105,0,0.001637105,0
+IM 332,599,0.3,right,CM,CM,WT,mPFF,M,pSyn,0.014065264,0,0.014065264,0
+IM 335,599,0.3,right,CM,CM,WT,mPFF,F,pSyn,0.013183717,0,0.013183717,0
+IM 339,599,0.3,right,CM,CM,WT,mPFF,M,pSyn,0.011745551,0,0.011745551,0
+IM 342,599,0.3,right,CM,CM,WT,mPFF,F,pSyn,0.00482171,0,0.00482171,0
+IM 332,639,0.3,right,COA,COAa,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,639,0.3,right,COA,COAa,WT,mPFF,F,pSyn,0.002337317,0,0.002337317,0
+IM 339,639,0.3,right,COA,COAa,WT,mPFF,M,pSyn,0.013589864,0,0.013589864,0
+IM 342,639,0.3,right,COA,COAa,WT,mPFF,F,pSyn,0.003200343,0,0.003200343,0
+IM 332,"c(655, 663)",0.3,right,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(663, 655)",0.3,right,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,F,pSyn,0.004629386,0,0.004629386,0
+IM 339,"c(663, 655)",0.3,right,COAp,"c(""COApm"", ""COApl"")",WT,mPFF,M,pSyn,0.003567359,0,0.003567359,0
+IM 342,"c(655, 663)",0.3,right,COAp,"c(""COApl"", ""COApm"")",WT,mPFF,F,pSyn,0.003318617,0,0.003318617,0
+IM 332,672,0.3,right,CP,CP,WT,mPFF,M,pSyn,0.034478005,0,0.034478005,0
+IM 335,672,0.3,right,CP,CP,WT,mPFF,F,pSyn,0.047820665,0.000383398,0.047437267,0.209847194
+IM 339,672,0.3,right,CP,CP,WT,mPFF,M,pSyn,0.029526883,0,0.029526883,0
+IM 342,672,0.3,right,CP,CP,WT,mPFF,F,pSyn,0.019389959,0,0.019389959,0
+IM 332,924,0.3,right,cpd,cpd,WT,mPFF,M,pSyn,5.03E-05,0,5.03E-05,0
+IM 335,924,0.3,right,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,924,0.3,right,cpd,cpd,WT,mPFF,M,pSyn,0.000269645,0,0.000269645,0
+IM 342,924,0.3,right,cpd,cpd,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,679,0.3,right,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,679,0.3,right,CS,CS,WT,mPFF,F,pSyn,0.000316836,0,0.000316836,0
+IM 339,679,0.3,right,CS,CS,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,679,0.3,right,CS,CS,WT,mPFF,F,pSyn,0.001240389,0,0.001240389,0
+IM 332,336,0.3,right,csc,csc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,336,0.3,right,csc,csc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,336,0.3,right,csc,csc,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,784,0.3,right,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,784,0.3,right,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,784,0.3,right,cst,cst,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,784,0.3,right,cst,cst,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,703,0.3,right,CTXsp,CTXsp,WT,mPFF,M,pSyn,0.035261084,0,0.035261084,0
+IM 335,703,0.3,right,CTXsp,CTXsp,WT,mPFF,F,pSyn,0.132819034,0.08293875,0.049880284,12.28955718
+IM 339,703,0.3,right,CTXsp,CTXsp,WT,mPFF,M,pSyn,0.142679067,0.023892894,0.118786173,0
+IM 342,703,0.3,right,CTXsp,CTXsp,WT,mPFF,F,pSyn,0.057109911,0,0.057109911,0
+IM 332,"c(10704, 10703, 632)",0.3,right,DG,"c(""DG-po"", ""DG-mo"", ""DG-sg"")",WT,mPFF,M,pSyn,6.78E-06,0,6.78E-06,0
+IM 335,"c(632, 10703, 10704)",0.3,right,DG,"c(""DG-sg"", ""DG-mo"", ""DG-po"")",WT,mPFF,F,pSyn,3.00E-06,0,3.00E-06,0
+IM 339,"c(10703, 632, 10704)",0.3,right,DG,"c(""DG-mo"", ""DG-sg"", ""DG-po"")",WT,mPFF,M,pSyn,4.08E-05,0,4.08E-05,0
+IM 342,"c(10703, 10704, 632)",0.3,right,DG,"c(""DG-mo"", ""DG-po"", ""DG-sg"")",WT,mPFF,F,pSyn,0.000123556,0,0.000123556,0
+IM 332,443,0.3,right,dhc,dhc,WT,mPFF,M,pSyn,2.51E-05,0,2.51E-05,0
+IM 335,443,0.3,right,dhc,dhc,WT,mPFF,F,pSyn,0.000404032,0,0.000404032,0
+IM 339,443,0.3,right,dhc,dhc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,443,0.3,right,dhc,dhc,WT,mPFF,F,pSyn,0.000863464,0,0.000863464,0
+IM 332,830,0.3,right,DMH,DMH,WT,mPFF,M,pSyn,3.11E-05,0,3.11E-05,0
+IM 335,830,0.3,right,DMH,DMH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,830,0.3,right,DMH,DMH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,830,0.3,right,DMH,DMH,WT,mPFF,F,pSyn,0.026273426,0,0.026273426,0
+IM 339,814,0.3,right,DP,DP,WT,mPFF,M,pSyn,0.000987124,0,0.000987124,0
+IM 342,814,0.3,right,DP,DP,WT,mPFF,F,pSyn,0.001782988,0,0.001782988,0
+IM 332,872,0.3,right,DR,DR,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,872,0.3,right,DR,DR,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,872,0.3,right,DR,DR,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,872,0.3,right,DR,DR,WT,mPFF,F,pSyn,0.000399368,0,0.000399368,0
+IM 332,812,0.3,right,dscp,dscp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,812,0.3,right,dscp,dscp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,812,0.3,right,dscp,dscp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,812,0.3,right,dscp,dscp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,579,0.3,right,ec,ec,WT,mPFF,M,pSyn,0.016877654,0,0.016877654,0
+IM 335,579,0.3,right,ec,ec,WT,mPFF,F,pSyn,0.033187916,0,0.033187916,0
+IM 339,579,0.3,right,ec,ec,WT,mPFF,M,pSyn,0.011934842,0,0.011934842,0
+IM 342,579,0.3,right,ec,ec,WT,mPFF,F,pSyn,0.020490949,0,0.020490949,0
+IM 332,"c(977, 836, 1045, 427, 988)",0.3,right,ECT,"c(""ECT6a"", ""ECT1"", ""ECT6b"", ""ECT2/3"", ""ECT5"")",WT,mPFF,M,pSyn,0.010123782,0,0.010123782,0
+IM 335,"c(836, 427, 1045, 977, 988)",0.3,right,ECT,"c(""ECT1"", ""ECT2/3"", ""ECT6b"", ""ECT6a"", ""ECT5"")",WT,mPFF,F,pSyn,0.01410235,0,0.01410235,0
+IM 339,"c(836, 988, 1045, 977, 427)",0.3,right,ECT,"c(""ECT1"", ""ECT5"", ""ECT6b"", ""ECT6a"", ""ECT2/3"")",WT,mPFF,M,pSyn,0.008764692,0,0.008764692,0
+IM 342,"c(988, 427, 836, 977, 1045)",0.3,right,ECT,"c(""ECT5"", ""ECT2/3"", ""ECT1"", ""ECT6a"", ""ECT6b"")",WT,mPFF,F,pSyn,0.019640695,0,0.019640695,0
+IM 332,1092,0.3,right,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1092,0.3,right,em,em,WT,mPFF,F,pSyn,0.000539953,0,0.000539953,0
+IM 339,1092,0.3,right,em,em,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1092,0.3,right,em,em,WT,mPFF,F,pSyn,0.000223527,0,0.000223527,0
+IM 332,"c(28, 52, 20, 139, 1121)",0.3,right,ENTl,"c(""ENTl6a"", ""ENTl3"", ""ENTl2"", ""ENTl5"", ""ENTl1"")",WT,mPFF,M,pSyn,0.001259313,0,0.001259313,0
+IM 335,"c(139, 20, 52, 28, 1121)",0.3,right,ENTl,"c(""ENTl5"", ""ENTl2"", ""ENTl3"", ""ENTl6a"", ""ENTl1"")",WT,mPFF,F,pSyn,0.003563536,0,0.003563536,0
+IM 339,"c(52, 28, 139, 20, 1121)",0.3,right,ENTl,"c(""ENTl3"", ""ENTl6a"", ""ENTl5"", ""ENTl2"", ""ENTl1"")",WT,mPFF,M,pSyn,0.003185805,0,0.003185805,0
+IM 342,"c(1121, 139, 20, 52, 28)",0.3,right,ENTl,"c(""ENTl1"", ""ENTl5"", ""ENTl2"", ""ENTl3"", ""ENTl6a"")",WT,mPFF,F,pSyn,0.003517,0,0.003517,0
+IM 332,"c(727, 543, 664, 743, 526)",0.3,right,ENTm,"c(""ENTm5"", ""ENTm2"", ""ENTm3"", ""ENTm6"", ""ENTm1"")",WT,mPFF,M,pSyn,0.001290007,0,0.001290007,0
+IM 335,"c(664, 543, 526, 727, 743)",0.3,right,ENTm,"c(""ENTm3"", ""ENTm2"", ""ENTm1"", ""ENTm5"", ""ENTm6"")",WT,mPFF,F,pSyn,0.003832929,0,0.003832929,0
+IM 339,"c(543, 727, 664, 526, 743)",0.3,right,ENTm,"c(""ENTm2"", ""ENTm5"", ""ENTm3"", ""ENTm1"", ""ENTm6"")",WT,mPFF,M,pSyn,0.001627696,0,0.001627696,0
+IM 342,"c(743, 727, 664, 526, 543)",0.3,right,ENTm,"c(""ENTm6"", ""ENTm5"", ""ENTm3"", ""ENTm1"", ""ENTm2"")",WT,mPFF,F,pSyn,0.004302758,0,0.004302758,0
+IM 332,"c(952, 966)",0.3,right,EP,"c(""EPd"", ""EPv"")",WT,mPFF,M,pSyn,0.004579455,0,0.004579455,0
+IM 335,"c(952, 966)",0.3,right,EP,"c(""EPd"", ""EPv"")",WT,mPFF,F,pSyn,0.0153988,0,0.0153988,0
+IM 339,"c(966, 952)",0.3,right,EP,"c(""EPv"", ""EPd"")",WT,mPFF,M,pSyn,0.059825668,0.002206243,0.057619425,0.696840814
+IM 342,"c(966, 952)",0.3,right,EP,"c(""EPv"", ""EPd"")",WT,mPFF,F,pSyn,0.017789789,0,0.017789789,0
+IM 332,560581551,0.3,right,Eth,Eth,WT,mPFF,M,pSyn,0.00720497,0,0.00720497,0
+IM 335,560581551,0.3,right,Eth,Eth,WT,mPFF,F,pSyn,0.00709963,0,0.00709963,0
+IM 339,560581551,0.3,right,Eth,Eth,WT,mPFF,M,pSyn,0.024733016,0,0.024733016,0
+IM 342,560581551,0.3,right,Eth,Eth,WT,mPFF,F,pSyn,0.019228737,0,0.019228737,0
+IM 332,975,0.3,right,EW,EW,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,975,0.3,right,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,975,0.3,right,EW,EW,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,975,0.3,right,EW,EW,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,982,0.3,right,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,982,0.3,right,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,982,0.3,right,FC,FC,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,982,0.3,right,FC,FC,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,804,0.3,right,FF,FF,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,804,0.3,right,FF,FF,WT,mPFF,F,pSyn,0.000383749,0,0.000383749,0
+IM 332,603,0.3,right,fi,fi,WT,mPFF,M,pSyn,2.00E-05,0,2.00E-05,0
+IM 335,603,0.3,right,fi,fi,WT,mPFF,F,pSyn,0.001224256,0,0.001224256,0
+IM 339,603,0.3,right,fi,fi,WT,mPFF,M,pSyn,0.011705974,0,0.011705974,0
+IM 342,603,0.3,right,fi,fi,WT,mPFF,F,pSyn,0.037529243,0,0.037529243,0
+IM 332,1009,0.3,right,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,0.002291906,0,0.002291906,0
+IM 335,1009,0.3,right,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0.03558363,0,0.03558363,0
+IM 339,1009,0.3,right,fiber tracts,fiber tracts,WT,mPFF,M,pSyn,0.048774696,0,0.048774696,0
+IM 342,1009,0.3,right,fiber tracts,fiber tracts,WT,mPFF,F,pSyn,0.011667107,0,0.011667107,0
+IM 332,595,0.3,right,fr,fr,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,595,0.3,right,fr,fr,WT,mPFF,F,pSyn,0.000569213,0,0.000569213,0
+IM 339,595,0.3,right,fr,fr,WT,mPFF,M,pSyn,0.00076868,0,0.00076868,0
+IM 342,595,0.3,right,fr,fr,WT,mPFF,F,pSyn,0.006199786,0,0.006199786,0
+IM 332,526157196,0.3,right,FRP,FRP6a,WT,mPFF,M,pSyn,0.039683198,0,0.039683198,0
+IM 335,526157196,0.3,right,FRP,FRP6a,WT,mPFF,F,pSyn,0.0258878,0,0.0258878,0
+IM 339,526157196,0.3,right,FRP,FRP6a,WT,mPFF,M,pSyn,0.056815998,0,0.056815998,0
+IM 342,526157196,0.3,right,FRP,FRP6a,WT,mPFF,F,pSyn,0.019676476,0,0.019676476,0
+IM 332,436,0.3,right,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,436,0.3,right,fx,fx,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,436,0.3,right,fx,fx,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,436,0.3,right,fx,fx,WT,mPFF,F,pSyn,0.009803622,0,0.009803622,0
+IM 332,"c(36, 187, 662, 148, 180, 638)",0.3,right,GU,"c(""GU1"", ""GU5"", ""GU6b"", ""GU4"", ""GU2/3"", ""GU6a"")",WT,mPFF,M,pSyn,0.018285412,0,0.018285412,0
+IM 335,"c(180, 187, 148, 36, 662, 638)",0.3,right,GU,"c(""GU2/3"", ""GU5"", ""GU4"", ""GU1"", ""GU6b"", ""GU6a"")",WT,mPFF,F,pSyn,0.007198256,0,0.007198256,0
+IM 339,"c(662, 180, 36, 148, 638, 187)",0.3,right,GU,"c(""GU6b"", ""GU2/3"", ""GU1"", ""GU4"", ""GU6a"", ""GU5"")",WT,mPFF,M,pSyn,0.026621767,0,0.026621767,0
+IM 342,"c(638, 187, 662, 148, 36, 180)",0.3,right,GU,"c(""GU6a"", ""GU5"", ""GU6b"", ""GU4"", ""GU1"", ""GU2/3"")",WT,mPFF,F,pSyn,0.001132962,0,0.001132962,0
+IM 332,589508447,0.3,right,HATA,HATA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,589508447,0.3,right,HATA,HATA,WT,mPFF,F,pSyn,0.007982539,0,0.007982539,0
+IM 339,589508447,0.3,right,HATA,HATA,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,589508447,0.3,right,HATA,HATA,WT,mPFF,F,pSyn,0.006003105,0,0.006003105,0
+IM 332,611,0.3,right,hbc,hbc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,611,0.3,right,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,611,0.3,right,hbc,hbc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,611,0.3,right,hbc,hbc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1089,0.3,right,HPF,HPF,WT,mPFF,M,pSyn,0.000590342,0,0.000590342,0
+IM 335,1089,0.3,right,HPF,HPF,WT,mPFF,F,pSyn,0.00041436,0,0.00041436,0
+IM 339,1089,0.3,right,HPF,HPF,WT,mPFF,M,pSyn,0.001867553,0,0.001867553,0
+IM 342,1089,0.3,right,HPF,HPF,WT,mPFF,F,pSyn,0.004741049,0,0.004741049,0
+IM 332,1097,0.3,right,HY,HY,WT,mPFF,M,pSyn,0.000247414,0,0.000247414,0
+IM 335,1097,0.3,right,HY,HY,WT,mPFF,F,pSyn,0.001019176,0,0.001019176,0
+IM 339,1097,0.3,right,HY,HY,WT,mPFF,M,pSyn,0.001169309,0,0.001169309,0
+IM 342,1097,0.3,right,HY,HY,WT,mPFF,F,pSyn,0.001051171,0,0.001051171,0
+IM 332,1105,0.3,right,IA,IA,WT,mPFF,M,pSyn,0.021346431,0,0.021346431,0
+IM 335,1105,0.3,right,IA,IA,WT,mPFF,F,pSyn,0.052284522,0,0.052284522,0
+IM 339,1105,0.3,right,IA,IA,WT,mPFF,M,pSyn,0.018131608,0,0.018131608,0
+IM 342,1105,0.3,right,IA,IA,WT,mPFF,F,pSyn,0.005085519,0,0.005085519,0
+IM 332,"c(828, 820)",0.3,right,IC,"c(""ICe"", ""ICd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,828,0.3,right,IC,ICe,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,828,0.3,right,IC,ICe,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,828,0.3,right,IC,ICe,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,12,0.3,right,IF,IF,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,12,0.3,right,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,12,0.3,right,IF,IF,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,12,0.3,right,IF,IF,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,19,0.3,right,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,19,0.3,right,IG,IG,WT,mPFF,F,pSyn,0.002885116,0,0.002885116,0
+IM 339,19,0.3,right,IG,IG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,19,0.3,right,IG,IG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,27,0.3,right,IGL,IGL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,27,0.3,right,IGL,IGL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,27,0.3,right,IGL,IGL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,27,0.3,right,IGL,IGL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,848,0.3,right,IIn,IIn,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,848,0.3,right,IIn,IIn,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,848,0.3,right,IIn,IIn,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(707, 556, 827)",0.3,right,ILA,"c(""ILA1"", ""ILA2/3"", ""ILA5"")",WT,mPFF,M,pSyn,0.001805241,0,0.001805241,0
+IM 335,"c(827, 707, 556)",0.3,right,ILA,"c(""ILA5"", ""ILA1"", ""ILA2/3"")",WT,mPFF,F,pSyn,0.024104275,0,0.024104275,0
+IM 339,"c(827, 1054, 556, 707)",0.3,right,ILA,"c(""ILA5"", ""ILA6a"", ""ILA2/3"", ""ILA1"")",WT,mPFF,M,pSyn,0.038816056,0,0.038816056,0
+IM 342,"c(707, 827, 1054, 556)",0.3,right,ILA,"c(""ILA1"", ""ILA5"", ""ILA6a"", ""ILA2/3"")",WT,mPFF,F,pSyn,0.027282301,0.00321915,0.024063151,2.253833378
+IM 332,59,0.3,right,IMD,IMD,WT,mPFF,M,pSyn,0.002618885,0,0.002618885,0
+IM 335,59,0.3,right,IMD,IMD,WT,mPFF,F,pSyn,0.001010177,0,0.001010177,0
+IM 339,59,0.3,right,IMD,IMD,WT,mPFF,M,pSyn,0.01537986,0,0.01537986,0
+IM 342,59,0.3,right,IMD,IMD,WT,mPFF,F,pSyn,0.000417596,0,0.000417596,0
+IM 332,900,0.3,right,In,aco,WT,mPFF,M,pSyn,0.00160612,0,0.00160612,0
+IM 335,900,0.3,right,In,aco,WT,mPFF,F,pSyn,0.005187018,0,0.005187018,0
+IM 339,900,0.3,right,In,aco,WT,mPFF,M,pSyn,0.002161212,0,0.002161212,0
+IM 342,900,0.3,right,In,aco,WT,mPFF,F,pSyn,0.002327779,0,0.002327779,0
+IM 332,67,0.3,right,INC,INC,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,67,0.3,right,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,67,0.3,right,INC,INC,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,67,0.3,right,INC,INC,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,6,0.3,right,int,int,WT,mPFF,M,pSyn,0.002656242,0,0.002656242,0
+IM 335,6,0.3,right,int,int,WT,mPFF,F,pSyn,0.004281715,0,0.004281715,0
+IM 339,6,0.3,right,int,int,WT,mPFF,M,pSyn,0.01054173,0,0.01054173,0
+IM 342,6,0.3,right,int,int,WT,mPFF,F,pSyn,0.002937887,0,0.002937887,0
+IM 332,"c(607344834, 607344862)",0.3,right,IPN,"c(""IPR"", ""IPRL"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(607344862, 607344834)",0.3,right,IPN,"c(""IPRL"", ""IPR"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 342,"c(607344834, 607344862)",0.3,right,IPN,"c(""IPR"", ""IPRL"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,115,0.3,right,IV,IV,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,115,0.3,right,IV,IV,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,115,0.3,right,IV,IV,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,115,0.3,right,IV,IV,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,131,0.3,right,LA,LA,WT,mPFF,M,pSyn,0.011807466,0,0.011807466,0
+IM 335,131,0.3,right,LA,LA,WT,mPFF,F,pSyn,0.023123217,0,0.023123217,0
+IM 339,131,0.3,right,LA,LA,WT,mPFF,M,pSyn,0.024281223,0,0.024281223,0
+IM 342,131,0.3,right,LA,LA,WT,mPFF,F,pSyn,0.052327549,0.01245393,0.03987362,4.427343645
+IM 332,155,0.3,right,LD,LD,WT,mPFF,M,pSyn,0.003875353,0,0.003875353,0
+IM 335,155,0.3,right,LD,LD,WT,mPFF,F,pSyn,0.004882488,0,0.004882488,0
+IM 339,155,0.3,right,LD,LD,WT,mPFF,M,pSyn,0.015270599,0,0.015270599,0
+IM 342,155,0.3,right,LD,LD,WT,mPFF,F,pSyn,0.006631376,0,0.006631376,0
+IM 332,"c(496345664, 496345668, 496345672)",0.3,right,LGd,"c(""LGd-sh"", ""LGd-co"", ""LGd-ip"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(496345664, 496345672, 496345668)",0.3,right,LGd,"c(""LGd-sh"", ""LGd-ip"", ""LGd-co"")",WT,mPFF,F,pSyn,8.56E-05,0,8.56E-05,0
+IM 339,"c(496345672, 496345668, 496345664)",0.3,right,LGd,"c(""LGd-ip"", ""LGd-co"", ""LGd-sh"")",WT,mPFF,M,pSyn,0.000209264,0,0.000209264,0
+IM 342,"c(496345664, 496345672, 496345668)",0.3,right,LGd,"c(""LGd-sh"", ""LGd-ip"", ""LGd-co"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,178,0.3,right,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,178,0.3,right,LGv,LGv,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,178,0.3,right,LGv,LGv,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,178,0.3,right,LGv,LGv,WT,mPFF,F,pSyn,0.002360769,0,0.002360769,0
+IM 332,186,0.3,right,LH,LH,WT,mPFF,M,pSyn,0.000136474,0,0.000136474,0
+IM 335,186,0.3,right,LH,LH,WT,mPFF,F,pSyn,0.002289263,0,0.002289263,0
+IM 339,186,0.3,right,LH,LH,WT,mPFF,M,pSyn,0.005719566,0,0.005719566,0
+IM 342,186,0.3,right,LH,LH,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,194,0.3,right,LHA,LHA,WT,mPFF,M,pSyn,0.00070016,0,0.00070016,0
+IM 335,194,0.3,right,LHA,LHA,WT,mPFF,F,pSyn,0.002276117,0,0.002276117,0
+IM 339,194,0.3,right,LHA,LHA,WT,mPFF,M,pSyn,0.001496936,0,0.001496936,0
+IM 342,194,0.3,right,LHA,LHA,WT,mPFF,F,pSyn,0.003120203,0,0.003120203,0
+IM 332,658,0.3,right,ll,ll,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,658,0.3,right,ll,ll,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,658,0.3,right,ll,ll,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,658,0.3,right,ll,ll,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,210,0.3,right,LM,LM,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,210,0.3,right,LM,LM,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,210,0.3,right,LM,LM,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,665,0.3,right,lotg,lot,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,665,0.3,right,lotg,lot,WT,mPFF,F,pSyn,3.71E-05,0,3.71E-05,0
+IM 339,665,0.3,right,lotg,lot,WT,mPFF,M,pSyn,0.015455911,0,0.015455911,0
+IM 342,665,0.3,right,lotg,lot,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,218,0.3,right,LP,LP,WT,mPFF,M,pSyn,0.004262282,0,0.004262282,0
+IM 335,218,0.3,right,LP,LP,WT,mPFF,F,pSyn,0.003951965,0,0.003951965,0
+IM 339,218,0.3,right,LP,LP,WT,mPFF,M,pSyn,0.012011065,0,0.012011065,0
+IM 342,218,0.3,right,LP,LP,WT,mPFF,F,pSyn,0.00114886,0,0.00114886,0
+IM 335,226,0.3,right,LPO,LPO,WT,mPFF,F,pSyn,0.016366636,0,0.016366636,0
+IM 342,226,0.3,right,LPO,LPO,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(266, 258)",0.3,right,LS,"c(""LSv"", ""LSr"")",WT,mPFF,M,pSyn,0.000735141,0,0.000735141,0
+IM 335,"c(266, 258)",0.3,right,LS,"c(""LSv"", ""LSr"")",WT,mPFF,F,pSyn,0.005786436,0,0.005786436,0
+IM 339,"c(266, 258)",0.3,right,LS,"c(""LSv"", ""LSr"")",WT,mPFF,M,pSyn,0.010007528,0,0.010007528,0
+IM 342,"c(258, 266)",0.3,right,LS,"c(""LSr"", ""LSv"")",WT,mPFF,F,pSyn,0.003933657,0,0.003933657,0
+IM 332,66,0.3,right,LT,LT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,66,0.3,right,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,66,0.3,right,LT,LT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,66,0.3,right,LT,LT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,549009211,0.3,right,MA3,MA3,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,549009211,0.3,right,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,549009211,0.3,right,MA3,MA3,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,549009211,0.3,right,MA3,MA3,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,313,0.3,right,MB,MB,WT,mPFF,M,pSyn,0.000128643,0,0.000128643,0
+IM 335,313,0.3,right,MB,MB,WT,mPFF,F,pSyn,0.001685919,0,0.001685919,0
+IM 339,313,0.3,right,MB,MB,WT,mPFF,M,pSyn,0.00163558,0.000701823,0.000933757,0.253065985
+IM 342,313,0.3,right,MB,MB,WT,mPFF,F,pSyn,0.00345785,0.002256618,0.001201232,0
+IM 332,381,0.3,right,MBmot,SNr,WT,mPFF,M,pSyn,0.008072012,0.001785947,0.006286065,0.987158172
+IM 335,381,0.3,right,MBmot,SNr,WT,mPFF,F,pSyn,0.004626058,0,0.004626058,0
+IM 339,381,0.3,right,MBmot,SNr,WT,mPFF,M,pSyn,0.002983507,0,0.002983507,0
+IM 342,381,0.3,right,MBmot,SNr,WT,mPFF,F,pSyn,0.002718088,0.002184178,0.00053391,1.019476559
+IM 332,374,0.3,right,MBsta,SNc,WT,mPFF,M,pSyn,0.257474056,0.196589293,0.060884762,13.50870172
+IM 335,374,0.3,right,MBsta,SNc,WT,mPFF,F,pSyn,0.155755374,0.124841701,0.030913672,9.065424146
+IM 339,374,0.3,right,MBsta,SNc,WT,mPFF,M,pSyn,0.157454875,0.091790959,0.065663916,10.27340905
+IM 342,374,0.3,right,MBsta,SNc,WT,mPFF,F,pSyn,0.007501194,0.002838289,0.004662905,5.677657434
+IM 332,78,0.3,right,mcp,mcp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,78,0.3,right,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,78,0.3,right,mcp,mcp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,78,0.3,right,mcp,mcp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,362,0.3,right,MD,MD,WT,mPFF,M,pSyn,0.011855259,0,0.011855259,0
+IM 335,362,0.3,right,MD,MD,WT,mPFF,F,pSyn,0.015400907,0,0.015400907,0
+IM 339,362,0.3,right,MD,MD,WT,mPFF,M,pSyn,0.015631185,0,0.015631185,0
+IM 342,362,0.3,right,MD,MD,WT,mPFF,F,pSyn,0.004716086,0,0.004716086,0
+IM 332,10671,0.3,right,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,10671,0.3,right,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,10671,0.3,right,ME,ME,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,10671,0.3,right,ME,ME,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,403,0.3,right,MEA,MEA,WT,mPFF,M,pSyn,0.001161799,0,0.001161799,0
+IM 335,403,0.3,right,MEA,MEA,WT,mPFF,F,pSyn,0.011142585,0,0.011142585,0
+IM 339,403,0.3,right,MEA,MEA,WT,mPFF,M,pSyn,0.006587523,0,0.006587523,0
+IM 342,403,0.3,right,MEA,MEA,WT,mPFF,F,pSyn,0.005226495,0,0.005226495,0
+IM 335,63,0.3,right,MEZ,PVHd,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,63,0.3,right,MEZ,PVHd,WT,mPFF,M,pSyn,7.23E-05,0,7.23E-05,0
+IM 342,63,0.3,right,MEZ,PVHd,WT,mPFF,F,pSyn,0.000296254,0,0.000296254,0
+IM 335,54,0.3,right,mfb,mfb,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,54,0.3,right,mfb,mfb,WT,mPFF,M,pSyn,0.011488885,0,0.011488885,0
+IM 342,54,0.3,right,mfb,mfb,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(1088, 1079, 1072)",0.3,right,MG,"c(""MGm"", ""MGv"", ""MGd"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(1079, 1072, 1088)",0.3,right,MG,"c(""MGv"", ""MGd"", ""MGm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(1079, 1088, 1072)",0.3,right,MG,"c(""MGv"", ""MGm"", ""MGd"")",WT,mPFF,M,pSyn,0.000168813,0,0.000168813,0
+IM 342,"c(1079, 1072, 1088)",0.3,right,MG,"c(""MGv"", ""MGd"", ""MGm"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,483,0.3,right,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,483,0.3,right,MH,MH,WT,mPFF,F,pSyn,0.00047069,0,0.00047069,0
+IM 339,483,0.3,right,MH,MH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,483,0.3,right,MH,MH,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,697,0.3,right,ml,ml,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,697,0.3,right,ml,ml,WT,mPFF,F,pSyn,0.000406383,0,0.000406383,0
+IM 339,697,0.3,right,ml,ml,WT,mPFF,M,pSyn,0.000376844,0,0.000376844,0
+IM 342,697,0.3,right,ml,ml,WT,mPFF,F,pSyn,0.001750036,0,0.001750036,0
+IM 332,62,0.3,right,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,62,0.3,right,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,62,0.3,right,mlf,mlf,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,62,0.3,right,mlf,mlf,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(606826651, 606826647, 732, 606826659, 606826655)",0.3,right,MM,"c(""MMm"", ""MMl"", ""MMme"", ""MMd"", ""MMp"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(732, 606826647, 606826655, 606826651, 606826659)",0.3,right,MM,"c(""MMme"", ""MMl"", ""MMp"", ""MMm"", ""MMd"")",WT,mPFF,F,pSyn,0.000110181,0,0.000110181,0
+IM 339,"c(732, 606826659, 606826647, 606826651)",0.3,right,MM,"c(""MMme"", ""MMd"", ""MMl"", ""MMm"")",WT,mPFF,M,pSyn,2.75E-05,0,2.75E-05,0
+IM 342,"c(606826647, 606826651, 606826655, 606826659)",0.3,right,MM,"c(""MMl"", ""MMm"", ""MMp"", ""MMd"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(943, 648, 320, 844, 882)",0.3,right,MOp,"c(""MOp2/3"", ""MOp5"", ""MOp1"", ""MOp6a"", ""MOp6b"")",WT,mPFF,M,pSyn,0.013910952,0,0.013910952,0
+IM 335,"c(943, 648, 320, 882, 844)",0.3,right,MOp,"c(""MOp2/3"", ""MOp5"", ""MOp1"", ""MOp6b"", ""MOp6a"")",WT,mPFF,F,pSyn,0.037775278,0.001681267,0.036094011,0.596005431
+IM 339,"c(320, 943, 648, 844, 882)",0.3,right,MOp,"c(""MOp1"", ""MOp2/3"", ""MOp5"", ""MOp6a"", ""MOp6b"")",WT,mPFF,M,pSyn,0.009190926,0.001183463,0.008007463,0.200463203
+IM 342,"c(943, 648, 882, 320, 844)",0.3,right,MOp,"c(""MOp2/3"", ""MOp5"", ""MOp6b"", ""MOp1"", ""MOp6a"")",WT,mPFF,F,pSyn,0.005819756,0,0.005819756,0
+IM 332,"c(656, 962, 767, 1021, 1085)",0.3,right,MOs,"c(""MOs1"", ""MOs2/3"", ""MOs5"", ""MOs6a"", ""MOs6b"")",WT,mPFF,M,pSyn,0.007639945,0.000360819,0.007279126,0.18828906
+IM 335,"c(656, 1021, 1085, 767, 962)",0.3,right,MOs,"c(""MOs1"", ""MOs6a"", ""MOs6b"", ""MOs5"", ""MOs2/3"")",WT,mPFF,F,pSyn,0.013088443,0.00037894,0.012709503,0.157609018
+IM 339,"c(656, 962, 767, 1085, 1021)",0.3,right,MOs,"c(""MOs1"", ""MOs2/3"", ""MOs5"", ""MOs6b"", ""MOs6a"")",WT,mPFF,M,pSyn,0.006158817,0.000468799,0.005690018,0.186666258
+IM 342,"c(962, 656, 767, 1085, 1021)",0.3,right,MOs,"c(""MOs2/3"", ""MOs1"", ""MOs5"", ""MOs6b"", ""MOs6a"")",WT,mPFF,F,pSyn,0.009995942,0,0.009995942,0
+IM 332,93,0.3,right,moV,moV,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,93,0.3,right,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,93,0.3,right,moV,moV,WT,mPFF,M,pSyn,0.016135695,0,0.016135695,0
+IM 342,93,0.3,right,moV,moV,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,673,0.3,right,mp,mp,WT,mPFF,M,pSyn,0.007117303,0,0.007117303,0
+IM 335,673,0.3,right,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,673,0.3,right,mp,mp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,673,0.3,right,mp,mp,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,531,0.3,right,MPT,MPT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,128,0.3,right,MRN,MRN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,128,0.3,right,MRN,MRN,WT,mPFF,F,pSyn,0.001170452,0,0.001170452,0
+IM 339,128,0.3,right,MRN,MRN,WT,mPFF,M,pSyn,0.00033794,0,0.00033794,0
+IM 342,128,0.3,right,MRN,MRN,WT,mPFF,F,pSyn,0.000144783,0,0.000144783,0
+IM 332,564,0.3,right,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,564,0.3,right,MS,MS,WT,mPFF,F,pSyn,0.000212563,0,0.000212563,0
+IM 339,564,0.3,right,MS,MS,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,564,0.3,right,MS,MS,WT,mPFF,F,pSyn,0.00027362,0,0.00027362,0
+IM 332,58,0.3,right,MT,MT,WT,mPFF,M,pSyn,0.103512056,0.029056013,0.074456043,11.73638907
+IM 335,58,0.3,right,MT,MT,WT,mPFF,F,pSyn,0.030916272,0,0.030916272,0
+IM 339,58,0.3,right,MT,MT,WT,mPFF,M,pSyn,0.007890971,0,0.007890971,0
+IM 342,58,0.3,right,MT,MT,WT,mPFF,F,pSyn,0.013922773,0,0.013922773,0
+IM 332,681,0.3,right,mtg,mtg,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,681,0.3,right,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,681,0.3,right,mtg,mtg,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,681,0.3,right,mtg,mtg,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,690,0.3,right,mtt,mtt,WT,mPFF,M,pSyn,0.002758985,0,0.002758985,0
+IM 335,690,0.3,right,mtt,mtt,WT,mPFF,F,pSyn,0.004879781,0,0.004879781,0
+IM 339,690,0.3,right,mtt,mtt,WT,mPFF,M,pSyn,0.012700564,0,0.012700564,0
+IM 342,690,0.3,right,mtt,mtt,WT,mPFF,F,pSyn,0.005009098,0,0.005009098,0
+IM 339,354,0.3,right,MY,MY,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,997,0.3,right,None,None,WT,mPFF,M,pSyn,6.32E-05,0,6.32E-05,0
+IM 335,997,0.3,right,None,None,WT,mPFF,F,pSyn,0.006867376,0,0.006867376,0
+IM 339,997,0.3,right,None,None,WT,mPFF,M,pSyn,0.02902834,0,0.02902834,0
+IM 342,997,0.3,right,None,None,WT,mPFF,F,pSyn,0.006185464,0,0.006185464,0
+IM 332,587,0.3,right,ND,ND,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,587,0.3,right,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,587,0.3,right,ND,ND,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,587,0.3,right,ND,ND,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,596,0.3,right,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,596,0.3,right,NDB,NDB,WT,mPFF,F,pSyn,0.00691111,0,0.00691111,0
+IM 339,596,0.3,right,NDB,NDB,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,596,0.3,right,NDB,NDB,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,612,0.3,right,NLL,NLL,WT,mPFF,M,pSyn,3.32E-05,0,3.32E-05,0
+IM 335,612,0.3,right,NLL,NLL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,612,0.3,right,NLL,NLL,WT,mPFF,M,pSyn,8.29E-05,0,8.29E-05,0
+IM 342,612,0.3,right,NLL,NLL,WT,mPFF,F,pSyn,0.000218666,0,0.000218666,0
+IM 332,628,0.3,right,NOT,NOT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,628,0.3,right,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,628,0.3,right,NOT,NOT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,628,0.3,right,NOT,NOT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,634,0.3,right,NPC,NPC,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,634,0.3,right,NPC,NPC,WT,mPFF,F,pSyn,6.13E-05,0,6.13E-05,0
+IM 332,102,0.3,right,nst,nst,WT,mPFF,M,pSyn,0.002813822,0,0.002813822,0
+IM 335,102,0.3,right,nst,nst,WT,mPFF,F,pSyn,0.001326967,0,0.001326967,0
+IM 339,102,0.3,right,nst,nst,WT,mPFF,M,pSyn,0.001311186,0,0.001311186,0
+IM 342,102,0.3,right,nst,nst,WT,mPFF,F,pSyn,0.005819824,0,0.005819824,0
+IM 332,698,0.3,right,OLF,OLF,WT,mPFF,M,pSyn,0.001955174,0,0.001955174,0
+IM 335,698,0.3,right,OLF,OLF,WT,mPFF,F,pSyn,0.006086216,0,0.006086216,0
+IM 339,698,0.3,right,OLF,OLF,WT,mPFF,M,pSyn,0.003049586,0,0.003049586,0
+IM 342,698,0.3,right,OLF,OLF,WT,mPFF,F,pSyn,0.002540163,0,0.002540163,0
+IM 332,125,0.3,right,opt,opt,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,125,0.3,right,opt,opt,WT,mPFF,F,pSyn,0.002761648,0,0.002761648,0
+IM 339,125,0.3,right,opt,opt,WT,mPFF,M,pSyn,0.004453783,0,0.004453783,0
+IM 342,125,0.3,right,opt,opt,WT,mPFF,F,pSyn,0.000466528,0,0.000466528,0
+IM 332,484682520,0.3,right,or,or,WT,mPFF,M,pSyn,0.006266781,0,0.006266781,0
+IM 335,484682520,0.3,right,or,or,WT,mPFF,F,pSyn,0.010051896,0,0.010051896,0
+IM 339,484682520,0.3,right,or,or,WT,mPFF,M,pSyn,0.012572701,0,0.012572701,0
+IM 342,484682520,0.3,right,or,or,WT,mPFF,F,pSyn,0.008580145,0,0.008580145,0
+IM 332,"c(630, 448, 412, 440)",0.3,right,ORBl,"c(""ORBl5"", ""ORBl1"", ""ORBl2/3"", ""ORBl6a"")",WT,mPFF,M,pSyn,0.012667755,0,0.012667755,0
+IM 335,"c(440, 630, 448, 412)",0.3,right,ORBl,"c(""ORBl6a"", ""ORBl5"", ""ORBl1"", ""ORBl2/3"")",WT,mPFF,F,pSyn,0.023341402,0,0.023341402,0
+IM 339,"c(448, 440, 412, 630)",0.3,right,ORBl,"c(""ORBl1"", ""ORBl6a"", ""ORBl2/3"", ""ORBl5"")",WT,mPFF,M,pSyn,0.007721033,0,0.007721033,0
+IM 342,"c(412, 630, 448, 440)",0.3,right,ORBl,"c(""ORBl2/3"", ""ORBl5"", ""ORBl1"", ""ORBl6a"")",WT,mPFF,F,pSyn,0.009666132,0,0.009666132,0
+IM 332,"c(582, 910, 484, 620)",0.3,right,ORBm,"c(""ORBm2/3"", ""ORBm6a"", ""ORBm1"", ""ORBm5"")",WT,mPFF,M,pSyn,0.016791521,0,0.016791521,0
+IM 335,"c(910, 484, 620, 582)",0.3,right,ORBm,"c(""ORBm6a"", ""ORBm1"", ""ORBm5"", ""ORBm2/3"")",WT,mPFF,F,pSyn,0.022287358,0,0.022287358,0
+IM 339,"c(620, 484, 910, 582)",0.3,right,ORBm,"c(""ORBm5"", ""ORBm1"", ""ORBm6a"", ""ORBm2/3"")",WT,mPFF,M,pSyn,0.03087961,0,0.03087961,0
+IM 342,"c(620, 484, 582, 910)",0.3,right,ORBm,"c(""ORBm5"", ""ORBm1"", ""ORBm2/3"", ""ORBm6a"")",WT,mPFF,F,pSyn,0.02571764,0,0.02571764,0
+IM 332,"c(288, 1125, 969, 608)",0.3,right,ORBvl,"c(""ORBvl2/3"", ""ORBvl5"", ""ORBvl1"", ""ORBvl6a"")",WT,mPFF,M,pSyn,0.01916275,0,0.01916275,0
+IM 335,"c(608, 969, 1125, 288)",0.3,right,ORBvl,"c(""ORBvl6a"", ""ORBvl1"", ""ORBvl5"", ""ORBvl2/3"")",WT,mPFF,F,pSyn,0.025748455,0,0.025748455,0
+IM 339,"c(1125, 608, 288)",0.3,right,ORBvl,"c(""ORBvl5"", ""ORBvl6a"", ""ORBvl2/3"")",WT,mPFF,M,pSyn,0.015458617,0,0.015458617,0
+IM 342,"c(288, 1125, 608)",0.3,right,ORBvl,"c(""ORBvl2/3"", ""ORBvl5"", ""ORBvl6a"")",WT,mPFF,F,pSyn,0.022060353,0,0.022060353,0
+IM 332,754,0.3,right,OT,OT,WT,mPFF,M,pSyn,0.001202287,0,0.001202287,0
+IM 335,754,0.3,right,OT,OT,WT,mPFF,F,pSyn,0.00651502,0,0.00651502,0
+IM 339,754,0.3,right,OT,OT,WT,mPFF,M,pSyn,0.002168608,0,0.002168608,0
+IM 342,754,0.3,right,OT,OT,WT,mPFF,F,pSyn,0.002810684,0,0.002810684,0
+IM 332,771,0.3,right,P,P,WT,mPFF,M,pSyn,6.35E-05,0,6.35E-05,0
+IM 335,771,0.3,right,P,P,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,771,0.3,right,P,P,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,771,0.3,right,P,P,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,780,0.3,right,PA,PA,WT,mPFF,M,pSyn,3.59E-05,0,3.59E-05,0
+IM 335,780,0.3,right,PA,PA,WT,mPFF,F,pSyn,0.042134388,0.016511861,0.025622527,3.379439457
+IM 339,780,0.3,right,PA,PA,WT,mPFF,M,pSyn,0.022115108,0,0.022115108,0
+IM 342,780,0.3,right,PA,PA,WT,mPFF,F,pSyn,0.014686363,0.004841879,0.009844484,1.687946551
+IM 332,606826663,0.3,right,Pa4,Pa4,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,606826663,0.3,right,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,606826663,0.3,right,Pa4,Pa4,WT,mPFF,M,pSyn,0.000938711,0,0.000938711,0
+IM 342,606826663,0.3,right,Pa4,Pa4,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,788,0.3,right,PAA,PAA,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,788,0.3,right,PAA,PAA,WT,mPFF,F,pSyn,0.001200175,0,0.001200175,0
+IM 339,788,0.3,right,PAA,PAA,WT,mPFF,M,pSyn,0.001744076,0,0.001744076,0
+IM 342,788,0.3,right,PAA,PAA,WT,mPFF,F,pSyn,0.000554461,0,0.000554461,0
+IM 332,795,0.3,right,PAG,PAG,WT,mPFF,M,pSyn,0.000126512,0,0.000126512,0
+IM 335,795,0.3,right,PAG,PAG,WT,mPFF,F,pSyn,0.000423194,0,0.000423194,0
+IM 339,795,0.3,right,PAG,PAG,WT,mPFF,M,pSyn,0.002125926,0,0.002125926,0
+IM 342,795,0.3,right,PAG,PAG,WT,mPFF,F,pSyn,2.88E-05,0,2.88E-05,0
+IM 332,803,0.3,right,PAL,PAL,WT,mPFF,M,pSyn,0.00202925,0,0.00202925,0
+IM 335,803,0.3,right,PAL,PAL,WT,mPFF,F,pSyn,0.004635197,0,0.004635197,0
+IM 339,803,0.3,right,PAL,PAL,WT,mPFF,M,pSyn,0.011540435,0,0.011540435,0
+IM 342,803,0.3,right,PAL,PAL,WT,mPFF,F,pSyn,0.001866853,0,0.001866853,0
+IM 332,"c(1031, 1022)",0.3,right,PALd,"c(""GPi"", ""GPe"")",WT,mPFF,M,pSyn,0.004398421,0,0.004398421,0
+IM 335,"c(1031, 1022)",0.3,right,PALd,"c(""GPi"", ""GPe"")",WT,mPFF,F,pSyn,0.003562339,0,0.003562339,0
+IM 339,"c(1031, 1022)",0.3,right,PALd,"c(""GPi"", ""GPe"")",WT,mPFF,M,pSyn,0.004474811,0,0.004474811,0
+IM 342,"c(1022, 1031)",0.3,right,PALd,"c(""GPe"", ""GPi"")",WT,mPFF,F,pSyn,0.004718577,0,0.004718577,0
+IM 332,843,0.3,right,PAR,PAR,WT,mPFF,M,pSyn,1.63E-05,0,1.63E-05,0
+IM 335,843,0.3,right,PAR,PAR,WT,mPFF,F,pSyn,0.000292336,0,0.000292336,0
+IM 339,843,0.3,right,PAR,PAR,WT,mPFF,M,pSyn,0.001490011,0,0.001490011,0
+IM 342,843,0.3,right,PAR,PAR,WT,mPFF,F,pSyn,0.001312359,0,0.001312359,0
+IM 332,874,0.3,right,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,874,0.3,right,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,874,0.3,right,PBG,PBG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,874,0.3,right,PBG,PBG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,158,0.3,right,pc,pc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,158,0.3,right,pc,pc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,158,0.3,right,pc,pc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,158,0.3,right,pc,pc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,549009223,0.3,right,PC5,PC5,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,549009223,0.3,right,PC5,PC5,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,907,0.3,right,PCN,PCN,WT,mPFF,M,pSyn,0.020348772,0,0.020348772,0
+IM 335,907,0.3,right,PCN,PCN,WT,mPFF,F,pSyn,0.021168506,0,0.021168506,0
+IM 339,907,0.3,right,PCN,PCN,WT,mPFF,M,pSyn,0.04058131,0,0.04058131,0
+IM 342,907,0.3,right,PCN,PCN,WT,mPFF,F,pSyn,0.024125266,0,0.024125266,0
+IM 332,576073704,0.3,right,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,576073704,0.3,right,PeF,PeF,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,576073704,0.3,right,PeF,PeF,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,576073704,0.3,right,PeF,PeF,WT,mPFF,F,pSyn,4.71E-05,0,4.71E-05,0
+IM 332,"c(888, 540, 692, 335)",0.3,right,PERI,"c(""PERI2/3"", ""PERI1"", ""PERI5"", ""PERI6a"")",WT,mPFF,M,pSyn,0.000106512,0,0.000106512,0
+IM 335,"c(335, 692, 888, 540, 368)",0.3,right,PERI,"c(""PERI6a"", ""PERI5"", ""PERI2/3"", ""PERI1"", ""PERI6b"")",WT,mPFF,F,pSyn,0.002934637,0,0.002934637,0
+IM 339,"c(335, 540, 692, 888)",0.3,right,PERI,"c(""PERI6a"", ""PERI1"", ""PERI5"", ""PERI2/3"")",WT,mPFF,M,pSyn,0.01791083,0,0.01791083,0
+IM 342,"c(888, 540, 692, 335, 368)",0.3,right,PERI,"c(""PERI2/3"", ""PERI1"", ""PERI5"", ""PERI6a"", ""PERI6b"")",WT,mPFF,F,pSyn,0.015980921,0,0.015980921,0
+IM 332,930,0.3,right,PF,PF,WT,mPFF,M,pSyn,0.002119402,0,0.002119402,0
+IM 335,930,0.3,right,PF,PF,WT,mPFF,F,pSyn,0.007394182,0,0.007394182,0
+IM 339,930,0.3,right,PF,PF,WT,mPFF,M,pSyn,0.004819889,0,0.004819889,0
+IM 342,930,0.3,right,PF,PF,WT,mPFF,F,pSyn,0.013677948,0,0.013677948,0
+IM 332,931,0.3,right,PG,PG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,931,0.3,right,PG,PG,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,931,0.3,right,PG,PG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,946,0.3,right,PH,PH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,946,0.3,right,PH,PH,WT,mPFF,F,pSyn,0.002722637,0,0.002722637,0
+IM 339,946,0.3,right,PH,PH,WT,mPFF,M,pSyn,0.000617047,0,0.000617047,0
+IM 342,946,0.3,right,PH,PH,WT,mPFF,F,pSyn,0.001524726,0,0.001524726,0
+IM 332,560581563,0.3,right,PIL,PIL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,560581563,0.3,right,PIL,PIL,WT,mPFF,F,pSyn,7.72E-05,0,7.72E-05,0
+IM 339,560581563,0.3,right,PIL,PIL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,560581563,0.3,right,PIL,PIL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,961,0.3,right,PIR,PIR,WT,mPFF,M,pSyn,0.000156016,0,0.000156016,0
+IM 335,961,0.3,right,PIR,PIR,WT,mPFF,F,pSyn,0.000436209,0,0.000436209,0
+IM 339,961,0.3,right,PIR,PIR,WT,mPFF,M,pSyn,0.001852395,0,0.001852395,0
+IM 342,961,0.3,right,PIR,PIR,WT,mPFF,F,pSyn,0.000568179,0,0.000568179,0
+IM 332,"c(84, 363, 171, 304)",0.3,right,PL,"c(""PL6a"", ""PL5"", ""PL1"", ""PL2/3"")",WT,mPFF,M,pSyn,0.03946871,0,0.03946871,0
+IM 335,"c(84, 363, 304, 171)",0.3,right,PL,"c(""PL6a"", ""PL5"", ""PL2/3"", ""PL1"")",WT,mPFF,F,pSyn,0.041887218,0,0.041887218,0
+IM 339,"c(171, 304, 84, 363)",0.3,right,PL,"c(""PL1"", ""PL2/3"", ""PL6a"", ""PL5"")",WT,mPFF,M,pSyn,0.045746591,0,0.045746591,0
+IM 342,"c(84, 171, 304, 363)",0.3,right,PL,"c(""PL6a"", ""PL1"", ""PL2/3"", ""PL5"")",WT,mPFF,F,pSyn,0.041619532,0.002394972,0.039224561,0.927261982
+IM 332,753,0.3,right,pm,pm,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,753,0.3,right,pm,pm,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,753,0.3,right,pm,pm,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,753,0.3,right,pm,pm,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,980,0.3,right,PMd,PMd,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,980,0.3,right,PMd,PMd,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1004,0.3,right,PMv,PMv,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1004,0.3,right,PMv,PMv,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1004,0.3,right,PMv,PMv,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1004,0.3,right,PMv,PMv,WT,mPFF,F,pSyn,0.002654982,0,0.002654982,0
+IM 332,1020,0.3,right,PO,PO,WT,mPFF,M,pSyn,0.014397738,0,0.014397738,0
+IM 335,1020,0.3,right,PO,PO,WT,mPFF,F,pSyn,0.011178758,0,0.011178758,0
+IM 339,1020,0.3,right,PO,PO,WT,mPFF,M,pSyn,0.031755901,0,0.031755901,0
+IM 342,1020,0.3,right,PO,PO,WT,mPFF,F,pSyn,0.009189555,0,0.009189555,0
+IM 332,1029,0.3,right,POL,POL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1029,0.3,right,POL,POL,WT,mPFF,F,pSyn,7.06E-05,0,7.06E-05,0
+IM 339,1029,0.3,right,POL,POL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1029,0.3,right,POL,POL,WT,mPFF,F,pSyn,0.000312912,0,0.000312912,0
+IM 332,1037,0.3,right,POST,POST,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1037,0.3,right,POST,POST,WT,mPFF,F,pSyn,0.001361257,0,0.001361257,0
+IM 339,1037,0.3,right,POST,POST,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1037,0.3,right,POST,POST,WT,mPFF,F,pSyn,3.19E-05,0,3.19E-05,0
+IM 332,563807435,0.3,right,PoT,PoT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,563807435,0.3,right,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,563807435,0.3,right,PoT,PoT,WT,mPFF,M,pSyn,0.000800049,0,0.000800049,0
+IM 342,563807435,0.3,right,PoT,PoT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1044,0.3,right,PP,PP,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1044,0.3,right,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,1044,0.3,right,PP,PP,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1052,0.3,right,PPN,PPN,WT,mPFF,M,pSyn,6.82E-05,0,6.82E-05,0
+IM 335,1052,0.3,right,PPN,PPN,WT,mPFF,F,pSyn,0.002668307,0,0.002668307,0
+IM 339,1052,0.3,right,PPN,PPN,WT,mPFF,M,pSyn,0.001188402,0,0.001188402,0
+IM 342,1052,0.3,right,PPN,PPN,WT,mPFF,F,pSyn,0.004671088,0.000330155,0.004340933,1.027345149
+IM 332,1061,0.3,right,PPT,PPT,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1061,0.3,right,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1061,0.3,right,PPT,PPT,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1061,0.3,right,PPT,PPT,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1077,0.3,right,PR,PR,WT,mPFF,M,pSyn,0.014163088,0,0.014163088,0
+IM 335,1077,0.3,right,PR,PR,WT,mPFF,F,pSyn,0.007135875,0,0.007135875,0
+IM 339,1077,0.3,right,PR,PR,WT,mPFF,M,pSyn,0.043682824,0,0.043682824,0
+IM 342,1077,0.3,right,PR,PR,WT,mPFF,F,pSyn,0.001854041,0,0.001854041,0
+IM 332,50,0.3,right,PRC,PRC,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,50,0.3,right,PRC,PRC,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,50,0.3,right,PRC,PRC,WT,mPFF,M,pSyn,0.000518686,0,0.000518686,0
+IM 342,50,0.3,right,PRC,PRC,WT,mPFF,F,pSyn,0.000155641,0,0.000155641,0
+IM 332,1084,0.3,right,PRE,PRE,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1084,0.3,right,PRE,PRE,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1084,0.3,right,PRE,PRE,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1084,0.3,right,PRE,PRE,WT,mPFF,F,pSyn,0.000450232,0,0.000450232,0
+IM 332,146,0.3,right,PRNr,PRNr,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,146,0.3,right,PRNr,PRNr,WT,mPFF,F,pSyn,7.90E-05,0,7.90E-05,0
+IM 339,146,0.3,right,PRNr,PRNr,WT,mPFF,M,pSyn,0.000438827,0,0.000438827,0
+IM 342,146,0.3,right,PRNr,PRNr,WT,mPFF,F,pSyn,0.000109899,0,0.000109899,0
+IM 332,484682470,0.3,right,ProS,ProS,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,484682470,0.3,right,ProS,ProS,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,484682470,0.3,right,ProS,ProS,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,484682470,0.3,right,ProS,ProS,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,364,0.3,right,PSTN,PSTN,WT,mPFF,M,pSyn,0.00695579,0,0.00695579,0
+IM 335,364,0.3,right,PSTN,PSTN,WT,mPFF,F,pSyn,0.005333334,0,0.005333334,0
+IM 339,364,0.3,right,PSTN,PSTN,WT,mPFF,M,pSyn,0.002913871,0,0.002913871,0
+IM 342,364,0.3,right,PSTN,PSTN,WT,mPFF,F,pSyn,0.006453552,0,0.006453552,0
+IM 339,7,0.3,right,PSV,PSV,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,126,0.3,right,PVR,PVp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,126,0.3,right,PVR,PVp,WT,mPFF,F,pSyn,0,0,0,0
+IM 342,126,0.3,right,PVR,PVp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,149,0.3,right,PVT,PVT,WT,mPFF,M,pSyn,0.001610584,0,0.001610584,0
+IM 335,149,0.3,right,PVT,PVT,WT,mPFF,F,pSyn,0.000735222,0,0.000735222,0
+IM 339,149,0.3,right,PVT,PVT,WT,mPFF,M,pSyn,0.022566108,0,0.022566108,0
+IM 342,149,0.3,right,PVT,PVT,WT,mPFF,F,pSyn,0.001786976,0,0.001786976,0
+IM 332,118,0.3,right,PVZ,PVi,WT,mPFF,M,pSyn,8.02E-05,0,8.02E-05,0
+IM 335,118,0.3,right,PVZ,PVi,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,118,0.3,right,PVZ,PVi,WT,mPFF,M,pSyn,0.001498123,0,0.001498123,0
+IM 342,118,0.3,right,PVZ,PVi,WT,mPFF,F,pSyn,0.000641294,0,0.000641294,0
+IM 332,181,0.3,right,RE,RE,WT,mPFF,M,pSyn,0.007192727,0,0.007192727,0
+IM 335,181,0.3,right,RE,RE,WT,mPFF,F,pSyn,0.003512679,0,0.003512679,0
+IM 339,181,0.3,right,RE,RE,WT,mPFF,M,pSyn,0.01725311,0,0.01725311,0
+IM 342,181,0.3,right,RE,RE,WT,mPFF,F,pSyn,0.001156405,0,0.001156405,0
+IM 332,189,0.3,right,RH,RH,WT,mPFF,M,pSyn,0.012389801,0,0.012389801,0
+IM 335,189,0.3,right,RH,RH,WT,mPFF,F,pSyn,0.006721217,0,0.006721217,0
+IM 339,189,0.3,right,RH,RH,WT,mPFF,M,pSyn,0.017747385,0,0.017747385,0
+IM 342,189,0.3,right,RH,RH,WT,mPFF,F,pSyn,0.014645157,0,0.014645157,0
+IM 332,197,0.3,right,RL,RL,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,197,0.3,right,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,197,0.3,right,RL,RL,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,197,0.3,right,RL,RL,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,214,0.3,right,RN,RN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,214,0.3,right,RN,RN,WT,mPFF,F,pSyn,7.84E-05,0,7.84E-05,0
+IM 339,214,0.3,right,RN,RN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,214,0.3,right,RN,RN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(906, 279, 774, 965, 671)",0.3,right,RSPagl,"c(""RSPagl6a"", ""RSPagl6b"", ""RSPagl5"", ""RSPagl2/3"", ""RSPagl1"")",WT,mPFF,M,pSyn,0.001282043,0,0.001282043,0
+IM 335,"c(279, 906, 965, 774, 671)",0.3,right,RSPagl,"c(""RSPagl6b"", ""RSPagl6a"", ""RSPagl2/3"", ""RSPagl5"", ""RSPagl1"")",WT,mPFF,F,pSyn,0.000587262,0,0.000587262,0
+IM 339,"c(774, 906, 671, 279, 965)",0.3,right,RSPagl,"c(""RSPagl5"", ""RSPagl6a"", ""RSPagl1"", ""RSPagl6b"", ""RSPagl2/3"")",WT,mPFF,M,pSyn,0.003759262,0,0.003759262,0
+IM 342,"c(965, 906, 774, 671, 279)",0.3,right,RSPagl,"c(""RSPagl2/3"", ""RSPagl6a"", ""RSPagl5"", ""RSPagl1"", ""RSPagl6b"")",WT,mPFF,F,pSyn,0.00198637,0,0.00198637,0
+IM 332,"c(274, 442, 434, 330, 610)",0.3,right,RSPd,"c(""RSPd6a"", ""RSPd1"", ""RSPd2/3"", ""RSPd6b"", ""RSPd5"")",WT,mPFF,M,pSyn,0.000425239,0,0.000425239,0
+IM 335,"c(274, 434, 442, 610, 330)",0.3,right,RSPd,"c(""RSPd6a"", ""RSPd2/3"", ""RSPd1"", ""RSPd5"", ""RSPd6b"")",WT,mPFF,F,pSyn,0.00037409,0,0.00037409,0
+IM 339,"c(610, 274, 330, 434, 442)",0.3,right,RSPd,"c(""RSPd5"", ""RSPd6a"", ""RSPd6b"", ""RSPd2/3"", ""RSPd1"")",WT,mPFF,M,pSyn,0.000715311,0,0.000715311,0
+IM 342,"c(274, 434, 330, 442, 610)",0.3,right,RSPd,"c(""RSPd6a"", ""RSPd2/3"", ""RSPd6b"", ""RSPd1"", ""RSPd5"")",WT,mPFF,F,pSyn,0.000777291,0,0.000777291,0
+IM 332,"c(430, 590, 687, 542, 622)",0.3,right,RSPv,"c(""RSPv2/3"", ""RSPv6a"", ""RSPv5"", ""RSPv1"", ""RSPv6b"")",WT,mPFF,M,pSyn,0.004614349,0,0.004614349,0
+IM 335,"c(542, 687, 430, 622, 590)",0.3,right,RSPv,"c(""RSPv1"", ""RSPv5"", ""RSPv2/3"", ""RSPv6b"", ""RSPv6a"")",WT,mPFF,F,pSyn,0.000181553,0,0.000181553,0
+IM 339,"c(590, 542, 622, 687, 430)",0.3,right,RSPv,"c(""RSPv6a"", ""RSPv1"", ""RSPv6b"", ""RSPv5"", ""RSPv2/3"")",WT,mPFF,M,pSyn,0.000424441,0,0.000424441,0
+IM 342,"c(542, 430, 622, 687, 590)",0.3,right,RSPv,"c(""RSPv1"", ""RSPv2/3"", ""RSPv6b"", ""RSPv5"", ""RSPv6a"")",WT,mPFF,F,pSyn,0.000556979,0,0.000556979,0
+IM 332,262,0.3,right,RT,RT,WT,mPFF,M,pSyn,0.000116675,0,0.000116675,0
+IM 335,262,0.3,right,RT,RT,WT,mPFF,F,pSyn,0.000485153,0,0.000485153,0
+IM 339,262,0.3,right,RT,RT,WT,mPFF,M,pSyn,0.004786934,0,0.004786934,0
+IM 342,262,0.3,right,RT,RT,WT,mPFF,F,pSyn,0.002490896,0,0.002490896,0
+IM 332,863,0.3,right,rust,rust,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,863,0.3,right,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,863,0.3,right,rust,rust,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,863,0.3,right,rust,rust,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,271,0.3,right,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,271,0.3,right,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,271,0.3,right,SAG,SAG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,271,0.3,right,SAG,SAG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(42, 26, 10, 17)",0.3,right,SCm,"c(""SCdw"", ""SCdg"", ""SCig"", ""SCiw"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(26, 10, 17, 42)",0.3,right,SCm,"c(""SCdg"", ""SCig"", ""SCiw"", ""SCdw"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(42, 10, 17, 26)",0.3,right,SCm,"c(""SCdw"", ""SCig"", ""SCiw"", ""SCdg"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(10, 26, 42, 17)",0.3,right,SCm,"c(""SCig"", ""SCdg"", ""SCdw"", ""SCiw"")",WT,mPFF,F,pSyn,1.61E-05,0,1.61E-05,0
+IM 332,599626923,0.3,right,SCO,SCO,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,599626923,0.3,right,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,599626923,0.3,right,SCO,SCO,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,599626923,0.3,right,SCO,SCO,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,326,0.3,right,scp,scp,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,326,0.3,right,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,326,0.3,right,scp,scp,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,326,0.3,right,scp,scp,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(834, 842, 851)",0.3,right,SCs,"c(""SCzo"", ""SCsg"", ""SCop"")",WT,mPFF,M,pSyn,0.001844934,0,0.001844934,0
+IM 335,"c(834, 842, 851)",0.3,right,SCs,"c(""SCzo"", ""SCsg"", ""SCop"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(851, 842, 834)",0.3,right,SCs,"c(""SCop"", ""SCsg"", ""SCzo"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(834, 851, 842)",0.3,right,SCs,"c(""SCzo"", ""SCop"", ""SCsg"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,866,0.3,right,sctv,sctv,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,866,0.3,right,sctv,sctv,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,484682512,0.3,right,scwm,scwm,WT,mPFF,M,pSyn,0.010438129,0,0.010438129,0
+IM 335,484682512,0.3,right,scwm,scwm,WT,mPFF,F,pSyn,0.010319859,0,0.010319859,0
+IM 339,484682512,0.3,right,scwm,scwm,WT,mPFF,M,pSyn,0.012327273,0,0.012327273,0
+IM 342,484682512,0.3,right,scwm,scwm,WT,mPFF,F,pSyn,0.004766506,0,0.004766506,0
+IM 332,325,0.3,right,SGN,SGN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,325,0.3,right,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,325,0.3,right,SGN,SGN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,325,0.3,right,SGN,SGN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,333,0.3,right,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,333,0.3,right,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,333,0.3,right,SH,SH,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,333,0.3,right,SH,SH,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,342,0.3,right,SI,SI,WT,mPFF,M,pSyn,0.004218335,0,0.004218335,0
+IM 335,342,0.3,right,SI,SI,WT,mPFF,F,pSyn,0.010402925,0,0.010402925,0
+IM 339,342,0.3,right,SI,SI,WT,mPFF,M,pSyn,0.008766768,0,0.008766768,0
+IM 342,342,0.3,right,SI,SI,WT,mPFF,F,pSyn,0.006747408,0,0.006747408,0
+IM 332,802,0.3,right,sm,sm,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,802,0.3,right,sm,sm,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,802,0.3,right,sm,sm,WT,mPFF,M,pSyn,0.001673957,0,0.001673957,0
+IM 342,802,0.3,right,sm,sm,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,366,0.3,right,SMT,SMT,WT,mPFF,M,pSyn,0.00918516,0,0.00918516,0
+IM 335,366,0.3,right,SMT,SMT,WT,mPFF,F,pSyn,0.012131996,0,0.012131996,0
+IM 339,366,0.3,right,SMT,SMT,WT,mPFF,M,pSyn,0.024902019,0,0.024902019,0
+IM 342,366,0.3,right,SMT,SMT,WT,mPFF,F,pSyn,0.004229744,0,0.004229744,0
+IM 332,122,0.3,right,SOC,POR,WT,mPFF,M,pSyn,0,0,0,0
+IM 339,122,0.3,right,SOC,POR,WT,mPFF,M,pSyn,0.000639491,0,0.000639491,0
+IM 342,122,0.3,right,SOC,POR,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,609,0.3,right,SPA,SPA,WT,mPFF,M,pSyn,0.000148537,0,0.000148537,0
+IM 335,609,0.3,right,SPA,SPA,WT,mPFF,F,pSyn,0.000148577,0,0.000148577,0
+IM 339,609,0.3,right,SPA,SPA,WT,mPFF,M,pSyn,0.00299561,0,0.00299561,0
+IM 342,609,0.3,right,SPA,SPA,WT,mPFF,F,pSyn,0.002068708,0,0.002068708,0
+IM 332,"c(422, 414)",0.3,right,SPF,"c(""SPFp"", ""SPFm"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(414, 422)",0.3,right,SPF,"c(""SPFm"", ""SPFp"")",WT,mPFF,F,pSyn,8.75E-05,0,8.75E-05,0
+IM 339,"c(414, 422)",0.3,right,SPF,"c(""SPFm"", ""SPFp"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(414, 422)",0.3,right,SPF,"c(""SPFm"", ""SPFp"")",WT,mPFF,F,pSyn,0.000646726,0,0.000646726,0
+IM 332,"c(1047, 981, 1070, 201, 1062, 1038)",0.3,right,SSp-bfd,"c(""SSp-bfd4"", ""SSp-bfd1"", ""SSp-bfd5"", ""SSp-bfd2/3"", ""SSp-bfd6b"", ""SSp-bfd6a"")",WT,mPFF,M,pSyn,0.000863085,0,0.000863085,0
+IM 335,"c(201, 1038, 1070, 981, 1047, 1062)",0.3,right,SSp-bfd,"c(""SSp-bfd2/3"", ""SSp-bfd6a"", ""SSp-bfd5"", ""SSp-bfd1"", ""SSp-bfd4"", ""SSp-bfd6b"")",WT,mPFF,F,pSyn,0.002303652,0,0.002303652,0
+IM 339,"c(981, 201, 1062, 1047, 1070, 1038)",0.3,right,SSp-bfd,"c(""SSp-bfd1"", ""SSp-bfd2/3"", ""SSp-bfd6b"", ""SSp-bfd4"", ""SSp-bfd5"", ""SSp-bfd6a"")",WT,mPFF,M,pSyn,0.003387907,0,0.003387907,0
+IM 342,"c(201, 1070, 1047, 981, 1062, 1038)",0.3,right,SSp-bfd,"c(""SSp-bfd2/3"", ""SSp-bfd5"", ""SSp-bfd4"", ""SSp-bfd1"", ""SSp-bfd6b"", ""SSp-bfd6a"")",WT,mPFF,F,pSyn,0.00084341,0,0.00084341,0
+IM 332,"c(510, 478)",0.3,right,SSp-ll,"c(""SSp-ll6b"", ""SSp-ll6a"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,510,0.3,right,SSp-ll,SSp-ll6b,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(478, 510, 1128)",0.3,right,SSp-ll,"c(""SSp-ll6a"", ""SSp-ll6b"", ""SSp-ll5"")",WT,mPFF,M,pSyn,0.008189756,0,0.008189756,0
+IM 342,"c(478, 510)",0.3,right,SSp-ll,"c(""SSp-ll6a"", ""SSp-ll6b"")",WT,mPFF,F,pSyn,0.016947091,0,0.016947091,0
+IM 332,"c(950, 1102, 2, 974, 878, 657)",0.3,right,SSp-m,"c(""SSp-m4"", ""SSp-m6a"", ""SSp-m6b"", ""SSp-m5"", ""SSp-m1"", ""SSp-m2/3"")",WT,mPFF,M,pSyn,0.000598465,0,0.000598465,0
+IM 335,"c(878, 950, 657, 2, 974, 1102)",0.3,right,SSp-m,"c(""SSp-m1"", ""SSp-m4"", ""SSp-m2/3"", ""SSp-m6b"", ""SSp-m5"", ""SSp-m6a"")",WT,mPFF,F,pSyn,0.000956816,0,0.000956816,0
+IM 339,"c(974, 950, 2, 878, 1102, 657)",0.3,right,SSp-m,"c(""SSp-m5"", ""SSp-m4"", ""SSp-m6b"", ""SSp-m1"", ""SSp-m6a"", ""SSp-m2/3"")",WT,mPFF,M,pSyn,0.001310992,0,0.001310992,0
+IM 342,"c(657, 2, 974, 878, 950, 1102)",0.3,right,SSp-m,"c(""SSp-m2/3"", ""SSp-m6b"", ""SSp-m5"", ""SSp-m1"", ""SSp-m4"", ""SSp-m6a"")",WT,mPFF,F,pSyn,0.000870121,0,0.000870121,0
+IM 332,"c(1111, 461, 1086, 670, 1006, 9)",0.3,right,SSp-tr,"c(""SSp-tr5"", ""SSp-tr6b"", ""SSp-tr4"", ""SSp-tr2/3"", ""SSp-tr1"", ""SSp-tr6a"")",WT,mPFF,M,pSyn,0.004653741,0,0.004653741,0
+IM 335,"c(1111, 1086, 461, 670, 9, 1006)",0.3,right,SSp-tr,"c(""SSp-tr5"", ""SSp-tr4"", ""SSp-tr6b"", ""SSp-tr2/3"", ""SSp-tr6a"", ""SSp-tr1"")",WT,mPFF,F,pSyn,0.008945109,0,0.008945109,0
+IM 339,"c(9, 461, 1086, 1111, 670, 1006)",0.3,right,SSp-tr,"c(""SSp-tr6a"", ""SSp-tr6b"", ""SSp-tr4"", ""SSp-tr5"", ""SSp-tr2/3"", ""SSp-tr1"")",WT,mPFF,M,pSyn,0.008738358,0,0.008738358,0
+IM 342,"c(670, 9, 1086, 461, 1006, 1111)",0.3,right,SSp-tr,"c(""SSp-tr2/3"", ""SSp-tr6a"", ""SSp-tr4"", ""SSp-tr6b"", ""SSp-tr1"", ""SSp-tr5"")",WT,mPFF,F,pSyn,0.006079608,0.003052452,0.003027156,1.416876919
+IM 332,"c(625, 945, 854, 1026, 450)",0.3,right,SSp-ul,"c(""SSp-ul5"", ""SSp-ul6a"", ""SSp-ul2/3"", ""SSp-ul6b"", ""SSp-ul1"")",WT,mPFF,M,pSyn,0.000218615,0,0.000218615,0
+IM 335,"c(450, 577, 1026, 854, 625, 945)",0.3,right,SSp-ul,"c(""SSp-ul1"", ""SSp-ul4"", ""SSp-ul6b"", ""SSp-ul2/3"", ""SSp-ul5"", ""SSp-ul6a"")",WT,mPFF,F,pSyn,0.001999144,0,0.001999144,0
+IM 339,"c(450, 625, 577, 854, 945, 1026)",0.3,right,SSp-ul,"c(""SSp-ul1"", ""SSp-ul5"", ""SSp-ul4"", ""SSp-ul2/3"", ""SSp-ul6a"", ""SSp-ul6b"")",WT,mPFF,M,pSyn,0.003670155,0,0.003670155,0
+IM 342,"c(625, 945, 577, 1026, 854, 450)",0.3,right,SSp-ul,"c(""SSp-ul5"", ""SSp-ul6a"", ""SSp-ul4"", ""SSp-ul6b"", ""SSp-ul2/3"", ""SSp-ul1"")",WT,mPFF,F,pSyn,0.000318827,0,0.000318827,0
+IM 332,"c(182305709, 182305713, 182305701, 182305705, 182305697)",0.3,right,SSp-un,"c(""SSp-un6a"", ""SSp-un6b"", ""SSp-un4"", ""SSp-un5"", ""SSp-un2/3"")",WT,mPFF,M,pSyn,0.001561689,0,0.001561689,0
+IM 335,"c(182305709, 182305713, 182305705)",0.3,right,SSp-un,"c(""SSp-un6a"", ""SSp-un6b"", ""SSp-un5"")",WT,mPFF,F,pSyn,0.002404913,0,0.002404913,0
+IM 339,"c(182305709, 182305693, 182305713, 182305705, 182305701, 182305697)",0.3,right,SSp-un,"c(""SSp-un6a"", ""SSp-un1"", ""SSp-un6b"", ""SSp-un5"", ""SSp-un4"", ""SSp-un2/3"")",WT,mPFF,M,pSyn,0.002664768,0,0.002664768,0
+IM 342,"c(182305713, 182305709, 182305705, 182305701, 182305697)",0.3,right,SSp-un,"c(""SSp-un6b"", ""SSp-un6a"", ""SSp-un5"", ""SSp-un4"", ""SSp-un2/3"")",WT,mPFF,F,pSyn,0.009209456,0.005499485,0.003709971,3.667020131
+IM 332,"c(873, 806, 862, 1090, 893, 1035)",0.3,right,SSs,"c(""SSs1"", ""SSs2/3"", ""SSs6a"", ""SSs5"", ""SSs6b"", ""SSs4"")",WT,mPFF,M,pSyn,0.002485072,0,0.002485072,0
+IM 335,"c(873, 1090, 893, 806, 862, 1035)",0.3,right,SSs,"c(""SSs1"", ""SSs5"", ""SSs6b"", ""SSs2/3"", ""SSs6a"", ""SSs4"")",WT,mPFF,F,pSyn,0.006825952,0,0.006825952,0
+IM 339,"c(893, 873, 862, 1035, 806, 1090)",0.3,right,SSs,"c(""SSs6b"", ""SSs1"", ""SSs6a"", ""SSs4"", ""SSs2/3"", ""SSs5"")",WT,mPFF,M,pSyn,0.004513871,0,0.004513871,0
+IM 342,"c(893, 862, 1035, 1090, 806, 873)",0.3,right,SSs,"c(""SSs6b"", ""SSs6a"", ""SSs4"", ""SSs5"", ""SSs2/3"", ""SSs1"")",WT,mPFF,F,pSyn,0.004255074,0,0.004255074,0
+IM 332,301,0.3,right,st,st,WT,mPFF,M,pSyn,0.034498141,0,0.034498141,0
+IM 335,301,0.3,right,st,st,WT,mPFF,F,pSyn,0.19442508,0,0.19442508,0
+IM 339,301,0.3,right,st,st,WT,mPFF,M,pSyn,0.073486174,0,0.073486174,0
+IM 342,301,0.3,right,st,st,WT,mPFF,F,pSyn,0.173727093,0,0.173727093,0
+IM 332,484682528,0.3,right,stc,stc,WT,mPFF,M,pSyn,0.065564389,0,0.065564389,0
+IM 335,484682528,0.3,right,stc,stc,WT,mPFF,F,pSyn,0.001427111,0,0.001427111,0
+IM 339,484682528,0.3,right,stc,stc,WT,mPFF,M,pSyn,0.060778107,0,0.060778107,0
+IM 342,484682528,0.3,right,stc,stc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,470,0.3,right,STN,STN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,470,0.3,right,STN,STN,WT,mPFF,F,pSyn,0.002189749,0,0.002189749,0
+IM 339,470,0.3,right,STN,STN,WT,mPFF,M,pSyn,0.000851353,0,0.000851353,0
+IM 342,470,0.3,right,STN,STN,WT,mPFF,F,pSyn,0.002311364,0,0.002311364,0
+IM 332,477,0.3,right,STR,STR,WT,mPFF,M,pSyn,0.00823096,0,0.00823096,0
+IM 335,477,0.3,right,STR,STR,WT,mPFF,F,pSyn,0.049514292,0,0.049514292,0
+IM 339,477,0.3,right,STR,STR,WT,mPFF,M,pSyn,0.100954321,0,0.100954321,0
+IM 342,477,0.3,right,STR,STR,WT,mPFF,F,pSyn,0.073615669,0,0.073615669,0
+IM 342,614454277,0.3,right,Su3,Su3,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,502,0.3,right,SUB,SUB,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,502,0.3,right,SUB,SUB,WT,mPFF,F,pSyn,0.000843303,0,0.000843303,0
+IM 339,502,0.3,right,SUB,SUB,WT,mPFF,M,pSyn,8.10E-05,0,8.10E-05,0
+IM 342,502,0.3,right,SUB,SUB,WT,mPFF,F,pSyn,0.001291359,0,0.001291359,0
+IM 332,321,0.3,right,SubG,SubG,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,321,0.3,right,SubG,SubG,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,525,0.3,right,SUM,SUM,WT,mPFF,M,pSyn,0.000213052,0,0.000213052,0
+IM 335,525,0.3,right,SUM,SUM,WT,mPFF,F,pSyn,0.001580716,0,0.001580716,0
+IM 339,525,0.3,right,SUM,SUM,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,525,0.3,right,SUM,SUM,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,349,0.3,right,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,349,0.3,right,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,349,0.3,right,sup,sup,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,349,0.3,right,sup,sup,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,229,0.3,right,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,229,0.3,right,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,229,0.3,right,sV,sV,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,229,0.3,right,sV,sV,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,841,0.3,right,tb,tb,WT,mPFF,M,pSyn,0,0,0,0
+IM 332,"c(97, 786, 289, 234, 1127, 729)",0.3,right,TEa,"c(""TEa1"", ""TEa6b"", ""TEa5"", ""TEa4"", ""TEa2/3"", ""TEa6a"")",WT,mPFF,M,pSyn,0.00894905,0,0.00894905,0
+IM 335,"c(97, 234, 289, 1127, 729, 786)",0.3,right,TEa,"c(""TEa1"", ""TEa4"", ""TEa5"", ""TEa2/3"", ""TEa6a"", ""TEa6b"")",WT,mPFF,F,pSyn,0.015078095,0,0.015078095,0
+IM 339,"c(289, 234, 786, 1127, 729, 97)",0.3,right,TEa,"c(""TEa5"", ""TEa4"", ""TEa6b"", ""TEa2/3"", ""TEa6a"", ""TEa1"")",WT,mPFF,M,pSyn,0.009475302,0,0.009475302,0
+IM 342,"c(97, 786, 729, 289, 1127, 234)",0.3,right,TEa,"c(""TEa1"", ""TEa6b"", ""TEa6a"", ""TEa5"", ""TEa2/3"", ""TEa4"")",WT,mPFF,F,pSyn,0.011772651,0,0.011772651,0
+IM 332,549,0.3,right,TH,TH,WT,mPFF,M,pSyn,0.000632228,0,0.000632228,0
+IM 335,549,0.3,right,TH,TH,WT,mPFF,F,pSyn,0.001632376,0,0.001632376,0
+IM 339,549,0.3,right,TH,TH,WT,mPFF,M,pSyn,0.003112396,0,0.003112396,0
+IM 342,549,0.3,right,TH,TH,WT,mPFF,F,pSyn,0.002800087,0,0.002800087,0
+IM 332,"c(1, 1126)",0.3,right,TM,"c(""TMv"", ""TMd"")",WT,mPFF,M,pSyn,0.000100479,0,0.000100479,0
+IM 339,1,0.3,right,TM,TMv,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1,0.3,right,TM,TMv,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,566,0.3,right,TR,TR,WT,mPFF,M,pSyn,0.000181661,0,0.000181661,0
+IM 335,566,0.3,right,TR,TR,WT,mPFF,F,pSyn,0.015947305,0,0.015947305,0
+IM 339,566,0.3,right,TR,TR,WT,mPFF,M,pSyn,0.036581031,0,0.036581031,0
+IM 342,566,0.3,right,TR,TR,WT,mPFF,F,pSyn,0.011529774,0.002783048,0.008746725,1.237145398
+IM 332,574,0.3,right,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,574,0.3,right,TRN,TRN,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,574,0.3,right,TRN,TRN,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,574,0.3,right,TRN,TRN,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,1043,0.3,right,tspc,tspc,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,1043,0.3,right,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM 339,1043,0.3,right,tspc,tspc,WT,mPFF,M,pSyn,0,0,0,0
+IM 342,1043,0.3,right,tspc,tspc,WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(605, 597)",0.3,right,TT,"c(""TTv"", ""TTd"")",WT,mPFF,M,pSyn,0.000507588,0,0.000507588,0
+IM 335,"c(605, 597)",0.3,right,TT,"c(""TTv"", ""TTd"")",WT,mPFF,F,pSyn,0.000342501,0,0.000342501,0
+IM 339,"c(597, 605)",0.3,right,TT,"c(""TTd"", ""TTv"")",WT,mPFF,M,pSyn,0.003760689,0,0.003760689,0
+IM 342,"c(597, 605)",0.3,right,TT,"c(""TTd"", ""TTv"")",WT,mPFF,F,pSyn,0.002726096,0,0.002726096,0
+IM 332,614,0.3,right,TU,TU,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,614,0.3,right,TU,TU,WT,mPFF,F,pSyn,0.000992774,0,0.000992774,0
+IM 339,614,0.3,right,TU,TU,WT,mPFF,M,pSyn,0.000986168,0,0.000986168,0
+IM 342,614,0.3,right,TU,TU,WT,mPFF,F,pSyn,0.000342019,0,0.000342019,0
+IM 332,629,0.3,right,VAL,VAL,WT,mPFF,M,pSyn,0.025199666,0,0.025199666,0
+IM 335,629,0.3,right,VAL,VAL,WT,mPFF,F,pSyn,0.035723069,0,0.035723069,0
+IM 339,629,0.3,right,VAL,VAL,WT,mPFF,M,pSyn,0.031289789,0,0.031289789,0
+IM 342,629,0.3,right,VAL,VAL,WT,mPFF,F,pSyn,0.015018182,0,0.015018182,0
+IM 332,"c(312782558, 312782562, 312782554, 312782550, 312782566, 312782570)",0.3,right,VISa,"c(""VISa4"", ""VISa5"", ""VISa2/3"", ""VISa1"", ""VISa6a"", ""VISa6b"")",WT,mPFF,M,pSyn,0.001130659,0,0.001130659,0
+IM 335,"c(312782570, 312782558, 312782562, 312782550, 312782566, 312782554)",0.3,right,VISa,"c(""VISa6b"", ""VISa4"", ""VISa5"", ""VISa1"", ""VISa6a"", ""VISa2/3"")",WT,mPFF,F,pSyn,0.001275398,0,0.001275398,0
+IM 339,"c(312782570, 312782558, 312782554, 312782566, 312782562, 312782550)",0.3,right,VISa,"c(""VISa6b"", ""VISa4"", ""VISa2/3"", ""VISa6a"", ""VISa5"", ""VISa1"")",WT,mPFF,M,pSyn,0.004871087,0,0.004871087,0
+IM 342,"c(312782558, 312782570, 312782566, 312782562, 312782554, 312782550)",0.3,right,VISa,"c(""VISa4"", ""VISa6b"", ""VISa6a"", ""VISa5"", ""VISa2/3"", ""VISa1"")",WT,mPFF,F,pSyn,0.003876234,0,0.003876234,0
+IM 332,"c(649, 233, 601, 905, 1074, 1114)",0.3,right,VISal,"c(""VISal6b"", ""VISal5"", ""VISal6a"", ""VISal2/3"", ""VISal1"", ""VISal4"")",WT,mPFF,M,pSyn,1.43E-05,0,1.43E-05,0
+IM 335,"c(649, 1114, 233, 1074, 601, 905)",0.3,right,VISal,"c(""VISal6b"", ""VISal4"", ""VISal5"", ""VISal1"", ""VISal6a"", ""VISal2/3"")",WT,mPFF,F,pSyn,0.000111725,0,0.000111725,0
+IM 339,"c(1114, 649, 1074, 905, 233, 601)",0.3,right,VISal,"c(""VISal4"", ""VISal6b"", ""VISal1"", ""VISal2/3"", ""VISal5"", ""VISal6a"")",WT,mPFF,M,pSyn,0.00089471,0,0.00089471,0
+IM 342,"c(1074, 1114, 905, 233, 601, 649)",0.3,right,VISal,"c(""VISal1"", ""VISal4"", ""VISal2/3"", ""VISal5"", ""VISal6a"", ""VISal6b"")",WT,mPFF,F,pSyn,0.000271438,0,0.000271438,0
+IM 332,"c(1046, 281, 441, 401, 433, 1066)",0.3,right,VISam,"c(""VISam6a"", ""VISam1"", ""VISam6b"", ""VISam4"", ""VISam5"", ""VISam2/3"")",WT,mPFF,M,pSyn,0.00048812,0,0.00048812,0
+IM 335,"c(433, 401, 281, 1066, 441, 1046)",0.3,right,VISam,"c(""VISam5"", ""VISam4"", ""VISam1"", ""VISam2/3"", ""VISam6b"", ""VISam6a"")",WT,mPFF,F,pSyn,0.001224871,0,0.001224871,0
+IM 339,"c(281, 1066, 1046, 401, 433, 441)",0.3,right,VISam,"c(""VISam1"", ""VISam2/3"", ""VISam6a"", ""VISam4"", ""VISam5"", ""VISam6b"")",WT,mPFF,M,pSyn,0.001657406,0,0.001657406,0
+IM 342,"c(281, 441, 433, 1066, 1046, 401)",0.3,right,VISam,"c(""VISam1"", ""VISam6b"", ""VISam5"", ""VISam2/3"", ""VISam6a"", ""VISam4"")",WT,mPFF,F,pSyn,0.006281856,0,0.006281856,0
+IM 332,"c(1010, 1106, 1058, 857, 849, 897)",0.3,right,VISC,"c(""VISC4"", ""VISC2/3"", ""VISC5"", ""VISC6a"", ""VISC6b"", ""VISC1"")",WT,mPFF,M,pSyn,0.002591295,0,0.002591295,0
+IM 335,"c(1106, 1058, 1010, 849, 897, 857)",0.3,right,VISC,"c(""VISC2/3"", ""VISC5"", ""VISC4"", ""VISC6b"", ""VISC1"", ""VISC6a"")",WT,mPFF,F,pSyn,0.009324697,0,0.009324697,0.953069771
+IM 339,"c(857, 1058, 1106, 849, 897, 1010)",0.3,right,VISC,"c(""VISC6a"", ""VISC5"", ""VISC2/3"", ""VISC6b"", ""VISC1"", ""VISC4"")",WT,mPFF,M,pSyn,0.014412792,0,0.014412792,0
+IM 342,"c(849, 897, 1058, 857, 1010, 1106)",0.3,right,VISC,"c(""VISC6b"", ""VISC1"", ""VISC5"", ""VISC6a"", ""VISC4"", ""VISC2/3"")",WT,mPFF,F,pSyn,0.00376884,0,0.00376884,0
+IM 332,"c(973, 421, 613, 573)",0.3,right,VISl,"c(""VISl2/3"", ""VISl1"", ""VISl5"", ""VISl4"")",WT,mPFF,M,pSyn,6.71E-05,0,6.71E-05,0
+IM 335,"c(421, 74, 613, 973, 121, 573)",0.3,right,VISl,"c(""VISl1"", ""VISl6a"", ""VISl5"", ""VISl2/3"", ""VISl6b"", ""VISl4"")",WT,mPFF,F,pSyn,4.24E-05,0,4.24E-05,0
+IM 339,"c(421, 573, 973, 613, 74, 121)",0.3,right,VISl,"c(""VISl1"", ""VISl4"", ""VISl2/3"", ""VISl5"", ""VISl6a"", ""VISl6b"")",WT,mPFF,M,pSyn,0.001601184,0,0.001601184,0
+IM 342,"c(421, 573, 973, 74, 613, 121)",0.3,right,VISl,"c(""VISl1"", ""VISl4"", ""VISl2/3"", ""VISl6a"", ""VISl5"", ""VISl6b"")",WT,mPFF,F,pSyn,0.002704956,0,0.002704956,0
+IM 332,"c(312782578, 312782582)",0.3,right,VISli,"c(""VISli1"", ""VISli2/3"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 335,"c(312782598, 312782582, 312782578, 312782586, 312782594, 312782590)",0.3,right,VISli,"c(""VISli6b"", ""VISli2/3"", ""VISli1"", ""VISli4"", ""VISli6a"", ""VISli5"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 339,"c(312782582, 312782586, 312782578, 312782590)",0.3,right,VISli,"c(""VISli2/3"", ""VISli4"", ""VISli1"", ""VISli5"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(312782578, 312782582, 312782590, 312782586)",0.3,right,VISli,"c(""VISli1"", ""VISli2/3"", ""VISli5"", ""VISli4"")",WT,mPFF,F,pSyn,0,0,0,0
+IM 332,"c(778, 721, 821, 593, 305, 33)",0.3,right,VISp,"c(""VISp5"", ""VISp4"", ""VISp2/3"", ""VISp1"", ""VISp6b"", ""VISp6a"")",WT,mPFF,M,pSyn,6.13E-05,0,6.13E-05,0
+IM 335,"c(33, 593, 778, 721, 305, 821)",0.3,right,VISp,"c(""VISp6a"", ""VISp1"", ""VISp5"", ""VISp4"", ""VISp6b"", ""VISp2/3"")",WT,mPFF,F,pSyn,6.07E-06,0,6.07E-06,0
+IM 339,"c(593, 821, 305, 778, 33, 721)",0.3,right,VISp,"c(""VISp1"", ""VISp2/3"", ""VISp6b"", ""VISp5"", ""VISp6a"", ""VISp4"")",WT,mPFF,M,pSyn,3.55E-05,0,3.55E-05,0
+IM 342,"c(305, 721, 593, 778, 821, 33)",0.3,right,VISp,"c(""VISp6b"", ""VISp4"", ""VISp1"", ""VISp5"", ""VISp2/3"", ""VISp6a"")",WT,mPFF,F,pSyn,9.84E-05,0,9.84E-05,0
+IM 332,"c(902, 869, 377, 393)",0.3,right,VISpl,"c(""VISpl5"", ""VISpl4"", ""VISpl6a"", ""VISpl6b"")",WT,mPFF,M,pSyn,0.000411947,0,0.000411947,0
+IM 335,"c(869, 377, 393, 902)",0.3,right,VISpl,"c(""VISpl4"", ""VISpl6a"", ""VISpl6b"", ""VISpl5"")",WT,mPFF,F,pSyn,0.005999961,0,0.005999961,0
+IM 339,"c(393, 902, 377, 869)",0.3,right,VISpl,"c(""VISpl6b"", ""VISpl5"", ""VISpl6a"", ""VISpl4"")",WT,mPFF,M,pSyn,7.66E-05,0,7.66E-05,0
+IM 342,"c(377, 393, 902, 869)",0.3,right,VISpl,"c(""VISpl6a"", ""VISpl6b"", ""VISpl5"", ""VISpl4"")",WT,mPFF,F,pSyn,0.006439317,0,0.006439317,0
+IM 332,"c(565, 469, 257, 501, 805, 41)",0.3,right,VISpm,"c(""VISpm5"", ""VISpm6b"", ""VISpm6a"", ""VISpm4"", ""VISpm1"", ""VISpm2/3"")",WT,mPFF,M,pSyn,0.001952725,0,0.001952725,0
+IM 335,"c(41, 805, 469, 257, 565, 501)",0.3,right,VISpm,"c(""VISpm2/3"", ""VISpm1"", ""VISpm6b"", ""VISpm6a"", ""VISpm5"", ""VISpm4"")",WT,mPFF,F,pSyn,0.000133236,0,0.000133236,0
+IM 339,"c(565, 257, 501, 805, 41, 469)",0.3,right,VISpm,"c(""VISpm5"", ""VISpm6a"", ""VISpm4"", ""VISpm1"", ""VISpm2/3"", ""VISpm6b"")",WT,mPFF,M,pSyn,0,0,0,0
+IM 342,"c(469, 257, 501, 565, 41, 805)",0.3,right,VISpm,"c(""VISpm6b"", ""VISpm6a"", ""VISpm4"", ""VISpm5"", ""VISpm2/3"", ""VISpm1"")",WT,mPFF,F,pSyn,0.0002921,0,0.0002921,0
+IM 332,"c(312782640, 312782632, 312782636, 312782648, 312782652, 312782644)",0.3,right,VISpor,"c(""VISpor4"", ""VISpor1"", ""VISpor2/3"", ""VISpor6a"", ""VISpor6b"", ""VISpor5"")",WT,mPFF,M,pSyn,0.000745193,0,0.000745193,0
+IM 335,"c(312782636, 312782644, 312782632, 312782640, 312782652, 312782648)",0.3,right,VISpor,"c(""VISpor2/3"", ""VISpor5"", ""VISpor1"", ""VISpor4"", ""VISpor6b"", ""VISpor6a"")",WT,mPFF,F,pSyn,0.001691618,0,0.001691618,0
+IM 339,"c(312782632, 312782640, 312782636, 312782644, 312782652, 312782648)",0.3,right,VISpor,"c(""VISpor1"", ""VISpor4"", ""VISpor2/3"", ""VISpor5"", ""VISpor6b"", ""VISpor6a"")",WT,mPFF,M,pSyn,0.00262426,0,0.00262426,0
+IM 342,"c(312782652, 312782640, 312782632, 312782648, 312782644, 312782636)",0.3,right,VISpor,"c(""VISpor6b"", ""VISpor4"", ""VISpor1"", ""VISpor6a"", ""VISpor5"", ""VISpor2/3"")",WT,mPFF,F,pSyn,0.002778547,0,0.002778547,0
+IM 332,"c(312782620, 312782624, 312782604, 312782616, 312782612, 312782608)",0.3,right,VISrl,"c(""VISrl6a"", ""VISrl6b"", ""VISrl1"", ""VISrl5"", ""VISrl4"", ""VISrl2/3"")",WT,mPFF,M,pSyn,0.000247417,0,0.000247417,0
+IM 335,"c(312782608, 312782616, 312782620, 312782604, 312782612, 312782624)",0.3,right,VISrl,"c(""VISrl2/3"", ""VISrl5"", ""VISrl6a"", ""VISrl1"", ""VISrl4"", ""VISrl6b"")",WT,mPFF,F,pSyn,0.002780363,0,0.002780363,0
+IM 339,"c(312782616, 312782604, 312782608, 312782612, 312782624, 312782620)",0.3,right,VISrl,"c(""VISrl5"", ""VISrl1"", ""VISrl2/3"", ""VISrl4"", ""VISrl6b"", ""VISrl6a"")",WT,mPFF,M,pSyn,0.000609513,0,0.000609513,0
+IM 342,"c(312782620, 312782608, 312782616, 312782612, 312782604, 312782624)",0.3,right,VISrl,"c(""VISrl6a"", ""VISrl2/3"", ""VISrl5"", ""VISrl4"", ""VISrl1"", ""VISrl6b"")",WT,mPFF,F,pSyn,0.002109115,0,0.002109115,0
+IM 332,685,0.3,right,VM,VM,WT,mPFF,M,pSyn,0.015930543,0,0.015930543,0
+IM 335,685,0.3,right,VM,VM,WT,mPFF,F,pSyn,0.012805792,0,0.012805792,0
+IM 339,685,0.3,right,VM,VM,WT,mPFF,M,pSyn,0.018744792,0,0.018744792,0
+IM 342,685,0.3,right,VM,VM,WT,mPFF,F,pSyn,0.009679096,0,0.009679096,0
+IM 332,693,0.3,right,VMH,VMH,WT,mPFF,M,pSyn,0.000966623,0,0.000966623,0
+IM 335,693,0.3,right,VMH,VMH,WT,mPFF,F,pSyn,0.001126264,0,0.001126264,0
+IM 339,693,0.3,right,VMH,VMH,WT,mPFF,M,pSyn,0.004038617,0,0.004038617,0
+IM 342,693,0.3,right,VMH,VMH,WT,mPFF,F,pSyn,4.40E-05,0,4.40E-05,0
+IM 332,"c(725, 741)",0.3,right,VP,"c(""VPLpc"", ""VPMpc"")",WT,mPFF,M,pSyn,0.000510964,0,0.000510964,0
+IM 335,"c(741, 725)",0.3,right,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,F,pSyn,0.002156183,0,0.002156183,0
+IM 339,"c(725, 741)",0.3,right,VP,"c(""VPLpc"", ""VPMpc"")",WT,mPFF,M,pSyn,0.000134329,0,0.000134329,0
+IM 342,"c(741, 725)",0.3,right,VP,"c(""VPMpc"", ""VPLpc"")",WT,mPFF,F,pSyn,0.003772909,0,0.003772909,0
+IM 332,718,0.3,right,VPL,VPL,WT,mPFF,M,pSyn,0.000280381,0,0.000280381,0
+IM 335,718,0.3,right,VPL,VPL,WT,mPFF,F,pSyn,0.005139217,0,0.005139217,0
+IM 339,718,0.3,right,VPL,VPL,WT,mPFF,M,pSyn,0.006855686,0,0.006855686,0
+IM 342,718,0.3,right,VPL,VPL,WT,mPFF,F,pSyn,0.001307055,0,0.001307055,0
+IM 332,733,0.3,right,VPM,VPM,WT,mPFF,M,pSyn,0.005119849,0,0.005119849,0
+IM 335,733,0.3,right,VPM,VPM,WT,mPFF,F,pSyn,0.003799313,0,0.003799313,0
+IM 339,733,0.3,right,VPM,VPM,WT,mPFF,M,pSyn,0.023939435,0,0.023939435,0
+IM 342,733,0.3,right,VPM,VPM,WT,mPFF,F,pSyn,0.005898999,0,0.005898999,0
+IM 332,749,0.3,right,VTA,VTA,WT,mPFF,M,pSyn,0.010839747,0.002033805,0.008805942,0
+IM 335,749,0.3,right,VTA,VTA,WT,mPFF,F,pSyn,0.175204167,0.149900654,0.025303512,18.76347942
+IM 339,749,0.3,right,VTA,VTA,WT,mPFF,M,pSyn,0.057512617,0.034245849,0.023266768,3.726940477
+IM 342,749,0.3,right,VTA,VTA,WT,mPFF,F,pSyn,0.127923419,0.084973371,0.042950048,13.29444999
+IM 332,560581559,0.3,right,Xi,Xi,WT,mPFF,M,pSyn,0,0,0,0
+IM 335,560581559,0.3,right,Xi,Xi,WT,mPFF,F,pSyn,0.006143408,0,0.006143408,0
+IM 339,560581559,0.3,right,Xi,Xi,WT,mPFF,M,pSyn,0.000306701,0,0.000306701,0
+IM 342,560581559,0.3,right,Xi,Xi,WT,mPFF,F,pSyn,0.002591403,0,0.002591403,0
+IM 332,797,0.3,right,ZI,ZI,WT,mPFF,M,pSyn,0.000275616,0,0.000275616,0
+IM 335,797,0.3,right,ZI,ZI,WT,mPFF,F,pSyn,0.002765271,0,0.002765271,0
+IM 339,797,0.3,right,ZI,ZI,WT,mPFF,M,pSyn,0.005895994,0.002515217,0.003380777,0.855539858
+IM 342,797,0.3,right,ZI,ZI,WT,mPFF,F,pSyn,0.004211807,0,0.004211807,0
