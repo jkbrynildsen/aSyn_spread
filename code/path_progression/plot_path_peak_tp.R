@@ -88,3 +88,9 @@ t <- ggplot(summary_data, aes(x = mpi, y = mean, color = peak_tp, group = peak_t
 t
 ggsave(t,filename = paste0(savedir,measure,'_mean_log_regional_path_peak.pdf'),
        units = 'cm',height = 3.75,width = 6,useDingbats=FALSE) # used width = 6.5 with legend
+
+# write out .csv containing plotting data (mean and std error for the group of regions peaking at each time point)
+summary_data_csv <- summary_data %>%
+  dplyr::rename(mean_regional_path = mean,
+                se_regional_path = se)
+write.table(summary_data_csv, paste0(savedir, '2D_regions_by_peak_tp.csv'), sep=',', row.names = FALSE, col.names = TRUE)
