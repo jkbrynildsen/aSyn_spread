@@ -5,6 +5,14 @@ Code to reproduce network analyses and pathology progression plots in Vatsa, Bry
 ## Requirements:
   - Tested with R version 4.4.1 (2024-06-14)
     - Requisite packages are listed in code/packages.R
+   
+## Data availability
+
+The data/ directory contains all pathology datasets required to reproduce the analyses in this manuscript. The PANGEA gene expression dataset is too large to distribute through this GitHub repository and should be downloaded separately from its Zenodo archive:
+
+### PANGEA data: https://zenodo.org/records/20671427
+
+After downloading, place the Pangea_data2.csv file in the data/ directory. The code assumes that all pathology datasets and the PANGEA .csv are located within this directory.
 
 ## Tutorial
 
